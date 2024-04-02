@@ -1,5 +1,5 @@
 
-<h1>Fundamentos de Diseño Grupo 6</h1>
+<h1>Fundamentos de Diseño Grupo 5</h1>
 
 
 <h1>Integrantes</h1>
