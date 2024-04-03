@@ -1,2 +1,3 @@
 <h1>1. Nosotros</h1>
-<p>Participantes y roles</p>
+<h2>Participantes y roles</h2>
+<p>¡Bienvenidos! A continuación, presentaremos nuestros roles y quienes somos:</p>
