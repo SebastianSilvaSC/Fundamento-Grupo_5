@@ -6,3 +6,4 @@
 
 ![](https://github.com/Kato7w7/Fundamento-Grupo_5/blob/main/FdD/Imagenes/Ciara.jpg)
 ![](https://github.com/Kato7w7/Fundamento-Grupo_5/blob/main/FdD/Imagenes/Camilo.jpg)
+![](https://github.com/Kato7w7/Fundamento-Grupo_5/blob/main/FdD/Imagenes/Jhoan.jpg)
