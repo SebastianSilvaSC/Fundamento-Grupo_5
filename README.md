@@ -4,8 +4,10 @@
 
 <h1>Integrantes</h1>
 <ol>
-  <li>A</li>
-  <li>A</li>
+  <li>Camilo Sebastian Silva - Coordinador de electronica e  investigación 
   <li>Ciara Mendez Cruz - Coordinadora de página web y redacción</li>
+  <li>Jhoan Saul Enciso - Coordinador de programación</li>
+  <li>Luz Clarita Vasco - Coordinadora de modelado 3D y Boceto</li>
+  <li>Camila Vannesa Pacora - Coordinadora General de Equipo y Coordinación</li>
 </ol>
 <h1>Problematica</h1>
