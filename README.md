@@ -11,6 +11,6 @@
   <li>Camilla Vanessa Pacora - Coordinadora General de Equipo y Coordinación</li>
 </ol>
 
-![](https://github.com/Kato7w7/Fundamento-Grupo_5/blob/main/FdD/Imagenes/GRUPO.jpg)
+![](https://github.com/Kato7w7/Fundamento-Grupo_5/blob/main/FdD/Imagenes/GRUPO.jpeg)
 
 <h1>Problematica</h1>
