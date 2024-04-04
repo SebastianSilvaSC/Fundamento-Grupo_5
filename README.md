@@ -2,7 +2,6 @@
 <h1>Fundamentos de Diseño Grupo 5</h1>
 <h1>Problemática</h1>
 
-<p>Hola</p>
 <h2>ODS 14</h2>
 <p>Los océanos son intrínsecos a nuestra vida en la Tierra. Cubren tres cuartas partes de la superficie terrestre, contienen el 97 % del agua de la Tierra y representan el 99 % del espacio vital del planeta por volumen.
 La contaminación marina está alcanzando niveles extremos. Más de 17 millones de toneladas métricas contaminaban el océano en 2021. Se calcula que cada año llegan a los mares y océanos entre 5 y 12 millones de toneladas métricas de plástico.
