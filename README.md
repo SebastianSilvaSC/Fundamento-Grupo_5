@@ -8,6 +8,6 @@
   <li>Ciara Mendez Cruz - Coordinadora de página web y redacción</li>
   <li>Jhoan Saul Enciso - Coordinador de programación</li>
   <li>Luz Clarita Vasco - Coordinadora de modelado 3D y Boceto</li>
-  <li>Camilla Vannesa Pacora - Coordinadora General de Equipo y Coordinación</li>
+  <li>Camilla Vanessa Pacora - Coordinadora General de Equipo y Coordinación</li>
 </ol>
 <h1>Problematica</h1>
