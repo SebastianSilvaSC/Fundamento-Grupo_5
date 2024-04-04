@@ -10,4 +10,7 @@
   <li>Luz Clarita Vasco - Coordinadora de modelado 3D y Boceto</li>
   <li>Camilla Vanessa Pacora - Coordinadora General de Equipo y Coordinación</li>
 </ol>
+
+![](https://github.com/Kato7w7/Fundamento-Grupo_5/blob/main/FdD/Imagenes/GRUPO.jpg)
+
 <h1>Problematica</h1>
