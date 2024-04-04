@@ -2,7 +2,7 @@
 <h1>Fundamentos de Diseño Grupo 5</h1>
 <h1>Problemática</h1>
 
-#A
+<p>Hola</p>
 
 
 ![](https://github.com/Kato7w7/Fundamento-Grupo_5/blob/main/FdD/Imagenes/ODS.jpg)
