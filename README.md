@@ -23,10 +23,10 @@ Esta ODs, la número 6 fue escogida por el grupo ya que el agua es un elemento f
 
 # Integrantes
   1. Camilo Sebastian Silva - Coordinador de electronica e  investigación 
-  2. Ciara Mendez Cruz - Coordinadora de página web y redacción</li>
-  3. Jhoan Saul Enciso - Coordinador de programación</li>
-  4. Luz Clarita Vasco - Coordinadora de modelado 3D y Boceto</li>
-  5. Camilla Vanessa Pacora - Coordinadora General de Equipo y Coordinación</li>
+  2. Ciara Mendez Cruz - Coordinadora de página web y redacción
+  3. Jhoan Saul Enciso - Coordinador de programación
+  4. Luz Clarita Vasco - Coordinadora de modelado 3D y Boceto
+  5. Camilla Vanessa Pacora - Coordinadora General de Equipo y Coordinación
 
 
 ![](https://github.com/Kato7w7/Fundamento-Grupo_5/blob/main/FdD/Imagenes/GRUPO.jpeg)
