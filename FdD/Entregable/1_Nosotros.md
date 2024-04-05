@@ -1,6 +1,6 @@
 ![](https://github.com/Kato7w7/Fundamento-Grupo_5/blob/main/FdD/Imagenes/Presentación.jpg)
 
-# 1. Nosotros</h1>
+# 1. Nosotros
 ## Participantes y roles
 ¡Bienvenidos! A continuación, presentaremos nuestros roles y quienes somos:
 
