@@ -1,4 +1,4 @@
-![Presentación](https://github.com/Kato7w7/Fundamento-Grupo_5/blob/main/FdD/Imagenes/Presentación.jpg)
+![Presentación](https://github.com/Kato7w7/Fundamento-Grupo_5/blob/main/FdD/Imagenes/1_Sobre_nosotros/Presentación.jpg)
 
 # 1. Nosotros
 ## Participantes y roles
