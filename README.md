@@ -13,7 +13,15 @@ Esta ODs, la número 6 fue escogida por el grupo ya que el agua es un elemento f
 
 
 
+<<<<<<< HEAD
 ![](https://github.com/Kato7w7/Fundamento-Grupo_5/blob/main/FdD/Imagenes/3_inicio/ODS.jpg)
+=======
+
+
+
+
+![](https://github.com/Kato7w7/Fundamento-Grupo_5/blob/main/FdD/Imagenes/3_Inicio/ODS.jpg)
+>>>>>>> 5f0a54b5b020ebe9e754c9b14ae2301fc95316ba
 
 
 # Integrantes
