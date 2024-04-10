@@ -3,6 +3,7 @@
 # MAPA DE EMPATÍA
 ![](https://github.com/SebastianSilvaSC/Fundamento-Grupo_5/blob/main/FdD/Imagenes/4_Problematica/mapa_empatía.jpg)
 # MAPA DE ISHIKAWA
+![](https://github.com/SebastianSilvaSC/Fundamento-Grupo_5/blob/main/FdD/Imagenes/4_Problematica/mapa_ishikawa.jpg)
 # BIBLIOGRAFÍA
 
 # FUENTES DEL MAPA DE VIAJE
