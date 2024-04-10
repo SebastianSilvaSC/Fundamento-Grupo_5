@@ -1,13 +1,13 @@
-![Presentación](https://github.com/Kato7w7/Fundamento-Grupo_5/blob/main/FdD/Imagenes/1_Sobre_nosotros/Presentación.jpg)
+![Presentación]([https://github.com/Kato7w7/Fundamento-Grupo_5/blob/main/FdD/Imagenes/1_Sobre_nosotros/Presentación.jpg](https://github.com/SebastianSilvaSC/Fundamento-Grupo_5/blob/main/Proyecto/Imagenes/A_Presentación.jpg))
 
 # 1. Nosotros
 ## Participantes y roles
 ¡Bienvenidos! A continuación, presentaremos nuestros roles y quienes somos:
 
 
-![Camilla](https://github.com/Kato7w7/Fundamento-Grupo_5/blob/main/FdD/Imagenes/1_Sobre_nosotros/camilla.jpg)
-![Ciara](https://github.com/Kato7w7/Fundamento-Grupo_5/blob/main/FdD/Imagenes/1_Sobre_nosotros/Ciara.jpg)
-![Camilo](https://github.com/Kato7w7/Fundamento-Grupo_5/blob/main/FdD/Imagenes/1_Sobre_nosotros/Camilo.jpg)
-![Luz](https://github.com/Kato7w7/Fundamento-Grupo_5/blob/main/FdD/Imagenes/1_Sobre_nosotros/luz.jpg)
-![Jhoan](https://github.com/Kato7w7/Fundamento-Grupo_5/blob/main/FdD/Imagenes/1_Sobre_nosotros/Jhoan.jpg)
+![Camilla](https://github.com/SebastianSilvaSC/Fundamento-Grupo_5/blob/main/Proyecto/Imagenes/A_camilla.jpg)
+![Ciara](https://github.com/SebastianSilvaSC/Fundamento-Grupo_5/blob/main/Proyecto/Imagenes/A_Ciara.jpg)
+![Camilo](https://github.com/SebastianSilvaSC/Fundamento-Grupo_5/blob/main/Proyecto/Imagenes/A_Camilo.jpg)
+![Luz](https://github.com/SebastianSilvaSC/Fundamento-Grupo_5/blob/main/Proyecto/Imagenes/A_luz.jpg)
+![Jhoan](https://github.com/SebastianSilvaSC/Fundamento-Grupo_5/blob/main/Proyecto/Imagenes/A_Jhoan.jpg)
 
