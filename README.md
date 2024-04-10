@@ -1,7 +1,7 @@
 
 # Fundamentos de Diseño Grupo 5
 # Problemática
-
+## Explotación y contaminación marina por la actividad humana en el mar de Ancón.
 ## ODS 14
 Los océanos son intrínsecos a nuestra vida en la Tierra. Cubren tres cuartas partes de la superficie terrestre, contienen el 97 % del agua de la Tierra y representan el 99 % del espacio vital del planeta por volumen.La contaminación marina está alcanzando niveles extremos. Más de 17 millones de toneladas métricas contaminaban el océano en 2021.Se calcula que cada año llegan a los mares y océanos entre 5 y 12 millones de toneladas métricas de plástico.En la actualidad, el pH medio del océano es de 8,1, aproximadamente un 30 % más ácido que en la época preindustrial.
 
