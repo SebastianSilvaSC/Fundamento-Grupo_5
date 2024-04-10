@@ -9,3 +9,4 @@
 - Amador Lopez, A. J., & Vega Hinostroza, A. Y. (2022). Evaluación de presencia de petróleo en las especies lorna y conchas de abanico en el balneario de Ancón en Lima, Perú–2022.
 - Rodriguez Huaraz, J. C., & Torres Delgado, J. C. (2021). Evaluación de microplásticos presentes en la especie Trachurus picturatus murphyi “Jurel” obtenidas de la fauna marina de Ancón-2021.
 - Salazar Cespedes, C. M. (2018). Impacto ecosistémico de las artes de pesca artesanal peruana: propuestas de investigación tecnológicas y manejo pesquero.
+- Instituto del Mar del Perú. (2020). Evaluación del POI – PTI al IV Trimestre del 2008. IMARPE. [https://www.imarpe.gob.pe/imarpe/archivos/informes/eval_poipti_anual2016.pdf]
