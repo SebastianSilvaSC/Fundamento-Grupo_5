@@ -1,12 +1,12 @@
-# DEFINICIÓN DEL PROBLEMA
-# JOURNEY MAP
-# MAPA DE EMPATÍA
+# A) DEFINICIÓN DEL PROBLEMA
+# B) CUSTOMER JOURNEY MAP
+# C) MAPA DE EMPATÍA
 ![](https://github.com/SebastianSilvaSC/Fundamento-Grupo_5/blob/main/Proyecto/Imagenes/B_mapa_empatía.jpg)
-# MAPA DE ISHIKAWA
+# D) MAPA DE ISHIKAWA
 ![](https://github.com/SebastianSilvaSC/Fundamento-Grupo_5/blob/main/Proyecto/Imagenes/B_mapa_ishikawa.jpg)
-# BIBLIOGRAFÍA
+# E) BIBLIOGRAFÍA
 
-# FUENTES DEL MAPA DE VIAJE
+# Mapa del viaje del cliente
 
 - Blondet Cuba, D., & Plaza Salazar, A. (2022). Evaluación de los residuos sólidos encontrados en playas de la Costa Verde, Lima, Perú durante el invierno 2021. https://doi.org/10.21142/SS-0401-2023-e070
   
@@ -20,7 +20,7 @@
   
 - Lituma Vera, V. H. (2023). Plan de gestión para mitigar la contaminación marina por efectos del tráfico marítimo en el Golfo de Guayaquil. https://renati.sunedu.gob.pe/handle/sunedu/3408893
 
-# FUENTES DEL MAPA DE ISHIKAWA
+# Mapa de Ishikawa
 - Amador Lopez, A. J., & Vega Hinostroza, A. Y. (2022). Evaluación de presencia de petróleo en las especies lorna y conchas de abanico en el balneario de Ancón en Lima, Perú–2022.
   
 - Rodriguez Huaraz, J. C., & Torres Delgado, J. C. (2021). Evaluación de microplásticos presentes en la especie Trachurus picturatus murphyi “Jurel” obtenidas de la fauna marina de Ancón-2021.
