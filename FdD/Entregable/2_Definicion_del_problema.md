@@ -9,10 +9,15 @@
 # FUENTES DEL MAPA DE VIAJE
 
 - Blondet Cuba, D., & Plaza Salazar, A. (2022). Evaluación de los residuos sólidos encontrados en playas de la Costa Verde, Lima, Perú durante el invierno 2021. https://doi.org/10.21142/SS-0401-2023-e070
+  
 - Chirinos Ocampo, M. D. C. (2016). La insuficiencia de las sanciones penales contempladas en el Artículo 304 del CP sobre la Contaminación en la Fauna Marina ocasionada por las actividades productivas. Ilo 2015. https://renati.sunedu.gob.pe/handle/sunedu/2687230
+  
 - De-la-Torre, G. E., Dioses-Salinas, D. C., Pizarro-Ortega, C. I., López, A. D. F., Severini, M. D. F., Rimondino, G. N., ... & Ayala, F. (2023). Restos de plástico y pintura en áreas marinas protegidas del Perú. Science of The Total Environment, 901, 165788. https://doi.org/10.1016/j.scitotenv.2023.165788
+  
 - Deville, A., Vazquez-Rowe, I., Ita-Nagy, D., & Kahhat, R. (2023). Fuentes oceánicas de contaminación plástica: una visión general de las principales actividades marinas en la ZEE peruana. Marine Pollution Bulletin, 189, 114785. https://doi.org/10.1016/j.marpolbul.2023.114785
+  
 - Fernández-Ojeda, C., Muniz, M. C., Cardoso, R. P., Dos Anjos, R. M., Huaringa, E., Nakazaki, C., ... & Garcés-Ordóñez, O. (2021). Desechos plásticos y alimento natural en dos especies de peces de importancia comercial de la costa del Perú.. Marine Pollution Bulletin, 173, 113039. https://doi.org/10.1016/j.marpolbul.2021.113039
+  
 - Lituma Vera, V. H. (2023). Plan de gestión para mitigar la contaminación marina por efectos del tráfico marítimo en el Golfo de Guayaquil. https://renati.sunedu.gob.pe/handle/sunedu/3408893
 
 # FUENTES DEL MAPA DE ISHIKAWA
