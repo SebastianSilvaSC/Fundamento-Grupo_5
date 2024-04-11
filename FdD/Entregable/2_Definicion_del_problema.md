@@ -1,4 +1,21 @@
-# A) CONTEXTO ECONÓMICO
+# A)CONTEXTO SOCIAL
+## -Nivel Mundial: 
+Los niveles de plástico en los océanos es una preocupación hoy en día ya que por mucho tiempo se tiene entendido que ha alcanzado cantidad alarmante para la población en general. A lo largo del océano Pacífico, Atlántico e Índico se registraron grandes concentraciones de residuos de plástico, la actividad humana es el mayor contaminante para estas zonas ya sea por la pesca, turismo, navegación, entre otras. 
+Una de las causas principales a parte de la actividad humana que aportan al problema global es el cambio climático y la contaminación por basuras marinas (cualquier material manufacturado o procesado sólido y persistente, eliminado o abandonado en la costa o en el mar) (UNEP, 2015). Estos problemas degradan los procesos biológicos privándoles de continuar con sus funciones fisiológicas, el crecimiento y la supervivencia. 
+
+Gráfico 1: Demanda de plásticos en Europa en 2015, total y por sectores.
+![]()
+
+Nota: Se presentan datos donde se halla un valor promedio de plástico superior al 55%, esto explica lo fundamental que es el control de la deposición de plásticos en el contexto marino.
+## -Nivel Regional:
+A lo largo de los años se ha logrado detectar que la contaminación marina por desechos plásticos en los países del Pacífico del sur de América Latina (Perú, Colombia, Ecuador y Chile), se origina por la incorrecta gestión del final de la deposición de los desechos sólidos que tiene como dirección al Océano Pacífico.
+En Argentina existe un aproximado de 37 a 72% de plástico en basura en las playas, en el caso de México también existe un 60% de basura basada en plástica en las playas. Así como existe un 20% que el plástico proviene de la actividad marítima y el otro 80% se genera en la tierra.
+## -Nivel Nacional:
+En el Perú la vigencia de residuos contaminantes, tales como el plástico, se vio incrementado y reportado por los municipios afectados. Este problema, en el litoral peruano ha sido uno de los más perjudicados ya que el uso de este producto infringe en sus actividades pesqueras y acuícolas. En relación con el potencial de basura marina, representada en su mayoría por desechos plásticos, a inicios de los 90, se reportó que el Perú produce 1,695,425 toneladas por año a lo largo de la costa (CPPS).
+Tabla 2: Características morfológicas de las cuatro playas arenosas de la costa peruana.
+
+
+# B) CONTEXTO ECONÓMICO
 ## 1.CONTEXTO ECONÓMICO A NIVEL INTERNACIONAL
 La conservación marina se enfrenta a desafíos complejos debido a la presión humana sobre los ecosistemas marinos. Es necesario abordar las causas directas e indirectas de estos problemas con enfoques integrados que fomenten la gestión sostenible de recursos, reduzcan la contaminación y mitiguen el cambio climático. Esto es crucial para proteger la salud y resiliencia de los ecosistemas marinos a largo plazo.
 ## -Nivel Mundial: 
@@ -17,17 +34,17 @@ Brasil ha implementado políticas para reducir la contaminación por vertidos de
 En el Perú, se han aprobado proyectos importantes para combatir la contaminación marina. Uno de ellos es el Proyecto APROFERROL en Chimbote, que busca reducir la contaminación por efluentes pesqueros industriales mediante la construcción de un emisor submarino. En Lima y Callao, el Proyecto PTAR Taboada está en marcha para instalar un emisor submarino que vierta aguas residuales domésticas tratadas fuera de la bahía del Callao. Además, el IMARPE ha identificado áreas críticas de contaminación por aguas residuales en varias bahías, lo que destaca la importancia de abordar esta problemática de manera urgente. 
 
 
-# B) DEFINICIÓN DEL PROBLEMA
+# C) DEFINICIÓN DEL PROBLEMA
 El Mar Ancón ha sufrido durante miles de años la explotación y la contaminación marina causada por el plástico, los desechos de alimentos y el vidrio, matando a todos los animales. Es demasiado dañino ya que afecta gravemente a la vida marina y a todos los seres vivos de la Tierra, lo que a su vez puede provocar la muerte de los animales marinos.
 El derrame de petróleo es otra consecuencia fatal en el mar ya que envenena a toda especie marina y contamina el agua, esto puede llevar a la extinción de seres marinos.
 ![](https://github.com/SebastianSilvaSC/Fundamento-Grupo_5/blob/main/Proyecto/Imagenes/B_Derrame.jpg)
 ![](https://github.com/SebastianSilvaSC/Fundamento-Grupo_5/blob/main/Proyecto/Imagenes/B_Contaminación2.jpg)
 
-# C) MAPA DE VIAJE DEL CLIENTE
+# D) MAPA DE VIAJE DEL CLIENTE
 ![](https://github.com/SebastianSilvaSC/Fundamento-Grupo_5/blob/main/Proyecto/Imagenes/B_Mapa_viaje.jpg)
-# D) MAPA DE EMPATÍA
+# E) MAPA DE EMPATÍA
 ![](https://github.com/SebastianSilvaSC/Fundamento-Grupo_5/blob/main/Proyecto/Imagenes/B_mapa_empatíaa.jpg)
-# E) DIAGRAMA DE ISHIKAWA
+# F) DIAGRAMA DE ISHIKAWA
 ![](https://github.com/SebastianSilvaSC/Fundamento-Grupo_5/blob/main/Proyecto/Imagenes/B_mapa_ishikawa.jpg)
 
 
