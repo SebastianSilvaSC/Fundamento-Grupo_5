@@ -25,7 +25,7 @@ Los océanos han sufrido a manos del hombre durante miles de años, la contamina
 # C) MAPA DE VIAJE DEL CLIENTE
 ![](https://github.com/SebastianSilvaSC/Fundamento-Grupo_5/blob/main/Proyecto/Imagenes/B_Mapa_viaje.jpg)
 # D) MAPA DE EMPATÍA
-![](https://github.com/SebastianSilvaSC/Fundamento-Grupo_5/blob/main/Proyecto/Imagenes/B_mapa_empatía.jpg)
+![](https://github.com/SebastianSilvaSC/Fundamento-Grupo_5/blob/main/Proyecto/Imagenes/B_mapa_empatíaa.jpg)
 # E) DIAGRAMA DE ISHIKAWA
 ![](https://github.com/SebastianSilvaSC/Fundamento-Grupo_5/blob/main/Proyecto/Imagenes/B_mapa_ishikawa.jpg)
 
