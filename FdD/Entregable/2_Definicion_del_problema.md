@@ -18,7 +18,8 @@ En el Perú, se han aprobado proyectos importantes para combatir la contaminaci�
 
 
 # B) DEFINICIÓN DEL PROBLEMA
-Los océanos han sufrido a manos del hombre durante miles de años, la contaminación que provoca el ser humano es el plástico, los desechos de comida, los vidrios que llega a matar a todos los animales  es demasiado perjudicial,  ya que afecta bastante a la vida marina y a todo ser viviente de la tierra, y esto a la vez puede perjudicar muerte en los animales marinos . El derrame de petróleo es otra consecuencia fatal en el mar ya que envenena  a toda especie marina y contamina el agua, esto puede llevar a la extinción de seres marinos.
+El Mar Ancón ha sufrido durante miles de años la explotación y la contaminación marina causada por el plástico, los desechos de alimentos y el vidrio, matando a todos los animales. Es demasiado dañino ya que afecta gravemente a la vida marina y a todos los seres vivos de la Tierra, lo que a su vez puede provocar la muerte de los animales marinos.
+El derrame de petróleo es otra consecuencia fatal en el mar ya que envenena a toda especie marina y contamina el agua, esto puede llevar a la extinción de seres marinos.
 ![](https://github.com/SebastianSilvaSC/Fundamento-Grupo_5/blob/main/Proyecto/Imagenes/B_Derrame.jpg)
 ![](https://github.com/SebastianSilvaSC/Fundamento-Grupo_5/blob/main/Proyecto/Imagenes/B_Contaminación2.jpg)
 
