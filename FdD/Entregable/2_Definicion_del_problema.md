@@ -18,22 +18,14 @@ En el Perú, se han aprobado proyectos importantes para combatir la contaminaci�
 
 
 # B) DEFINICIÓN DEL PROBLEMA
-DEFINICION BREVE DEL PROBLEMA
 Los océanos han sufrido a manos del hombre durante miles de años, la contaminación que provoca el ser humano es el plástico, los desechos de comida, los vidrios que llega a matar a todos los animales  es demasiado perjudicial,  ya que afecta bastante a la vida marina y a todo ser viviente de la tierra, y esto a la vez puede perjudicar muerte en los animales marinos . El derrame de petróleo es otra consecuencia fatal en el mar ya que envenena  a toda especie marina y contamina el agua, esto puede llevar a la extinción de seres marinos.
 
-![]()
 
-PROPUESTA DE SOLUCION:
- Nuestra propuesta de solucion implica el mejoramiento de los dispositivos de IA en la vida marina, indicando cuales son las problemáticas  que  pueda mejorar la calidez del aire, y poder ayudar a disminuir las alteraciones del cambio climático y la extinción de todos los animales marinos,  ya que esta siendo amenazada por el ser humano y el derrame de petróleo de Repsol, este dispositivo ayudara a proporcionar información real sobre las condiciones que esta viviendo el medio ambiente y los seres vivos, aplicaremos también el monitoreo de  estos parámetros  que abarcaran  códigos, que ejecutaremos en camaritas chiquitas , solo dos colores el rojo (negativo) y el azul (positivo) esto ayudara a diferenciar a la persona que esta contaminando y a la que no esta contaminando, esto nos puede  estar facilitando en el mejoramiento de la vida marina y el medio ambiente, eso será el propósito de esta aplicación en la vida marina del mar de Ancón.
-
-
-
-# C) CUSTOMER JOURNEY MAP
-# D) MAPA DE VIAJE DEL CLIENTE
+# C) MAPA DE VIAJE DEL CLIENTE
 ![](https://github.com/SebastianSilvaSC/Fundamento-Grupo_5/blob/main/Proyecto/Imagenes/B_Mapa_viaje.jpg)
-# E) MAPA DE EMPATÍA
+# D) MAPA DE EMPATÍA
 ![](https://github.com/SebastianSilvaSC/Fundamento-Grupo_5/blob/main/Proyecto/Imagenes/B_mapa_empatía.jpg)
-# F) DIAGRAMA DE ISHIKAWA
+# E) DIAGRAMA DE ISHIKAWA
 ![](https://github.com/SebastianSilvaSC/Fundamento-Grupo_5/blob/main/Proyecto/Imagenes/B_mapa_ishikawa.jpg)
 
 
