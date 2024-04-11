@@ -6,7 +6,8 @@ Proteger las poblaciones de peces y la biodiversidad marina.
 Se calcula que en todo el mundo unos 35 mil millones de dólares de subvenciones públicas se destinan a actividades pesqueras.
 Del mismo modo, el informe pide a los gobiernos que adopten y ratifiquen el acuerdo sobre biodiversidad marina fuera de las jurisdicciones nacionales, pacto el 4 de marzo de 2023. Mejor conocido como el "Tratado de Biodiversidad en Alta Mar", el acuerdo creará herramientas para el reparto justo y equitativo de los beneficios de los recursos genéticos marinos y establecerá zonas protegidas internacionalmente en nuestro océano.
 
-![]()
+![](https://github.com/SebastianSilvaSC/Fundamento-Grupo_5/blob/main/Proyecto/Imagenes/B_Derrame.jpg)
+![](https://github.com/SebastianSilvaSC/Fundamento-Grupo_5/blob/main/Proyecto/Imagenes/B_Contaminación2.jpg)
 
 ## -Nivel Regional:
 Chile ha implementado iniciativas para reducir la contaminación por plásticos, como la prohibición de bolsas plásticas en ciudades costeras y la promoción de la economía circular en el manejo de residuos. También ha establecido áreas marinas protegidas para conservar la biodiversidad marina.
