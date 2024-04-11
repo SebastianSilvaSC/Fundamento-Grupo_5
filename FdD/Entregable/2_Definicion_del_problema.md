@@ -1,10 +1,12 @@
 # A) DEFINICIÓN DEL PROBLEMA
 # B) CUSTOMER JOURNEY MAP
-# C) MAPA DE EMPATÍA
+# C) MAPA DE VIAJE
+![](https://github.com/SebastianSilvaSC/Fundamento-Grupo_5/blob/main/Proyecto/Imagenes/B_Mapa_viaje.jpg)
+# D) MAPA DE EMPATÍA
 ![](https://github.com/SebastianSilvaSC/Fundamento-Grupo_5/blob/main/Proyecto/Imagenes/B_mapa_empatía.jpg)
-# D) MAPA DE ISHIKAWA
+# E) MAPA DE ISHIKAWA
 ![](https://github.com/SebastianSilvaSC/Fundamento-Grupo_5/blob/main/Proyecto/Imagenes/B_mapa_ishikawa.jpg)
-# E) BIBLIOGRAFÍA
+# F) BIBLIOGRAFÍA
 
 # Mapa del viaje del cliente
 
