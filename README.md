@@ -19,11 +19,7 @@ Esta ODs, la número 6 fue escogida por el grupo ya que el agua es un elemento f
 
 ![](https://github.com/SebastianSilvaSC/Fundamento-Grupo_5/blob/main/Proyecto/Imagenes/1_ODS.jpg)
 
-
-
-
-
-
+Figura 1 Dos de las 17 ODS como Agenda 2030: ODS 6 y 14 según la ONU 
 
 # Integrantes
   1. Camilo Sebastian Silva - Coordinador de electronica y manufactura digital
@@ -34,5 +30,14 @@ Esta ODs, la número 6 fue escogida por el grupo ya que el agua es un elemento f
 
 
 ![](https://github.com/Kato7w7/Fundamento-Grupo_5/blob/main/FdD/Imagenes/1_Sobre_nosotros/GRUPO.jpeg)
+
+# Referencias
+- Moran, M. (2024). Océanos - Desarrollo Sostenible. Desarrollo Sostenible. https://www.un.org/sustainabledevelopment/es/oceans/
+  
+- Moran, M. (2024). Agua y saneamiento - Desarrollo Sostenible. Desarrollo Sostenible. https://www.un.org/sustainabledevelopment/es/water-and-sanitation/
+
+‌
+
+‌
 
 
