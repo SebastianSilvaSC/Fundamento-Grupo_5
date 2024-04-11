@@ -5,7 +5,7 @@
 ## A) ODS 14
 Los océanos son intrínsecos a nuestra vida en la Tierra. Cubren tres cuartas partes de la superficie terrestre, contienen el 97 % del agua de la Tierra y representan el [99 % del espacio vital del planeta](https://www.un.org/sustainabledevelopment/es/oceans/) por volumen.
 
-La contaminación marina está alcanzando niveles extremos. Más de 17 millones de toneladas métricas contaminaban el océano en 2021.Se calcula que cada año llegan a los mares y océanos entre [5 y 12 millones de toneladas métricas de plástico.] (https://www.un.org/sustainabledevelopment/es/oceans/)En la actualidad, el pH medio del océano es de 8,1, aproximadamente un [30 % más ácido](https://www.un.org/sustainabledevelopment/es/oceans/) que en la época preindustrial.
+La contaminación marina está alcanzando niveles extremos. Más de 17 millones de toneladas métricas contaminaban el océano en 2021.Se calcula que cada año llegan a los mares y océanos entre [5 y 12 millones de toneladas métricas de plástico.](https://www.un.org/sustainabledevelopment/es/oceans/) En la actualidad, el pH medio del océano es de 8,1, aproximadamente un [30 % más ácido](https://www.un.org/sustainabledevelopment/es/oceans/) que en la época preindustrial.
 
 Elegimos la ODS 14 porque los océanos son el soporte vital de nuestro planeta y regulan el sistema climático mundial. Constituyen el mayor ecosistema del mundo.
 Los océanos y la pesca siguen cubriendo las necesidades económicas, sociales y medioambientales de la población mundial.
