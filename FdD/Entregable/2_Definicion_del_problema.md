@@ -13,8 +13,9 @@ Una de las causas principales a parte de la actividad humana que aportan al prob
 Nota: En el año 2015, Europa alcanzó 49 millones de toneladas como aumento de producción, esto representa un casi 40% del sector de envase y un 20% en el sector de construcción.
 Aunque los plásticos solo existen desde hace un siglo (Gorman, 1993), este material es uno de los más abundantes y por lo tanto representa aproximadamente 80% del total de desechos marinos en el planeta tierra.
 
-
 - Tabla 1: Proporción de plásticos (por número de objetos recogidos
+
+  
 ![](https://github.com/SebastianSilvaSC/Fundamento-Grupo_5/blob/main/Proyecto/Imagenes/B_tabla.png)
 
 - Fuentes: Hong y col.,(2014)
