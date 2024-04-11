@@ -2,16 +2,22 @@
 ## -Nivel Mundial: 
 Los niveles de plástico en los océanos es una preocupación hoy en día ya que por mucho tiempo se tiene entendido que ha alcanzado cantidad alarmante para la población en general. A lo largo del océano Pacífico, Atlántico e Índico se registraron grandes concentraciones de residuos de plástico, la actividad humana es el mayor contaminante para estas zonas ya sea por la pesca, turismo, navegación, entre otras. 
 Una de las causas principales a parte de la actividad humana que aportan al problema global es el cambio climático y la contaminación por basuras marinas (cualquier material manufacturado o procesado sólido y persistente, eliminado o abandonado en la costa o en el mar) (UNEP, 2015). Estos problemas degradan los procesos biológicos privándoles de continuar con sus funciones fisiológicas, el crecimiento y la supervivencia. 
+- Gráfico 1: Demanda de plásticos en Europa en 2015, total y por sectores.
 
-Gráfico 1: Demanda de plásticos en Europa en 2015, total y por sectores.
+
 ![](https://github.com/SebastianSilvaSC/Fundamento-Grupo_5/blob/main/Proyecto/Imagenes/B_tabla1.png)
-Fuentes: Rojo-Nieto,E.,Montoto, T.(2017), basado en PlasticsEurope(2016)
+
+
+- Fuentes: Rojo-Nieto,E.,Montoto, T.(2017), basado en PlasticsEurope(2016)
 
 Nota: En el año 2015, Europa alcanzó 49 millones de toneladas como aumento de producción, esto representa un casi 40% del sector de envase y un 20% en el sector de construcción.
 Aunque los plásticos solo existen desde hace un siglo (Gorman, 1993), este material es uno de los más abundantes y por lo tanto representa aproximadamente 80% del total de desechos marinos en el planeta tierra.
 
+
+- Tabla 1: Proporción de plásticos (por número de objetos recogidos
 ![](https://github.com/SebastianSilvaSC/Fundamento-Grupo_5/blob/main/Proyecto/Imagenes/B_tabla.png)
-Fuentes: Hong y col.,(2014)
+
+- Fuentes: Hong y col.,(2014)
 
 
 Nota: Se presentan datos donde se halla un valor promedio de plástico superior al 55%, esto explica lo fundamental que es el control de la deposición de plásticos en el contexto marino.
