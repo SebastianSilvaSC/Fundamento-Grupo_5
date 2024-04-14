@@ -18,7 +18,7 @@ Aunque los plásticos solo existen desde hace un siglo (Gorman, 1993), este mate
 
 <p align="center"><img src="https://github.com/SebastianSilvaSC/Fundamento-Grupo_5/blob/main/Proyecto/Imagenes/B_tabla.png" width="620px"></p>
 
-<p align="center">Fuentes: Hong y col.,(2014)</p>
+<p align="center">Fuentes: Hong y col.(2014)</p>
 
 
 Nota: Se presentan datos donde se halla un valor promedio de plástico superior al 55%, esto explica lo fundamental que es el control de la deposición de plásticos en el contexto marino.
