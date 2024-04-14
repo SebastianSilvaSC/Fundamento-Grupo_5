@@ -62,7 +62,7 @@ Los pecadores y los comerciantes son los mas perjudicados, ya que pierde mucho  
 
 <p align="center"><img src="https://github.com/SebastianSilvaSC/Fundamento-Grupo_5/blob/main/Proyecto/Imagenes/B_Contaminación2.jpg" width="600px"></p>
 
-
+<p align="center">Ancón: playas terminaron repletas de basura tras visita de bañistas por Año Nuevo-La República</p>
 
 # D) MAPA DE VIAJE DEL CLIENTE
 ![](https://github.com/SebastianSilvaSC/Fundamento-Grupo_5/blob/main/Proyecto/Imagenes/B_Mapa_viaje.jpg)
