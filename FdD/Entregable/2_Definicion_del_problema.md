@@ -5,20 +5,20 @@ Una de las causas principales a parte de la actividad humana que aportan al prob
 - Gráfico 1: Demanda de plásticos en Europa en 2015, total y por sectores.
 
 
-![](https://github.com/SebastianSilvaSC/Fundamento-Grupo_5/blob/main/Proyecto/Imagenes/B_tabla1.png)
+<p align="center"><img src ="https://github.com/SebastianSilvaSC/Fundamento-Grupo_5/blob/main/Proyecto/Imagenes/B_tabla1.png" width="480px"></p>
 
 
-- Fuentes: Rojo-Nieto,E.,Montoto, T.(2017), basado en PlasticsEurope(2016)
+<p align="center">Fuentes: Rojo-Nieto,E.,Montoto, T.(2017), basado en PlasticsEurope(2016)</p>
+
 
 Nota: En el año 2015, Europa alcanzó 49 millones de toneladas como aumento de producción, esto representa un casi 40% del sector de envase y un 20% en el sector de construcción.
 Aunque los plásticos solo existen desde hace un siglo (Gorman, 1993), este material es uno de los más abundantes y por lo tanto representa aproximadamente 80% del total de desechos marinos en el planeta tierra.
 
 - Tabla 1: Proporción de plásticos (por número de objetos recogidos
 
-  
-![](https://github.com/SebastianSilvaSC/Fundamento-Grupo_5/blob/main/Proyecto/Imagenes/B_tabla.png)
+<p align="center"><img src="https://github.com/SebastianSilvaSC/Fundamento-Grupo_5/blob/main/Proyecto/Imagenes/B_tabla.png" width="620px"></p>
 
-- Fuentes: Hong y col.,(2014)
+<p align="center">Fuentes: Hong y col.,(2014)</p>
 
 
 Nota: Se presentan datos donde se halla un valor promedio de plástico superior al 55%, esto explica lo fundamental que es el control de la deposición de plásticos en el contexto marino.
@@ -38,7 +38,8 @@ Proteger las poblaciones de peces y la biodiversidad marina.
 Se calcula que en todo el mundo unos 35 mil millones de dólares de subvenciones públicas se destinan a actividades pesqueras.
 Del mismo modo, el informe pide a los gobiernos que adopten y ratifiquen el acuerdo sobre biodiversidad marina fuera de las jurisdicciones nacionales, pacto el 4 de marzo de 2023. Mejor conocido como el "Tratado de Biodiversidad en Alta Mar", el acuerdo creará herramientas para el reparto justo y equitativo de los beneficios de los recursos genéticos marinos y establecerá zonas protegidas internacionalmente en nuestro océano.
 
-![](https://github.com/SebastianSilvaSC/Fundamento-Grupo_5/blob/main/Proyecto/Imagenes/B_UNCTAD.jpg)
+<p align="center"><img src="https://github.com/SebastianSilvaSC/Fundamento-Grupo_5/blob/main/Proyecto/Imagenes/B_UNCTAD.jpg" width="620px"></p>
+
 
 ## -Nivel Regional:
 Chile ha implementado iniciativas para reducir la contaminación por plásticos, como la prohibición de bolsas plásticas en ciudades costeras y la promoción de la economía circular en el manejo de residuos. También ha establecido áreas marinas protegidas para conservar la biodiversidad marina.
@@ -53,8 +54,15 @@ En el Perú, se han aprobado proyectos importantes para combatir la contaminaci�
 El Mar Ancón ha sufrido durante miles de años de explotación y contaminación marina, causada por el mismo hombre, matando a todos los especies marinos. Tanto es el daño que nos puede afectar a nosotros mismos provocandonos la muerte.
 El derrame de petróleo, es otra consecuencia fatal en el mar, ya que envenena a toda especie marina y contamina el agua, esto puede llevar a la extinción de seres marinos
 Los pecadores y los comerciantes son los mas perjudicados, ya que pierde mucho  economicamente a consecuencia  del daño ecológico que se ha extinguido la pesca costera.
-![](https://github.com/SebastianSilvaSC/Fundamento-Grupo_5/blob/main/Proyecto/Imagenes/B_Derrame.jpg)
-![](https://github.com/SebastianSilvaSC/Fundamento-Grupo_5/blob/main/Proyecto/Imagenes/B_Contaminación2.jpg)
+
+
+<p align="center"><img src="https://github.com/SebastianSilvaSC/Fundamento-Grupo_5/blob/main/Proyecto/Imagenes/B_Derrame.jpg" width="600px"></p>
+
+<p align="center">Fuente: Por Stakeholders(2023)</p>
+
+<p align="center"><img src="https://github.com/SebastianSilvaSC/Fundamento-Grupo_5/blob/main/Proyecto/Imagenes/B_Contaminación2.jpg" width="600px"></p>
+
+
 
 # D) MAPA DE VIAJE DEL CLIENTE
 ![](https://github.com/SebastianSilvaSC/Fundamento-Grupo_5/blob/main/Proyecto/Imagenes/B_Mapa_viaje.jpg)
