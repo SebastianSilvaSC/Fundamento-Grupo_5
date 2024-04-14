@@ -50,8 +50,9 @@ En el Perú, se han aprobado proyectos importantes para combatir la contaminaci�
 
 
 # C) DEFINICIÓN DEL PROBLEMA
-El Mar Ancón ha sufrido durante miles de años la explotación y la contaminación marina causada por el plástico, los desechos de alimentos y el vidrio, matando a todos los animales. Es demasiado dañino ya que afecta gravemente a la vida marina y a todos los seres vivos de la Tierra, lo que a su vez puede provocar la muerte de los animales marinos.
-El derrame de petróleo es otra consecuencia fatal en el mar ya que envenena a toda especie marina y contamina el agua, esto puede llevar a la extinción de seres marinos.
+El Mar Ancón ha sufrido durante miles de años de explotación y contaminación marina, causada por el mismo hombre, matando a todos los especies marinos. Tanto es el daño que nos puede afectar a nosotros mismos provocandonos la muerte.
+El derrame de petróleo, es otra consecuencia fatal en el mar, ya que envenena a toda especie marina y contamina el agua, esto puede llevar a la extinción de seres marinos
+Los pecadores y los comerciantes son los mas perjudicados, ya que pierde mucho  economicamente a consecuencia  del daño ecológico que se ha extinguido la pesca costera.
 ![](https://github.com/SebastianSilvaSC/Fundamento-Grupo_5/blob/main/Proyecto/Imagenes/B_Derrame.jpg)
 ![](https://github.com/SebastianSilvaSC/Fundamento-Grupo_5/blob/main/Proyecto/Imagenes/B_Contaminación2.jpg)
 
