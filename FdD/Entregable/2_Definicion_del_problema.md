@@ -1,7 +1,8 @@
 # A)CONTEXTO SOCIAL
 ## -Nivel Mundial: 
-Los niveles de plástico en los océanos es una preocupación hoy en día ya que por mucho tiempo se tiene entendido que ha alcanzado cantidad alarmante para la población en general. A lo largo del océano Pacífico, Atlántico e Índico se registraron grandes concentraciones de residuos de plástico, la actividad humana es el mayor contaminante para estas zonas ya sea por la pesca, turismo, navegación, entre otras. 
+Los niveles de plástico en los océanos es una preocupación hoy en día ya que por mucho tiempo se tiene entendido que ha alcanzado cantidad alarmante para la población en general. A lo largo del océano Pacífico, Atlántico e Índico se registraron grandes concentraciones de residuos de plástico, la actividad humana es el mayor contaminante para estas zonas ya sea por la pesca, turismo, navegación, entre otras (Rojo-Nieto, E., Montoto, T. (2017).
 Una de las causas principales a parte de la actividad humana que aportan al problema global es el cambio climático y la contaminación por basuras marinas (cualquier material manufacturado o procesado sólido y persistente, eliminado o abandonado en la costa o en el mar) (UNEP, 2015). Estos problemas degradan los procesos biológicos privándoles de continuar con sus funciones fisiológicas, el crecimiento y la supervivencia. 
+
 - Gráfico 1: Demanda de plásticos en Europa en 2015, total y por sectores.
 
 
@@ -12,7 +13,7 @@ Una de las causas principales a parte de la actividad humana que aportan al prob
 
 
 Nota: En el año 2015, Europa alcanzó 49 millones de toneladas como aumento de producción, esto representa un casi 40% del sector de envase y un 20% en el sector de construcción.
-Aunque los plásticos solo existen desde hace un siglo (Gorman, 1993), este material es uno de los más abundantes y por lo tanto representa aproximadamente 80% del total de desechos marinos en el planeta tierra.
+Aunque los plásticos solo existen desde hace un siglo (Gorman, 1993), este material es uno de los más abundantes y por lo tanto representa aproximadamente 80% del total de desechos marinos en el planeta tierra (Gregory y Ryan, 1997; Niaonakis, 2017 ; Sheavly y Register, 2007). 
 
 - Tabla 1: Proporción de plásticos (por número de objetos recogidos
 
@@ -23,11 +24,12 @@ Aunque los plásticos solo existen desde hace un siglo (Gorman, 1993), este mate
 
 Nota: Se presentan datos donde se halla un valor promedio de plástico superior al 55%, esto explica lo fundamental que es el control de la deposición de plásticos en el contexto marino.
 ## -Nivel Regional:
-A lo largo de los años se ha logrado detectar que la contaminación marina por desechos plásticos en los países del Pacífico del sur de América Latina (Perú, Colombia, Ecuador y Chile), se origina por la incorrecta gestión del final de la deposición de los desechos sólidos que tiene como dirección al Océano Pacífico.
-En Argentina existe un aproximado de 37 a 72% de plástico en basura en las playas, en el caso de México también existe un 60% de basura basada en plástica en las playas. Así como existe un 20% que el plástico proviene de la actividad marítima y el otro 80% se genera en la tierra.
+A lo largo de los años se ha logrado detectar que la contaminación marina por desechos plásticos en los países del Pacífico del sur de América Latina (Perú, Colombia, Ecuador y Chile), se origina por la incorrecta gestión del final de la deposición de los desechos sólidos que tiene como dirección al Océano Pacífico (Molina-Castro, R., Gomez-Ronquillo, W., Cruz-Lozado, J, 2021). 
+En Argentina existe un aproximado de 37 a 72% de plástico en basura en las playas, en el caso de México también existe un 60% de basura basada en plástica en las playas. Así como existe un 20% que el plástico proviene de la actividad marítima y el otro 80% se genera en la tierra (Pereiras, M. 2019)
+
 ## -Nivel Nacional:
-En el Perú la vigencia de residuos contaminantes, tales como el plástico, se vio incrementado y reportado por los municipios afectados. Este problema, en el litoral peruano ha sido uno de los más perjudicados ya que el uso de este producto infringe en sus actividades pesqueras y acuícolas. En relación con el potencial de basura marina, representada en su mayoría por desechos plásticos, a inicios de los 90, se reportó que el Perú produce 1,695,425 toneladas por año a lo largo de la costa (CPPS).
-Tabla 2: Características morfológicas de las cuatro playas arenosas de la costa peruana.
+En el Perú la vigencia de residuos contaminantes, tales como el plástico, se vio incrementado y reportado por los municipios afectados. Este problema, en el litoral peruano ha sido uno de los más perjudicados ya que el uso de este producto infringe en sus actividades pesqueras y acuícolas. En relación con el potencial de basura marina, representada en su mayoría por desechos plásticos, a inicios de los 90, se reportó que el Perú produce 1,695,425 toneladas por año a lo largo de la costa (Purca, S., Henostroza, A. 2017)
+
 
 
 # B) CONTEXTO ECONÓMICO
