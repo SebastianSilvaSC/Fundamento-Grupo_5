@@ -27,7 +27,7 @@ En una mezcla de distintos tipos de plásticos con harina demostraron que CM-ESH
 
 ### A. Dispositivos o equipos existentes
 
-# 1. Draper: Dron Submarino para la Detección de Microplásticos
+#### 1. Draper: Dron Submarino para la Detección de Microplásticos
 
 *Draper* es un dron submarino equipado con sensores y filtros diseñados para detectar y analizar los microplásticos invisibles que contaminan nuestros océanos, ríos y lagos. Este dron, controlado por radio, es capaz de escanear millones de litros de agua en busca de partículas de plástico en suspensión, las cuales tienen un tamaño inferior a 1 mm, haciéndolas indetectables a simple vista. Estas partículas no solo son peligrosas por sí mismas, sino que también atraen contaminantes del agua que son ingeridos por los animales.
 
