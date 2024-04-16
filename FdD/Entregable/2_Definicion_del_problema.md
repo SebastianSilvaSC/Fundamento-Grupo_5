@@ -36,20 +36,25 @@ En el Perú la vigencia de residuos contaminantes, tales como el plástico, se v
 ## 1.CONTEXTO ECONÓMICO A NIVEL INTERNACIONAL
 La conservación marina se enfrenta a desafíos complejos debido a la presión humana sobre los ecosistemas marinos. Es necesario abordar las causas directas e indirectas de estos problemas con enfoques integrados que fomenten la gestión sostenible de recursos, reduzcan la contaminación y mitiguen el cambio climático. Esto es crucial para proteger la salud y resiliencia de los ecosistemas marinos a largo plazo.
 ## -Nivel Mundial: 
-Proteger las poblaciones de peces y la biodiversidad marina.
-Se calcula que en todo el mundo unos 35 mil millones de dólares de subvenciones públicas se destinan a actividades pesqueras.
-Del mismo modo, el informe pide a los gobiernos que adopten y ratifiquen el acuerdo sobre biodiversidad marina fuera de las jurisdicciones nacionales, pacto el 4 de marzo de 2023. Mejor conocido como el "Tratado de Biodiversidad en Alta Mar", el acuerdo creará herramientas para el reparto justo y equitativo de los beneficios de los recursos genéticos marinos y establecerá zonas protegidas internacionalmente en nuestro océano.
+Estados Unidos ha anunciado 6.000 millones de dólares en compromisos para combatir las amenazas a los océanos y preservar la salud y seguridad de los mares.
 
 <p align="center"><img src="https://github.com/SebastianSilvaSC/Fundamento-Grupo_5/blob/main/Proyecto/Imagenes/B_UNCTAD.jpg" width="620px"></p>
+ 
+El enviado presidencial especial de EE.UU para el Clima, John Kerry, fue registrado este jueves, 2 de marzo, al pronunciar un discurso, durante la jornada inaugural de la Conferencia Mundial Our Ocean, en Ciudad de Panamá (Panamá). EFE/Carlos Lemos
+
+
+
 
 
 ## -Nivel Regional:
-Chile ha implementado iniciativas para reducir la contaminación por plásticos, como la prohibición de bolsas plásticas en ciudades costeras y la promoción de la economía circular en el manejo de residuos. También ha establecido áreas marinas protegidas para conservar la biodiversidad marina.
-Brasil ha implementado políticas para reducir la contaminación por vertidos de petróleo en sus costas, así como programas de gestión de residuos sólidos en zonas costeras. También promueve la investigación científica sobre la salud de sus ecosistemas marinos.
+CHILE- Crean la Primera Área Marina Protegida de Chile (Parque Marino "Francisco Coloane")
+El proyecto contará con una inversión de más de US$ 2 millones, provenientes tanto de fondos estatales como del Fondo Mundial Para el Medio Ambiente (GEF)
+ECUADOR- Como parte de la transacción, Ecuador se compromete a invertir más de US$12 millones al año en conservación, más otros US$5 millones al año a una dotación a largo plazo para financiar la conservación y el monitoreo de las áreas marinas protegidas de las Islas Galápagos.
+
 
 
 ## -Nivel Nacional:
-En el Perú, se han aprobado proyectos importantes para combatir la contaminación marina. Uno de ellos es el Proyecto APROFERROL en Chimbote, que busca reducir la contaminación por efluentes pesqueros industriales mediante la construcción de un emisor submarino. En Lima y Callao, el Proyecto PTAR Taboada está en marcha para instalar un emisor submarino que vierta aguas residuales domésticas tratadas fuera de la bahía del Callao. Además, el IMARPE ha identificado áreas críticas de contaminación por aguas residuales en varias bahías, lo que destaca la importancia de abordar esta problemática de manera urgente. 
+Para contribuir con la conservación de las valiosas especies representativas de ecosistemas marino- costeros que alberga en La Reserva Nacional de Paracas, el Consorcio Camisea invirtió la suma de US$ 7 millones.
 
 
 # C) DEFINICIÓN DEL PROBLEMA
@@ -118,3 +123,11 @@ Los pecadores y los comerciantes son los mas perjudicados, ya que pierde mucho  
 - ° FELIPE WERNECK Esta historia fue publicada originalmente el 5 de septiembre de 2010 y ha sido actualizada el 20 de marzo de 2024.https://www.nationalgeographic.es/medio-ambiente/contaminacion-marina
   
 - ° https://revistademarina.pe/wp-content/uploads/Revistas/1918/Revista-de-Marina-1918-Marzo-Abril.pdf Año 111 Marzo y Abril de 1918 Revista de Marina
+
+- ° Infocamisea. (2022, 28 octubre). Inversión para proteger Paracas - Camisea. Camisea. https://suplementos.diariocorreo.pe/camisea/2022/10/28/inversion-para-proteger-paracas/#:~:text=La%20Reserva%20Nacional%20de%20Paracas%20cumpli%C3%B3%2047%20a%C3%B1os%20de%20creaci%C3%B3n,suma%20de%20US%24%207%20millones
+
+- ° Touring, M. (2023, 15 junio). Las Islas Galápagos se beneficiarán de un canje de deuda por conservación. https://www.linkedin.com/pulse/las-islas-gal%C3%A1pagos-se-beneficiar%C3%A1n-de-un-canje-deuda#:~:text=Como%20parte%20de%20la%20transacci%C3%B3n,protegidas%20de%20las%20Islas%20Gal%C3%A1pagos.
+
+- ° Crean la primera área marina protegida de Chile. (s. f.). MundoMaritimo. https://www.mundomaritimo.cl/noticias/crean-la-primera-area-marina-protegida-de-chile
+
+- ° Efeverde. (2023, 6 marzo). EE.UU. duplicará su inversión para la salud de los océanos  https://efeverde.com/eeuu-duplicara-inversion-oceanos/
