@@ -29,7 +29,7 @@ En una mezcla de distintos tipos de plásticos con harina demostraron que CM-ESH
 
 <h3 align="center"> Draper: Dron Submarino para la Detección de Microplásticos </h3>
 
-<p align="center"><img src ="https://github.com/SebastianSilvaSC/Fundamento-Grupo_5/blob/main/Proyecto/Imagenes/C_DRAPER.png" width="480px"></p>
+<p align="center"><img src ="https://github.com/SebastianSilvaSC/Fundamento-Grupo_5/blob/main/Proyecto/Imagenes/C_DRAPER.png" width="520px"></p>
 
 **Figura 1.** Drone submarino inventado para detectar microplásticos.  Fue extraído de: “Underwater Drone Invented to Detect Microplastics” y elaborado por Dan Edel (2).
 
@@ -49,7 +49,7 @@ En una mezcla de distintos tipos de plásticos con harina demostraron que CM-ESH
 - El dron, que funciona con baterías, consume poca energía y es autosuficiente cuando se combina con su boya de carga autoacoplada y alimentada por viento.
 
 <h3 align="center"> Muestreador de microplásticos </h3>
-<p align="center"><img src ="https://github.com/SebastianSilvaSC/Fundamento-Grupo_5/blob/main/Proyecto/Imagenes/C_MUESTREADOR.png" width="480px"></p>
+<p align="center"><img src ="https://github.com/SebastianSilvaSC/Fundamento-Grupo_5/blob/main/Proyecto/Imagenes/C_MUESTREADOR.png" width="520px"></p>
 
 **Figura 2.** Figura 2. Monitoreo Oceánico Innovador: Muestreador De Microplásticos. Fue extraído de: Subctech (3).
 
