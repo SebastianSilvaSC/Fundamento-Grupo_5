@@ -38,7 +38,7 @@ La conservación marina se enfrenta a desafíos complejos debido a la presión h
 ## -Nivel Mundial: 
 Estados Unidos ha anunciado 6.000 millones de dólares en compromisos para combatir las amenazas a los océanos y preservar la salud y seguridad de los mares.
 
-<p align="center"><img src="https://github.com/SebastianSilvaSC/Fundamento-Grupo_5/blob/main/Proyecto/Imagenes/B_UNCTAD.jpg" width="620px"></p>
+<p align="center"><img src="https://github.com/SebastianSilvaSC/Fundamento-Grupo_5/blob/main/Proyecto/Imagenes/B_contexto_económico.jpg" width="620px"></p>
  
 El enviado presidencial especial de EE.UU para el Clima, John Kerry, fue registrado este jueves, 2 de marzo, al pronunciar un discurso, durante la jornada inaugural de la Conferencia Mundial Our Ocean, en Ciudad de Panamá (Panamá). EFE/Carlos Lemos
 
