@@ -23,7 +23,7 @@ Figura 1 Dos de las 17 ODS como Agenda 2030: ODS 6 y 14 según la ONU
 
 # Integrantes
   1. Camilo Sebastian Silva - Coordinador de electronica y manufactura digital
-  2. Ciara Mendez Cruz - Coordinadora de página web y redacción
+  2. Ciara Mendez Cruz - Coordinadora de repositorio y redacción
   3. Jhoan Saul Enciso - Coordinador de programación
   4. Luz Clarita Vasco - Coordinadora de modelado 3D y Boceto
   5. Camilla Vanessa Pacora - Coordinadora General de Equipo y Coordinación
