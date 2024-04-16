@@ -114,12 +114,8 @@ El modelo de utilidad proporciona un dispositivo experimental para detectar el c
 Referencias
 1. Izan González. (2020). Draper, el dron submarino que acaba con los microplásticos. El Español. https://www.elespanol.com/omicrono/20200208/draper-dron-submarino-acaba-microplasticos/465204408_0.html
 2. Edel, D. (2020). Underwater Drone Invented to Detect Microplastics. Intelligent Living. https://www.intelligentliving.co/underwater-drone-invented-to-detect-microplastics/
-SubCtech - Ocean Power & Monitoring. (2021). Innovative Ocean Monitoring - Microplastic Sampler. SubCtech - Ocean Power & Monitoring. https://subctech.com/innovative_ocean_monitoring-microplastic_sampler/
-https://www.unmannedsystemstechnology.com/company/subctech/microplastics-sampler/
-
-https://subctech.com/wp-content/uploads/2020/09/SpecSheet_SubCtech_Microplastic-Sampler_ENG_v1-0.pdf
-
-Buyu, G et al. (2023) Portable micro-plastic detection device based on digital coaxial holographic microscopy. (Patent No. CN116026729). China. https://patentscope.wipo.int/search/es/detail.jsf?docId=CN397761252
-高楠 et al.(2023) A kind of micro- plastics of Portable seawater sample and the device and method of pre-treatment. (Patent No. CN107807005A) China
+3. SubCtech - Ocean Power & Monitoring. (2021). Innovative Ocean Monitoring - Microplastic Sampler. SubCtech - Ocean Power & Monitoring. https://subctech.com/innovative_ocean_monitoring-microplastic_sampler
+4. Buyu, G et al. (2023) Portable micro-plastic detection device based on digital coaxial holographic microscopy. (Patent No. CN116026729). China. https://patentscope.wipo.int/search/es/detail.jsf?docId=CN397761252
+5. 高楠 et al.(2023) A kind of micro- plastics of Portable seawater sample and the device and method of pre-treatment. (Patent No. CN107807005A) China
 https://patents.google.com/patent/CN107807005A/en?q=(iot+system+detect+microplastic+marine+environment)&q=(G01N1%2f44)
-Haiyu, Y et al.(2022) Experimental device for detecting content of micro-plastics in water body (Patent No. CN216792004U) China https://worldwide.espacenet.com/patent/search/family/082005765/publication/CN216792004U?q=pn%3DCN216792004U
+6. Haiyu, Y et al.(2022) Experimental device for detecting content of micro-plastics in water body (Patent No. CN216792004U) China https://worldwide.espacenet.com/patent/search/family/082005765/publication/CN216792004U?q=pn%3DCN216792004U
