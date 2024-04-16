@@ -52,10 +52,10 @@ En una mezcla de distintos tipos de plásticos con harina demostraron que CM-ESH
 
 El Microplastic-Sampler es capaz de capturar la concentración más pequeña de partículas microplásticas de la superficie del océano a bordo de embarcaciones pequeñas y grandes durante el crucero. El método se probó durante la última Volvo Ocean Race (2017/18). Se habían recopilado datos científicos extraordinarios y únicos. El Micro Plastic Sampler puede funcionar de forma independiente o en combinación con el potente sistema de navegación OceanPack (“FerryBox”). 
 
-### a.Funcionamiento
+### a. Funcionamiento
 El agua de muestreo se canaliza desde una entrada de agua definida hacia el instrumento y pasa por un colador (filtro grueso) antes de fluir a través de los elementos filtrantes. Los elementos filtrantes (casete) constan de tres filtros con un tamaño de malla definido (fraccionamiento instantáneo por tamaño: p. ej. 300–100 –30 μm). La bomba de agua está dispuesta detrás del casete filtrante para evitar una posible contaminación. Un caudalímetro mide el volumen del filtro y dos sensores de presión pueden detectar el encubrimiento. Una antena GPS externa proporciona la posición y una marca de tiempo precisa. Todos los datos se registran internamente. La salida de datos es posible en tiempo real a través de una interfaz serie en formato NMEA-0183. Los datos también se pueden descargar posteriormente mediante USB. (3)
 
-### b.Características
+### b. Características
 - Operación desatendida durante el muestreo. Cambio manual de filtros.
 - Diseño robusto, versátil, compacto y resistente al agua Fácil de operar mediante control intuitivo con pantalla táctil de 7"
 - Autograbación: registrador de datos y microcontrolador NetDI
@@ -66,6 +66,60 @@ El agua de muestreo se canaliza desde una entrada de agua definida hacia el inst
 - Independiente o controlado por sistema de flujo externo (FerryBox). 
 - Integración de sensores y dispositivos externos disponibles bajo demanda.
 
+### B. Patentes
+#### Patente de invención
+<h3 align="center"> Dispositivo Portátil de Detección de Microplásticos basado en Microscopía Holográfica Coaxial Digital </h3>
+**Número de publicación:** CN116026729
+**Fecha de publicación:** 28.04.2023
+**CIP:** 
+G01N 15/00 
+G01N 15/149 
+G01N 15/1429 
+G01N 15/0227
+**Modelo de invención**
+La invención es un dispositivo portátil de detección de microplásticos que emplea microscopía holográfica coaxial digital (visualización tridimensional detallada de la muestra), y tiene como objetivo resolver los problemas de que en la técnica anterior, el cual era un dispositivo de detección incómodo de llevar, y donde la puntualidad de la detección de microplásticos era deficiente. 
+Este dispositivo incorpora una placa de montaje en la carcasa, un conjunto de fuente de luz, un conjunto de propagación de luz, una cubeta de flujo, un conjunto de reflexión de campo de luz y un colector de imágenes que están fijados secuencialmente en la placa de montaje, además de una pantalla táctil que está en la carcasa y la cubeta de flujo está conectada con un conjunto de regulación de velocidad, y el conjunto de fuente de luz, el colector de imágenes, la pantalla táctil y el conjunto de regulación de velocidad están conectados eléctricamente con un procesador de control, respectivamente.
+El dispositivo tiene una estructura simple, es de alta portabilidad y fácil de operar, basado en la tecnología de microscopía holográfica coaxial digital. La estructura tridimensional, la variedad y la cantidad de microplásticos se obtienen de manera eficiente. La variedad y densidad de los microplásticos marinos se pueden analizar directa y preliminarmente en el entorno de campo, y se reduce el costo de mano de obra y tiempo para analizar los microplásticos marinos. (4)
+
+**Figura 3.** Dispositivo Portátil de Detección de Microplásticos basado en Microscopía Holográfica Coaxial Digital. Fue extraído de: Buyu, G et al. (4).
+
+#### Patente de invención
+<h3 align="center"> Un tipo de microplásticos de muestra de agua de mar portátil y el dispositivo y método de pretratamiento </h3>
+
+**Número de publicación:** CN107807005A
+**Fecha de publicación:** 2023-06-20
+**CIP:** 
+G01N1/02 Dispositivos para retirar muestras.
+G01N1/34 Purificación; Limpieza
+G01N1/44 Tratamiento de muestras que implica radiación, por ejemplo, calor.
+**Modelo de invención**
+La invención describe el dispositivo y método de un tipo de muestreo de microplásticos de agua de mar portátiles y su pretratamiento. Los componentes que posee son la concha, la entrada de agua que se dispone en el extremo superior de la concha, la primera tela de criba y la segunda tela de pantalla. Además, el puerto de entrega está en el extremo inferior de la carcasa, el cabezal rociador y la salida de escape, están en el generador ultrasónico de calentamiento eléctrico que está conectado en la carcasa con la entrada de agua, y este se encuentra en el dispositivo de control de flujo de presión que está conectado en el exterior carcasa con entrada de agua. (5)
+El método y el paso son: (1) Dispositivo de implementación; (2) Recogida de la muestra; (3) Se invierte para enjuagar y recoger; (4) Purificación fina, que se recoge y se lleva a cabo el análisis del programa técnico que utiliza innovación, separador. Es fácil de operar, ahorra tiempo y el sistema cerrado evita el estancamiento lo que es adecuado para la muestra de microplástico de agua de mar en vivo. Posee una adquisición rápida con separación y análisis instantáneo de la muestra.
+
+**Figura 4.** Un tipo de microplásticos de muestra de agua de mar portátil y el dispositivo y método de pretratamiento. Fue extraído de: 高楠 et al.(5).
+
+#### Patente de modelo de utilidad
+<h3 align="center"> Dispositivo Portátil de Detección de Microplásticos basado en Microscopía Holográfica Coaxial Digital </h3>
+
+**Número de publicación:** CN216792004U
+**Fecha de publicación:** 2022-06-21
+**CIP:**
+G01N1/14
+G01N21/17
+**Modelo de utilidad**
+El modelo de utilidad proporciona un dispositivo experimental para detectar el contenido de microplásticos en una masa de agua. El sistema de oscilación consta de un recipiente con un puerto de entrada de agua y otro para el agente de extracción, junto con un mecanismo de agitación interno. Además, incluye un sistema de detección que utiliza un mecanismo para medir la turbidez del agua. Este mecanismo de detección se conecta eléctricamente a un transmisor láser. El sistema de comunicación, a su vez, está compuesto por un tubo que conecta diversos componentes: uno de sus extremos lleva un tubo de muestreo ubicado dentro del recipiente, mientras que el otro extremo tiene un embudo posicionado sobre el mecanismo de detección de turbidez. El tubo de muestreo cuenta con una abertura para tomar muestras y un sensor fotoeléctrico, mientras que el tubo de comunicación incorpora una bomba de succión de agua. Según el modelo de utilidad, se fusionan conocimientos relacionados de química y física, la operación es simple, se puede realizar la operación del proceso, se ahorran costos laborales y económicos y se logra precisión. (6)
+**Figura 5.** Dispositivo experimental para detectar el contenido de microplásticos en  agua. Fue extraído de: Haiyu, Y et al. (6).
 
 
+Referencias
+1. Izan González. (2020). Draper, el dron submarino que acaba con los microplásticos. El Español. https://www.elespanol.com/omicrono/20200208/draper-dron-submarino-acaba-microplasticos/465204408_0.html
+2. Edel, D. (2020). Underwater Drone Invented to Detect Microplastics. Intelligent Living. https://www.intelligentliving.co/underwater-drone-invented-to-detect-microplastics/
+SubCtech - Ocean Power & Monitoring. (2021). Innovative Ocean Monitoring - Microplastic Sampler. SubCtech - Ocean Power & Monitoring. https://subctech.com/innovative_ocean_monitoring-microplastic_sampler/
+https://www.unmannedsystemstechnology.com/company/subctech/microplastics-sampler/
 
+https://subctech.com/wp-content/uploads/2020/09/SpecSheet_SubCtech_Microplastic-Sampler_ENG_v1-0.pdf
+
+Buyu, G et al. (2023) Portable micro-plastic detection device based on digital coaxial holographic microscopy. (Patent No. CN116026729). China. https://patentscope.wipo.int/search/es/detail.jsf?docId=CN397761252
+高楠 et al.(2023) A kind of micro- plastics of Portable seawater sample and the device and method of pre-treatment. (Patent No. CN107807005A) China
+https://patents.google.com/patent/CN107807005A/en?q=(iot+system+detect+microplastic+marine+environment)&q=(G01N1%2f44)
+Haiyu, Y et al.(2022) Experimental device for detecting content of micro-plastics in water body (Patent No. CN216792004U) China https://worldwide.espacenet.com/patent/search/family/082005765/publication/CN216792004U?q=pn%3DCN216792004U
