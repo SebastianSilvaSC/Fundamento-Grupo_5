@@ -22,6 +22,16 @@ En una mezcla de distintos tipos de plásticos con harina demostraron que CM-ESH
   <q>Li, F., Song, N., Li, X., Mi, X., Sun, C., Sun, Y., ... & Qiu, J. (2024). Detection of microplastics via a confocal-microscope spatial-heterodyne Raman spectrometer with echelle gratings. Spectrochimica Acta Part A: Molecular and Biomolecular Spectroscopy, 124099</q>
 </blockquote>
 
+<h4>Artículo 3</h4>
+<h3 align="center">Origen, ecotoxicidad y métodos analíticos para la detección de microplásticos en sistemas acuáticos.</h3>
+<p>En este articulo describe uno de los metodos de detección que consta de otros métodos que es el análisis de pirólisis, como el método de pirólisis térmica y la pirólisis GC-MS(Py-GC-MS), las muestras se degradan y el producto se absorbe en un dispositivo de fase sólida y posteriormente se identifica mediante GC-MS.Este metódo es considerado más eficiente para la cuantificación de microplásticos, ya que nos informa sobre las caracteristicas moleculares de partículas. Sin embargo, el método muestra una desviación estándar y detecta todos los distintos tipos de microplásticos excepto PU, PET y diisocianato de 4,4'-difenimetano(MDI).
+
+La extracción térmica con termogravimetría(TGA)combinada con cromatografía de gases por desorción térmica y espectrometría de masas(TDS-GC-MS). Este tambien es un método de degradación; sin embargo, provocó una pérdida de distribución de tamañp junto con la fusión del material polimérico. Para solucionar este problema, se introduce el método de degradación térmica junto con GC-MS. Este método detecta eficazmente PP,PE y PS.
+</p>
+<blockquote>
+  <q>Kumar, V., Umesh, M., Chakraborty, P., Sharma, P., Sarojini, S., Basheer, T., ... & Barcelo, D. (2023). Origin, ecotoxicity, and analytical methods for microplastic detection in aquatic systems. TrAC Trends in Analytical Chemistry, 117392.</q>
+</blockquote>
+
 
 ## 2. Contexto Comercial
 
