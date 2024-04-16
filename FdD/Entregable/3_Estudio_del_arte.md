@@ -23,7 +23,26 @@ En una mezcla de distintos tipos de plásticos con harina demostraron que CM-ESH
 </blockquote>
 
 
-### 2. Contexto Comercial
+## 2. Contexto Comercial
+
+### A. Dispositivos o equipos existentes
+
+# 1. Draper: Dron Submarino para la Detección de Microplásticos
+
+*Draper* es un dron submarino equipado con sensores y filtros diseñados para detectar y analizar los microplásticos invisibles que contaminan nuestros océanos, ríos y lagos. Este dron, controlado por radio, es capaz de escanear millones de litros de agua en busca de partículas de plástico en suspensión, las cuales tienen un tamaño inferior a 1 mm, haciéndolas indetectables a simple vista. Estas partículas no solo son peligrosas por sí mismas, sino que también atraen contaminantes del agua que son ingeridos por los animales.
+
+## Funcionamiento
+
+*Draper* se desliza a lo largo de los 9 metros superiores del agua, donde se encuentran la mayoría de los microplásticos. Tras escanear y analizar los escombros, el vehículo submarino autónomo (AUV) envía información y coordenadas GPS a un mapa de calor, que será revisado por los científicos. Su abertura frontal está diseñada para filtrar la mayor cantidad de agua posible, midiendo la concentración de microplásticos, mientras que el agua sobrante se libera por la parte posterior.
+
+## Características
+
+- El proceso es completamente autónomo.
+- Se basa en el posicionamiento GPS para estar localizado en todo momento.
+- Con la medición de la concentración de los microplásticos, es capaz de establecer un mapa con las zonas donde haya más para llevar a cabo otras acciones a mayor escala (prevención).
+- Posee dos propulsores ubicados a cada lado de la unidad de procesamiento que impulsan el dron, y timones traseros que se encargan de la dirección.
+- El gran anillo exterior alberga las baterías, la unidad de control y el cargador de inducción, mientras que el chasis abierto permite un fácil despliegue y recuperación.
+- El dron, que funciona con baterías, consume poca energía y es autosuficiente cuando se combina con su boya de carga autoacoplada y alimentada por viento.
 
 
 
