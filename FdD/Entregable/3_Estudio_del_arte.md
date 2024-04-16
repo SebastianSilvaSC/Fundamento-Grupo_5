@@ -27,17 +27,17 @@ En una mezcla de distintos tipos de plásticos con harina demostraron que CM-ESH
 
 ### A. Dispositivos o equipos existentes
 
-<p align="center"> Draper: Dron Submarino para la Detección de Microplásticos </p>
+<h3 align="center"> Draper: Dron Submarino para la Detección de Microplásticos </h3>
 
 **Figura 1.** Drone submarino inventado para detectar microplásticos.  Fue extraído de: “Underwater Drone Invented to Detect Microplastics” y elaborado por Dan Edel (2).
 
 *Draper* es un dron submarino equipado con sensores y filtros diseñados para detectar y analizar los microplásticos invisibles que contaminan nuestros océanos, ríos y lagos. Este dron, controlado por radio, es capaz de escanear millones de litros de agua en busca de partículas de plástico en suspensión, las cuales tienen un tamaño inferior a 1 mm, haciéndolas indetectables a simple vista. Estas partículas no solo son peligrosas por sí mismas, sino que también atraen contaminantes del agua que son ingeridos por los animales.
 
-## a. Funcionamiento
+### a. Funcionamiento
 
 *Draper* se desliza a lo largo de los 9 metros superiores del agua, donde se encuentran la mayoría de los microplásticos. Tras escanear y analizar los escombros, el vehículo submarino autónomo (AUV) envía información y coordenadas GPS a un mapa de calor, que será revisado por los científicos. Su abertura frontal está diseñada para filtrar la mayor cantidad de agua posible, midiendo la concentración de microplásticos, mientras que el agua sobrante se libera por la parte posterior.
 
-## b. Características
+### b. Características
 
 - El proceso es completamente autónomo.
 - Se basa en el posicionamiento GPS para estar localizado en todo momento.
@@ -46,16 +46,16 @@ En una mezcla de distintos tipos de plásticos con harina demostraron que CM-ESH
 - El gran anillo exterior alberga las baterías, la unidad de control y el cargador de inducción, mientras que el chasis abierto permite un fácil despliegue y recuperación.
 - El dron, que funciona con baterías, consume poca energía y es autosuficiente cuando se combina con su boya de carga autoacoplada y alimentada por viento.
 
-<p align="center"> Muestreador de microplásticos </p>
+<h3 align="center"> Muestreador de microplásticos </h3>
 
 **Figura 2.** Figura 2. Monitoreo Oceánico Innovador: Muestreador De Microplásticos. Fue extraído de: Subctech (3).
 
 El Microplastic-Sampler es capaz de capturar la concentración más pequeña de partículas microplásticas de la superficie del océano a bordo de embarcaciones pequeñas y grandes durante el crucero. El método se probó durante la última Volvo Ocean Race (2017/18). Se habían recopilado datos científicos extraordinarios y únicos. El Micro Plastic Sampler puede funcionar de forma independiente o en combinación con el potente sistema de navegación OceanPack (“FerryBox”). 
 
-## a.Funcionamiento
+### a.Funcionamiento
 El agua de muestreo se canaliza desde una entrada de agua definida hacia el instrumento y pasa por un colador (filtro grueso) antes de fluir a través de los elementos filtrantes. Los elementos filtrantes (casete) constan de tres filtros con un tamaño de malla definido (fraccionamiento instantáneo por tamaño: p. ej. 300–100 –30 μm). La bomba de agua está dispuesta detrás del casete filtrante para evitar una posible contaminación. Un caudalímetro mide el volumen del filtro y dos sensores de presión pueden detectar el encubrimiento. Una antena GPS externa proporciona la posición y una marca de tiempo precisa. Todos los datos se registran internamente. La salida de datos es posible en tiempo real a través de una interfaz serie en formato NMEA-0183. Los datos también se pueden descargar posteriormente mediante USB. (3)
 
-## b.Características
+### b.Características
 - Operación desatendida durante el muestreo. Cambio manual de filtros.
 - Diseño robusto, versátil, compacto y resistente al agua Fácil de operar mediante control intuitivo con pantalla táctil de 7"
 - Autograbación: registrador de datos y microcontrolador NetDI
