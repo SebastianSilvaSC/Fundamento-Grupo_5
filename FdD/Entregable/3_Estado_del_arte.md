@@ -124,7 +124,7 @@ El dispositivo tiene una estructura simple, es de alta portabilidad y fácil de 
 
 <p align="center"><img src ="https://github.com/SebastianSilvaSC/Fundamento-Grupo_5/blob/main/Proyecto/Imagenes/C_DISPORTATIL.png" width="600px"></p>
 
-**Figura 4.** Dispositivo Portátil de Detección de Microplásticos basado en Microscopía Holográfica Coaxial Digital. Fue extraído de: Buyu, G et al. (4).
+**Figura 4.** Dispositivo Portátil de Detección de Microplásticos basado en Microscopía Holográfica Coaxial Digital. Fue extraído de: Buyu, G et al. (5).
 
 #### Patente de invención
 <h3 align="center"><a href="https://patents.google.com/patent/CN107807005A/en?oq=CN107807005A" target="_blank"> Un tipo de microplásticos de muestra de agua de mar portátil y el dispositivo y método de pretratamiento</a></h3>
