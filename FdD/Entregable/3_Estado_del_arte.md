@@ -1,7 +1,7 @@
 <h1>ESTUDIO DEL ARTE</h1>
 <h2>1. Contexto Científico</h2>
 <h4>Artículo 1</h4>
-<h3 align="center">Detección rápida de macro y microplásticos coloreados e incoloros en entornos complejos mediante espectroscopia de infrarrojo cercano y aprendizaje automático</h3>
+<h3 align="center"><a href="https://www.sciencedirect.com/science/article/pii/S1001074223005399" target="_blank">Detección rápida de macro y microplásticos coloreados e incoloros en entornos complejos mediante espectroscopia de infrarrojo cercano y aprendizaje automático</a></h3>
 
 
 <p>Este estudio describe el desarrollo de un método de detección de alto rendimiento mediante el uso de 4 modelos de aprendizaje automático y técnica de imagen hiperespectral(HSI) para identificar y clasificar plásticos. Estos incluyen 15 tipos de macroplásticos, microplásticos o cauchos. El modelo tiene la capacidad de identificar rápidamente los distintos tipos de plasticos y cauchos coloreados e incoloros, sin la necesidad de la preparación de muestras. Además, se integro un método de identificación en dos etapas para distinguir tres fragmentos de plásticos coloreados e incoloros, que pueden ser confundidos fácilemente en el entorno donde se examinan.
@@ -13,7 +13,7 @@ El modelo se basa en detectar microplásticos en diferentes sitios, como los tra
 </blockquote>
 
 <h4>Artículo 2</h4>
-<h3 align="center">Detección de microplásticos mediante un espectrómetro Raman espacial heterodino con microscopio confocal y rejillas de Echelle</h3>
+<h3 align="center"><a href="https://www.sciencedirect.com/science/article/pii/S1386142524002658" target="_blank">Detección de microplásticos mediante un espectrómetro Raman espacial heterodino con microscopio confocal y rejillas de Echelle</a></h3>
 <p>En este articulo describen el desarrollo de un espectrómetro Raman espacial heterodiano de rejilla Echelle(CM-ESHRS) para las detecciones de distintos tipos de microplasticos. El CM-ESHRS demostró un alto rendimiento óptico,una resolución espectral alta y una banda de detección espectral amplia y una SNR alta. Este último al ser alta se considera eficaz para la detección precisa de microplásticos.
   
 En una mezcla de distintos tipos de plásticos con harina demostraron que CM-ESHRS tiene la capacidad de detectar partículas pequeñas y señales débiles. Además detecto 10 tipos de microplásticos y, al mismo tiempo, categorizó y resumió los principales tipos de vibración de cada banda espectral. Esto favorecio la información espectral Raman para microplásticos, lo que debería proporcionar una referencia para detecciones futuras.</p>
@@ -23,7 +23,7 @@ En una mezcla de distintos tipos de plásticos con harina demostraron que CM-ESH
 </blockquote>
 
 <h4>Artículo 3</h4>
-<h3 align="center">Origen, ecotoxicidad y métodos analíticos para la detección de microplásticos en sistemas acuáticos.</h3>
+<h3 align="center" href="https://www.sciencedirect.com/science/article/pii/S016599362300479X" target="_blank">Origen, ecotoxicidad y métodos analíticos para la detección de microplásticos en sistemas acuáticos.</h3>
 <p>En este articulo describe uno de los metodos de detección que consta de otros métodos que es el análisis de pirólisis, como el método de pirólisis térmica y la pirólisis GC-MS(Py-GC-MS), las muestras se degradan y el producto se absorbe en un dispositivo de fase sólida y posteriormente se identifica mediante GC-MS.Este metódo es considerado más eficiente para la cuantificación de microplásticos, ya que nos informa sobre las caracteristicas moleculares de partículas. Sin embargo, el método muestra una desviación estándar y detecta todos los distintos tipos de microplásticos excepto PU, PET y diisocianato de 4,4'-difenimetano(MDI).
 
 La extracción térmica con termogravimetría(TGA)combinada con cromatografía de gases por desorción térmica y espectrometría de masas(TDS-GC-MS). Este tambien es un método de degradación; sin embargo, provocó una pérdida de distribución de tamañp junto con la fusión del material polimérico. Para solucionar este problema, se introduce el método de degradación térmica junto con GC-MS. Este método detecta eficazmente PP,PE y PS.
