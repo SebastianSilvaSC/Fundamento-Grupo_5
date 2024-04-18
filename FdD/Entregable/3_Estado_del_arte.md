@@ -37,8 +37,7 @@ La extracción térmica con termogravimetría(TGA)combinada con cromatografía d
 
 ### A. Dispositivos o equipos existentes
 
-<h3 align="center"> [Draper: Dron Submarino para la Detección de Microplásticos](https://www.elespanol.com/omicrono/20200208/draper-dron-submarino-acaba-microplasticos/465204408_0.html) </h3>
-
+<h3 align="center"><a href="https://www.elespanol.com/omicrono/20200208/draper-dron-submarino-acaba-microplasticos/465204408_0.html" target="_blank">Draper: Dron Submarino para la Detección de Microplásticos</a></h3>
 
 <p align="center"><img src ="https://github.com/SebastianSilvaSC/Fundamento-Grupo_5/blob/main/Proyecto/Imagenes/C_DRAPER.png" width="600px"></p>
 
@@ -59,10 +58,11 @@ La extracción térmica con termogravimetría(TGA)combinada con cromatografía d
 - El gran anillo exterior alberga las baterías, la unidad de control y el cargador de inducción, mientras que el chasis abierto permite un fácil despliegue y recuperación.
 - El dron, que funciona con baterías, consume poca energía y es autosuficiente cuando se combina con su boya de carga autoacoplada y alimentada por viento.
 
-<h3 align="center"> Muestreador de microplásticos </h3>
+<h3 align="center"><a href="https://subctech.com/innovative_ocean_monitoring-microplastic_sampler" target="_blank"> Muestreador de microplásticos</a></h3>
+
 <p align="center"><img src ="https://github.com/SebastianSilvaSC/Fundamento-Grupo_5/blob/main/Proyecto/Imagenes/C_MUESTREADOR.png" width="600px"></p>
 
-**Figura 2.** Figura 2. Monitoreo Oceánico Innovador: Muestreador De Microplásticos. Fue extraído de: Subctech (3).
+**Figura 2.** Monitoreo Oceánico Innovador: Muestreador De Microplásticos. Fue extraído de: Subctech (3).
 
 El Microplastic-Sampler es capaz de capturar la concentración más pequeña de partículas microplásticas de la superficie del océano a bordo de embarcaciones pequeñas y grandes durante el crucero. El método se probó durante la última Volvo Ocean Race (2017/18). Se habían recopilado datos científicos extraordinarios y únicos. El Micro Plastic Sampler puede funcionar de forma independiente o en combinación con el potente sistema de navegación OceanPack (“FerryBox”). 
 
@@ -79,6 +79,14 @@ El agua de muestreo se canaliza desde una entrada de agua definida hacia el inst
 - Presentación de datos en servidor de datos Windows con pantallas Ocean View
 - Independiente o controlado por sistema de flujo externo (FerryBox). 
 - Integración de sensores y dispositivos externos disponibles bajo demanda.
+
+<h3 align="center"><a href="https://news.microsoft.com/es-es/2022/05/19/clearbot-el-dron-acuatico-gobernado-por-inteligencia-artificial-que-recoge-una-tonelada-de-plastico-diaria/" target="_blank"> Clearbot, el dron acuático gobernado por Inteligencia Artificial que recoge una tonelada de plástico diaria.</a></h3>
+
+<p align="center"><img src ="https://github.com/SebastianSilvaSC/Fundamento-Grupo_5/blob/main/Proyecto/Imagenes/C_MUESTREADOR.png" width="600px"></p>
+
+**Figura 3.** El equipo de Clearbot realiza los últimos ajustes a su modelo más actual. Fue extraído de: Microsoft (3).
+
+
 
 ### B. Patentes
 #### Patente de invención
@@ -157,7 +165,7 @@ El modelo de utilidad proporciona un dispositivo experimental para detectar el c
 **Referencias**
 1. Izan González. (2020). Draper, el dron submarino que acaba con los microplásticos. El Español. 
 2. Edel, D. (2020). Underwater Drone Invented to Detect Microplastics. Intelligent Living. https://www.intelligentliving.co/underwater-drone-invented-to-detect-microplastics/
-3. SubCtech - Ocean Power & Monitoring. (2021). Innovative Ocean Monitoring - Microplastic Sampler. SubCtech - Ocean Power & Monitoring. https://subctech.com/innovative_ocean_monitoring-microplastic_sampler
+3. SubCtech - Ocean Power & Monitoring. (2021). Innovative Ocean Monitoring - Microplastic Sampler. SubCtech - Ocean Power & Monitoring. 
 4. Buyu, G et al. (2023) Portable micro-plastic detection device based on digital coaxial holographic microscopy. (Patent No. CN116026729). China. https://patentscope.wipo.int/search/es/detail.jsf?docId=CN397761252
 5. 高楠 et al.(2023) A kind of micro- plastics of Portable seawater sample and the device and method of pre-treatment. (Patent No. CN107807005A) China https://patents.google.com/patent/CN107807005A/en?oq=CN107807005A
 6. Haiyu, Y et al.(2022) Experimental device for detecting content of micro-plastics in water body (Patent No. CN216792004U) China https://worldwide.espacenet.com/patent/search/family/082005765/publication/CN216792004U?q=pn%3DCN216792004U
