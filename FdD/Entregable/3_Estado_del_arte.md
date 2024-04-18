@@ -173,7 +173,8 @@ El modelo de utilidad proporciona un dispositivo experimental para detectar el c
 <p align="center"><img src ="https://github.com/SebastianSilvaSC/Fundamento-Grupo_5/blob/main/Proyecto/Imagenes/C_DISPORTATIL.png" width="600px"></p>
 
 **Figura 6.** Dispositivo experimental para detectar el contenido de microplásticos en  agua. Fue extraído de: Haiyu, Y et al. (7).
-<h3>Lista de requerimientos</h3>
+
+<h2>3. Lista de requerimientos </h2>
 
 ![](https://github.com/SebastianSilvaSC/Fundamento-Grupo_5/blob/main/Proyecto/Imagenes/C_Funcionales.jpeg)
 **Figura 7.** Requerimientos Funcionales.
@@ -181,7 +182,8 @@ El modelo de utilidad proporciona un dispositivo experimental para detectar el c
 ![](https://github.com/SebastianSilvaSC/Fundamento-Grupo_5/blob/main/Proyecto/Imagenes/C_No_funcionales.jpeg)
 **Figura 8.** Requerimientos No Funcionales.
 
-<h3>Definición de solución</h3>
+<h2>4. Definición de solución </h2>
+
 <p>Uso combinado del sensor TCS3200 junto al de turbidez</p>
 <img src="https://github.com/SebastianSilvaSC/Fundamento-Grupo_5/blob/main/Proyecto/Imagenes/C_TC3200.png">
 
