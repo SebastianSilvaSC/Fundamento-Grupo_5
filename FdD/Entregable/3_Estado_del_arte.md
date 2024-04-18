@@ -221,4 +221,7 @@ La solución será utilizar el sensor TCS3200 junto al sensor de turbidez para d
 4. Microsoft Prensa (2022) Clearbot, el dron acuático gobernado por Inteligencia Artificial que recoge una tonelada de plástico diaria. Microsoft.com. 
 5. Buyu, G et al. (2023) Portable micro-plastic detection device based on digital coaxial holographic microscopy. (Patent No. CN116026729). China. 
 6. 高楠 et al.(2023) A kind of micro- plastics of Portable seawater sample and the device and method of pre-treatment. (Patent No. CN107807005A) China 
-7. Haiyu, Y et al.(2022) Experimental device for detecting content of micro-plastics in water body (Patent No. CN216792004U) China 
+7. Haiyu, Y et al.(2022) Experimental device for detecting content of micro-plastics in water body (Patent No. CN216792004U) China
+8. Zou, H. H., He, P. J., Peng, W., Lan, D. Y., Xian, H. Y., Lü, F., & Zhang, H. (2024). Rapid detection of colored and colorless macro-and micro-plastics in complex environment via near-infrared spectroscopy and machine learning. Journal of Environmental Sciences, 147, 512-522
+9. Li, F., Song, N., Li, X., Mi, X., Sun, C., Sun, Y., ... & Qiu, J. (2024). Detection of microplastics via a confocal-microscope spatial-heterodyne Raman spectrometer with echelle gratings. Spectrochimica Acta Part A: Molecular and Biomolecular Spectroscopy, 124099
+10. Kumar, V., Umesh, M., Chakraborty, P., Sharma, P., Sarojini, S., Basheer, T., ... & Barcelo, D. (2023). Origin, ecotoxicity, and analytical methods for microplastic detection in aquatic systems. TrAC Trends in Analytical Chemistry, 117392.
