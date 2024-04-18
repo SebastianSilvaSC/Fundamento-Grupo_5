@@ -37,7 +37,8 @@ La extracción térmica con termogravimetría(TGA)combinada con cromatografía d
 
 ### A. Dispositivos o equipos existentes
 
-<h3 align="center"> Draper: Dron Submarino para la Detección de Microplásticos </h3>
+<h3 align="center"> [Draper: Dron Submarino para la Detección de Microplásticos](https://www.elespanol.com/omicrono/20200208/draper-dron-submarino-acaba-microplasticos/465204408_0.html) </h3>
+
 
 <p align="center"><img src ="https://github.com/SebastianSilvaSC/Fundamento-Grupo_5/blob/main/Proyecto/Imagenes/C_DRAPER.png" width="600px"></p>
 
@@ -154,7 +155,7 @@ El modelo de utilidad proporciona un dispositivo experimental para detectar el c
 
 
 **Referencias**
-1. Izan González. (2020). Draper, el dron submarino que acaba con los microplásticos. El Español. https://www.elespanol.com/omicrono/20200208/draper-dron-submarino-acaba-microplasticos/465204408_0.html
+1. Izan González. (2020). Draper, el dron submarino que acaba con los microplásticos. El Español. 
 2. Edel, D. (2020). Underwater Drone Invented to Detect Microplastics. Intelligent Living. https://www.intelligentliving.co/underwater-drone-invented-to-detect-microplastics/
 3. SubCtech - Ocean Power & Monitoring. (2021). Innovative Ocean Monitoring - Microplastic Sampler. SubCtech - Ocean Power & Monitoring. https://subctech.com/innovative_ocean_monitoring-microplastic_sampler
 4. Buyu, G et al. (2023) Portable micro-plastic detection device based on digital coaxial holographic microscopy. (Patent No. CN116026729). China. https://patentscope.wipo.int/search/es/detail.jsf?docId=CN397761252
