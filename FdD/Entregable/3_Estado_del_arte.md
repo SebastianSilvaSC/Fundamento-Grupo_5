@@ -176,20 +176,24 @@ El modelo de utilidad proporciona un dispositivo experimental para detectar el c
 <h3>Lista de requerimientos</h3>
 
 ![](https://github.com/SebastianSilvaSC/Fundamento-Grupo_5/blob/main/Proyecto/Imagenes/C_Funcionales.jpeg)
+**Figura 7.** Requerimientos Funcionales.
+
 ![](https://github.com/SebastianSilvaSC/Fundamento-Grupo_5/blob/main/Proyecto/Imagenes/C_No_funcionales.jpeg)
+**Figura 8.** Requerimientos No Funcionales.
 
 <h3>Definición de solución</h3>
-<p>Uso del sensor TCS3200 junto a uno de turbidez</p>
+<p>Uso combinado del sensor TCS3200 junto al de turbidez</p>
 <img src="https://github.com/SebastianSilvaSC/Fundamento-Grupo_5/blob/main/Proyecto/Imagenes/C_TC3200.png">
-<h2>Sensor TCS3200</h2>
+**Figura 9.** Sensor TCS3200
 
 <img src="https://github.com/SebastianSilvaSC/Fundamento-Grupo_5/blob/main/Proyecto/Imagenes/C_Turbidez.png">
-<h2>Sensor de tubidez</h2>
+**Figura 10.** Sensor de tubidez
 
-<p>Este sensor (TCS3200) de color puede distinguir diferentes tonalidades y el sensor de turbidez mide la turbidez del agua, es decir, la cantidad de partículas suspendidas en ella, la turbidez puede indicar la presencia de micro plásticos o contaminantes en el agua, en este caso, se utilizará para detectar características específicas de los microorganismos marinos. Juntamente usaremos un microcontrolador como Arduino para gestionar los sensores y ejecutar el programa de detección y recolectar muestras de agua marina donde se sospeche la presencia de micro plásticos, donde requeriremos hacer que la información una vez detectada la presencia de microrganismos nos la envíe por mensaje de texto a los celulares.
-Calibración del sensor
+<p>Este sensor (TCS3200) de color puede distinguir diferentes tonalidades y el sensor de turbidez mide la turbidez del agua, es decir, la cantidad de partículas suspendidas en ella, la turbidez puede indicar la presencia de micro plásticos o contaminantes en el agua, en este caso, se utilizará para detectar características específicas de los microorganismos marinos. Juntamente usaremos un microcontrolador como Arduino para gestionar los sensores y ejecutar el programa de detección y recolectar muestras de agua marina donde se sospeche la presencia de micro plásticos, donde requeriremos hacer que la información una vez detectada la presencia de microrganismos nos la envíe por mensaje de texto a los telefonos celulares usando el MODULO SIM800L con el arduino
 
-Antes de utilizar los sensores, calibraremos el sistema para asegurarnos de que los valores de color detectados sean precisos y consistentes.</p>
+**Calibración del sensor**
+
+Antes de utilizar los sensores, calibraremos el sistema para asegurarnos de que los valores de color detectados sean precisos y consistentes.
 
 <h4>A. Programación del microcontrolador</h4>
 
@@ -211,8 +215,9 @@ Utilizaremos un programa en el microcontrolador que:
 </ol>
 
 <h4>C. Evaluación y ajuste</h4>
-<p>Después de implementar el sistema, realiza evaluaciones periódicas para asegurarte de que esté funcionando correctamente. Realiza ajustes en el programa y en la configuración del sensor según sea necesario para mejorar la precisión y la eficiencia de la detección.
-La solución será utilizar el sensor TCS3200 junto al sensor de turbidez para detectar micro plásticos , enviar las alertar a un dispositivo para así tomar medidas preventivas para proteger la salud de los ecosistemas marinos y de las personas que dependen de ellos.</p>
+<p>Después de implementar el sistema, se realizará evaluaciones periódicas para asegurarnos de que esté funcionando correctamente. Realizaremos ajustes en el programa y en la configuración del sensor según sea necesario para mejorar la precisión y la eficiencia de la detección.
+  
+La solución será utilizar el sensor TCS3200 junto al sensor de turbidez para detectar micro plásticos usando el MODULO SIM800L con el arduino que permitirá enviar alertas a telefonos celulares y así tomar medidas preventivas para proteger la salud de los ecosistemas marinos y de las personas que dependen de ellos.</p>
 
 **Referencias**
 1. Izan González. (2020). Draper, el dron submarino que acaba con los microplásticos. El Español. 
