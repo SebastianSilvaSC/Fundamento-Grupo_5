@@ -180,7 +180,11 @@ El modelo de utilidad proporciona un dispositivo experimental para detectar el c
 
 <h3>Definición de solución</h3>
 <p>Uso del sensor TCS3200 junto a uno de turbidez</p>
+<img src="https://github.com/SebastianSilvaSC/Fundamento-Grupo_5/blob/main/Proyecto/Imagenes/C_TC3200.png">
+<h2>Sensor TCS3200</h2>
 
+<img src="https://github.com/SebastianSilvaSC/Fundamento-Grupo_5/blob/main/Proyecto/Imagenes/C_Turbidez.png">
+<h2>Sensor de tubidez</h2>
 
 <p>Este sensor (TCS3200) de color puede distinguir diferentes tonalidades y el sensor de turbidez mide la turbidez del agua, es decir, la cantidad de partículas suspendidas en ella, la turbidez puede indicar la presencia de micro plásticos o contaminantes en el agua, en este caso, se utilizará para detectar características específicas de los microorganismos marinos. Juntamente usaremos un microcontrolador como Arduino para gestionar los sensores y ejecutar el programa de detección y recolectar muestras de agua marina donde se sospeche la presencia de micro plásticos, donde requeriremos hacer que la información una vez detectada la presencia de microrganismos nos la envíe por mensaje de texto a los celulares.
 Calibración del sensor
