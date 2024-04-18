@@ -184,12 +184,14 @@ El modelo de utilidad proporciona un dispositivo experimental para detectar el c
 <h3>Definición de solución</h3>
 <p>Uso combinado del sensor TCS3200 junto al de turbidez</p>
 <img src="https://github.com/SebastianSilvaSC/Fundamento-Grupo_5/blob/main/Proyecto/Imagenes/C_TC3200.png">
+
 **Figura 9.** Sensor TCS3200
 
 <img src="https://github.com/SebastianSilvaSC/Fundamento-Grupo_5/blob/main/Proyecto/Imagenes/C_Turbidez.png">
+
 **Figura 10.** Sensor de tubidez
 
-<p>Este sensor (TCS3200) de color puede distinguir diferentes tonalidades y el sensor de turbidez mide la turbidez del agua, es decir, la cantidad de partículas suspendidas en ella, la turbidez puede indicar la presencia de micro plásticos o contaminantes en el agua, en este caso, se utilizará para detectar características específicas de los microorganismos marinos. Juntamente usaremos un microcontrolador como Arduino para gestionar los sensores y ejecutar el programa de detección y recolectar muestras de agua marina donde se sospeche la presencia de micro plásticos, donde requeriremos hacer que la información una vez detectada la presencia de microrganismos nos la envíe por mensaje de texto a los telefonos celulares usando el MODULO SIM800L con el arduino
+<p>Este sensor (TCS3200) de color puede distinguir diferentes tonalidades y el sensor de turbidez mide la turbidez del agua, es decir, la cantidad de partículas suspendidas en ella, la turbidez puede indicar la presencia de micro plásticos o contaminantes en el agua, en este caso, se utilizará para detectar características específicas de los microorganismos marinos. Juntamente usaremos un microcontrolador como Arduino para gestionar los sensores y ejecutar el programa de detección y recolectar muestras de agua marina donde se sospeche la presencia de microplásticos y una vez se detecte la presencia de estos se enviará por mensaje de texto a los telefonos celulares usando el MODULO SIM800L con el arduino.
 
 **Calibración del sensor**
 
@@ -201,17 +203,17 @@ Antes de utilizar los sensores, calibraremos el sistema para asegurarnos de que 
 Utilizaremos un programa en el microcontrolador que:
 <ol>
   <li>Active el sensor TCS3200 y obtenga lecturas de color de las muestras de agua que será apoyada por el sensor de turbidez.</li>
-  <li>Analice las lecturas de color para identificar patrones asociados con micro plásticos dañinos.</li>
-  <li>Establezca umbrales para determinar cuándo una muestra de agua contiene micro plásticos en niveles preocupantes.</li>
+  <li>Analice las lecturas de color para identificar patrones asociados con microplásticos dañinos.</li>
+  <li>Establezca umbrales para determinar cuándo una muestra de agua contiene microplásticos en niveles preocupantes.</li>
   
 </ol>
 
 <h4>B. Implementación de la prevención</h4>
 
-<p>Una vez que el programa detecta la presencia de micro plásticos dañinos en el agua marina implementaremos:</p>
+<p>Una vez que el programa detecte la presencia de microplásticos dañinos en el agua marina implementaremos:</p>
 <ol>
-  <li>Alertas automáticas: Configura el sistema para enviar alertas en tiempo real cuando se detecten niveles peligrosos de micro plásticos.</li>
-  <li>Muestreo continuo: Diseña el sistema para realizar muestreos continuos y mantener un monitoreo constante de la calidad del agua marina.</li>
+  <li>Alertas automáticas: Configuraremos el sistema para enviar alertas en tiempo real cuando se detecten niveles peligrosos de microplásticos.</li>
+  <li>Muestreo continuo: Diseñaremos el sistema para realizar muestreos continuos y mantener un monitoreo constante de la calidad del agua marina.</li>
 </ol>
 
 <h4>C. Evaluación y ajuste</h4>
