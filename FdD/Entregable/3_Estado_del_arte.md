@@ -170,7 +170,7 @@ G01N21/17
 
 El modelo de utilidad proporciona un dispositivo experimental para detectar el contenido de microplásticos en una masa de agua. El sistema de oscilación consta de un recipiente con un puerto de entrada de agua y otro para el agente de extracción, junto con un mecanismo de agitación interno. Además, incluye un sistema de detección que utiliza un mecanismo para medir la turbidez del agua. Este mecanismo de detección se conecta eléctricamente a un transmisor láser. El sistema de comunicación, a su vez, está compuesto por un tubo que conecta diversos componentes: uno de sus extremos lleva un tubo de muestreo ubicado dentro del recipiente, mientras que el otro extremo tiene un embudo posicionado sobre el mecanismo de detección de turbidez. El tubo de muestreo cuenta con una abertura para tomar muestras y un sensor fotoeléctrico, mientras que el tubo de comunicación incorpora una bomba de succión de agua. Según el modelo de utilidad, se fusionan conocimientos relacionados de química y física, la operación es simple, se puede realizar la operación del proceso, se ahorran costos laborales y económicos y se logra precisión. (7)
 
-<p align="center"><img src ="https://github.com/SebastianSilvaSC/Fundamento-Grupo_5/blob/main/Proyecto/Imagenes/C_DISPORTATIL.png" width="600px"></p>
+<p align="center"><img src ="https://github.com/SebastianSilvaSC/Fundamento-Grupo_5/blob/main/Proyecto/Imagenes/C_MICROEXPER.png" width="600px"></p>
 
 **Figura 6.** Dispositivo experimental para detectar el contenido de microplásticos en  agua. Fue extraído de: Haiyu, Y et al. (7).
 
