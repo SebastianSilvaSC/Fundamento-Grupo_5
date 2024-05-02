@@ -15,6 +15,9 @@
 <p align="center"><strong>Figura 3.</strong> Lista de salidas</p>
 
 <h2>3. Esquema de funciones</h2>
+
+![](https://github.com/SebastianSilvaSC/Fundamento-Grupo_5/blob/main/Proyecto/Imagenes/D_ESQUEMA.jpg)
+
 <h2>4. Matriz Morfológica</h2>
 
 ![](https://github.com/SebastianSilvaSC/Fundamento-Grupo_5/blob/main/Proyecto/Imagenes/D_Matriz.jpg)
