@@ -26,3 +26,5 @@
 ![](https://github.com/SebastianSilvaSC/Fundamento-Grupo_5/blob/main/Proyecto/Imagenes/D_tabla.jpg)
 
 <h2>6. Conclusión de CS elegido</h2>
+
+![](https://github.com/SebastianSilvaSC/Fundamento-Grupo_5/blob/main/Proyecto/Imagenes/D_Conclusión.jpg)
