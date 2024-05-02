@@ -16,5 +16,13 @@
 
 <h2>3. Esquema de funciones</h2>
 <h2>4. Matriz Morfológica</h2>
+
+![](https://github.com/SebastianSilvaSC/Fundamento-Grupo_5/blob/main/Proyecto/Imagenes/D_Matriz.jpg)
+
 <h2>5. Tabla de valoración</h2>
+
+<p align = "center"><img src="https://github.com/SebastianSilvaSC/Fundamento-Grupo_5/blob/main/Proyecto/Imagenes/D_VALORES.png"></p>
+
+![](https://github.com/SebastianSilvaSC/Fundamento-Grupo_5/blob/main/Proyecto/Imagenes/D_tabla.jpg)
+
 <h2>6. Conclusión de CS elegido</h2>
