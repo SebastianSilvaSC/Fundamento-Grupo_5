@@ -1,17 +1,18 @@
 <h1>CONCEPTOS DE SOLUCIÓN</h1>
 <h2>1. Caja negra</h2>
 
-<p align="center"><img src ="https://github.com/SebastianSilvaSC/Fundamento-Grupo_5/blob/main/Proyecto/Imagenes/C_DRAPER.png" width="600px"></p>
+<p align="center"><img src ="https://github.com/SebastianSilvaSC/Fundamento-Grupo_5/blob/main/Proyecto/Imagenes/D_CAJANEGRA.jpg" width="600px"></p>
 
-**Figura 1.** Caja Negra.
+<p align="center"><strong>Figura 1.</strong> Caja Negra.</p>
 
 <h2>2. Lista de entradas y salidas</h2>
-<p align="center"><img src ="https://github.com/SebastianSilvaSC/Fundamento-Grupo_5/blob/main/Proyecto/Imagenes/C_DRAPER.png" width="600px"></p>
+<p align="center"><img src ="https://github.com/SebastianSilvaSC/Fundamento-Grupo_5/blob/main/Proyecto/Imagenes/D_LENTRADAS.jpg" width="600px"></p>
 
-**Figura 2.** Lista de entradas.
-<p align="center"><img src ="https://github.com/SebastianSilvaSC/Fundamento-Grupo_5/blob/main/Proyecto/Imagenes/C_DRAPER.png" width="600px"></p>
+<p align="center"><strong>Figura 2.</strong> Lista de entradas.</p>
 
-**Figura 3.** Lista de salidas.
+<p align="center"><img src ="https://github.com/SebastianSilvaSC/Fundamento-Grupo_5/blob/main/Proyecto/Imagenes/D_LSALIDAS.jpg" width="600px"></p>
+
+<p align="center"><strong>Figura 3.</strong> Lista de salidas</p>
 
 <h2>3. Esquema de funciones</h2>
 <h2>4. Matriz Morfológica</h2>
