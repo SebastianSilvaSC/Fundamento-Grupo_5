@@ -176,10 +176,10 @@ El modelo de utilidad proporciona un dispositivo experimental para detectar el c
 
 <h2>3. Lista de requerimientos </h2>
 
-![](https://github.com/SebastianSilvaSC/Fundamento-Grupo_5/blob/main/Proyecto/Imagenes/C_Funcionales.jpeg)
+![](https://github.com/SebastianSilvaSC/Fundamento-Grupo_5/blob/main/Proyecto/Imagenes/C_F.jpeg)
 **Figura 7.** Requerimientos Funcionales.
 
-![](https://github.com/SebastianSilvaSC/Fundamento-Grupo_5/blob/main/Proyecto/Imagenes/C_No_funcionales.jpeg)
+![](https://github.com/SebastianSilvaSC/Fundamento-Grupo_5/blob/main/Proyecto/Imagenes/C_No_F.jpeg)
 **Figura 8.** Requerimientos No Funcionales.
 
 <h2>4. Definición de solución </h2>
