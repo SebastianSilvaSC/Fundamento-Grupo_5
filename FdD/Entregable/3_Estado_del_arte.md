@@ -34,6 +34,14 @@ La extracción térmica con termogravimetría(TGA)combinada con cromatografía d
   <q>Kumar, V., Umesh, M., Chakraborty, P., Sharma, P., Sarojini, S., Basheer, T., ... & Barcelo, D. (2023). Origin, ecotoxicity, and analytical methods for microplastic detection in aquatic systems. TrAC Trends in Analytical Chemistry, 117392.</q>
 </blockquote>
 
+<h4>Artículo 4</h4>
+<h3 align="center"><a href="https://www.sciencedirect.com/science/article/abs/pii/S026974912101263X" target="_blank">Contaminación por microplásticos en el estuario del Weser y en el Mar del Norte alemán</a></h3>
+
+<p>Este estudio se enfocó en investigar la presencia de microplásticos (MP) en el estuario y el tramo inferior del río Weser, el segundo más grande de Alemania, que actúa como una interfaz crucial entre agua dulce y ambiente marino. Se recolectaron muestras de agua superficial de diferentes tamaños y se analizaron para determinar la concentración de MP, la composición de polímeros y la distribución de tamaños. Para detectar los microplásticos, se utilizaron dos técnicas de análisis espectroscópico: espectroscopia de infrarrojos por transformada de Fourier (FTIR) de matriz de plano focal (FPA) y espectroscopia FTIR de reflexión total atenuada (ATR)Los resultados revelaron concentraciones más altas de MP en la fracción de 11 a 500 μm, principalmente compuesta por acrilatos/poliuretanos/barniz, mientras que la fracción >500 μm estaba dominada por polietileno. Se observó que las concentraciones de MP aumentaban en la Zona de Máxima Turbidez (TMZ) del estuario y disminuían hacia el mar abierto. (Roscher et al., 2021)</p>
+
+<blockquote>
+  <q>Roscher, L., Fehres, A., Reisel, L., Halbach, M., Scholz-Böttcher, B., Gerriets, M., ... & Gerdts, G. (2021). Microplastic pollution in the Weser estuary and the German North Sea. Environmental pollution, 288, 117681.</q>
+</blockquote>
 
 ## 2. Contexto Comercial
 
