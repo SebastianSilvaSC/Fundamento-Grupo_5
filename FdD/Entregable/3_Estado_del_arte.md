@@ -206,44 +206,18 @@ El modelo de utilidad proporciona un dispositivo experimental para detectar el c
 
 <h2>4. Definición de solución </h2>
 
-<p>Uso combinado del sensor TCS3200 junto al de turbidez</p>
-<img src="https://github.com/SebastianSilvaSC/Fundamento-Grupo_5/blob/main/Proyecto/Imagenes/C_TC3200.png">
+Nuestra propuesta de solución es desarrollar un dispositivo compacto y resistente al agua que pueda sumergirse en diferentes cuerpos de agua para detectar y estimar la concentración de micro y macroplásticos en mg/L, utilizando tecnología de espectroscopía, medición de turbidez y comunicación móvil.
 
-**Figura 9.** Sensor TCS3200
+El prototipo incluirá un espectrómetro casero para analizar los espectros de luz reflejados por partículas en el agua y compararlos con una base de datos preexistente de plásticos, un sensor de turbidez para medir la claridad del agua, y un módulo SIM800L para enviar alertas inmediatas por mensaje de texto sobre la contaminación detectada.
+
+
+<img src="https://github.com/SebastianSilvaSC/Fundamento-Grupo_5/blob/main/Proyecto/Imagenes/C_ESPECTOMETROCASERO.jpg">
+
+**Figura 9.** Espectrómetro Casero
 
 <img src="https://github.com/SebastianSilvaSC/Fundamento-Grupo_5/blob/main/Proyecto/Imagenes/C_Turbidez.png">
 
 **Figura 10.** Sensor de tubidez
-
-<p>Este sensor (TCS3200) de color puede distinguir diferentes tonalidades y el sensor de turbidez mide la turbidez del agua, es decir, la cantidad de partículas suspendidas en ella, la turbidez puede indicar la presencia de micro plásticos o contaminantes en el agua, en este caso, se utilizará para detectar características específicas de los microorganismos marinos. Juntamente usaremos un microcontrolador como Arduino para gestionar los sensores y ejecutar el programa de detección y recolectar muestras de agua marina donde se sospeche la presencia de microplásticos y una vez se detecte la presencia de estos se enviará por mensaje de texto a los telefonos celulares usando el MODULO SIM800L con el arduino.
-
-**Calibración del sensor**
-
-Antes de utilizar los sensores, calibraremos el sistema para asegurarnos de que los valores de color detectados sean precisos y consistentes.
-
-<h4>A. Programación del microcontrolador</h4>
-
-
-Utilizaremos un programa en el microcontrolador que:
-<ol>
-  <li>Active el sensor TCS3200 y obtenga lecturas de color de las muestras de agua que será apoyada por el sensor de turbidez.</li>
-  <li>Analice las lecturas de color para identificar patrones asociados con microplásticos dañinos.</li>
-  <li>Establezca umbrales para determinar cuándo una muestra de agua contiene microplásticos en niveles preocupantes.</li>
-  
-</ol>
-
-<h4>B. Implementación de la prevención</h4>
-
-<p>Una vez que el programa detecte la presencia de microplásticos dañinos en el agua marina implementaremos:</p>
-<ol>
-  <li>Alertas automáticas: Configuraremos el sistema para enviar alertas en tiempo real cuando se detecten niveles peligrosos de microplásticos.</li>
-  <li>Muestreo continuo: Diseñaremos el sistema para realizar muestreos continuos y mantener un monitoreo constante de la calidad del agua marina.</li>
-</ol>
-
-<h4>C. Evaluación y ajuste</h4>
-<p>Después de implementar el sistema, se realizará evaluaciones periódicas para asegurarnos de que esté funcionando correctamente. Realizaremos ajustes en el programa y en la configuración del sensor según sea necesario para mejorar la precisión y la eficiencia de la detección.
-  
-La solución será utilizar el sensor TCS3200 junto al sensor de turbidez para detectar micro plásticos usando el MODULO SIM800L con el arduino que permitirá enviar alertas a telefonos celulares y así tomar medidas preventivas para proteger la salud de los ecosistemas marinos y de las personas que dependen de ellos.</p>
 
 **Referencias**
 1. Izan González. (2020). Draper, el dron submarino que acaba con los microplásticos. El Español. 
