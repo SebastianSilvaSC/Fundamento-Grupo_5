@@ -37,11 +37,25 @@ La extracción térmica con termogravimetría(TGA)combinada con cromatografía d
 <h4>Artículo 4</h4>
 <h3 align="center"><a href="https://www.sciencedirect.com/science/article/abs/pii/S026974912101263X" target="_blank">Contaminación por microplásticos en el estuario del Weser y en el Mar del Norte alemán</a></h3>
 
+<p align="center"><img src ="https://github.com/SebastianSilvaSC/Fundamento-Grupo_5/blob/main/Proyecto/Imagenes/C_ART4.jpg" width="600px"></p>
+
 <p>Este estudio se enfocó en investigar la presencia de microplásticos (MP) en el estuario y el tramo inferior del río Weser, el segundo más grande de Alemania, que actúa como una interfaz crucial entre agua dulce y ambiente marino. Se recolectaron muestras de agua superficial de diferentes tamaños y se analizaron para determinar la concentración de MP, la composición de polímeros y la distribución de tamaños. Para detectar los microplásticos, se utilizaron dos técnicas de análisis espectroscópico: espectroscopia de infrarrojos por transformada de Fourier (FTIR) de matriz de plano focal (FPA) y espectroscopia FTIR de reflexión total atenuada (ATR)Los resultados revelaron concentraciones más altas de MP en la fracción de 11 a 500 μm, principalmente compuesta por acrilatos/poliuretanos/barniz, mientras que la fracción >500 μm estaba dominada por polietileno. Se observó que las concentraciones de MP aumentaban en la Zona de Máxima Turbidez (TMZ) del estuario y disminuían hacia el mar abierto. (Roscher et al., 2021)</p>
 
 <blockquote>
   <q>Roscher, L., Fehres, A., Reisel, L., Halbach, M., Scholz-Böttcher, B., Gerriets, M., ... & Gerdts, G. (2021). Microplastic pollution in the Weser estuary and the German North Sea. Environmental pollution, 288, 117681.</q>
 </blockquote>
+
+<h4>Artículo 5</h4>
+<h3 align="center"><a href="https://www.sciencedirect.com/science/article/pii/S2666498423001059" target="_blank">Revelando la distribución y las interacciones de microplásticos en la capa bentónica del estuario del río Yangtze y el Mar de China Oriental</a></h3>
+
+<p align="center"><img src ="https://github.com/SebastianSilvaSC/Fundamento-Grupo_5/blob/main/Proyecto/Imagenes/C_ART5.jpg" width="600px"></p>
+
+<p>Este estudio se enfoca en la distribución de microplásticos (MP) en la capa bentónica del estuario del río Yangtze (YRE) y el Mar de China Oriental (ECS), áreas de alta importancia ecológica y económica. Se encontró que los MP son significativamente más abundantes en el agua del fondo que en la superficie, principalmente compuestos por fibras de poliéster y con tamaños que oscilan entre 0,5 y 5,0 mm. Se estableció una correlación sólida entre los MP en el agua del fondo y los sedimentos, destacando el papel crucial del agua del fondo en la distribución y el transporte de los MP en la capa bentónica. Además, se observó una relación positiva entre la cantidad de MP en los sedimentos y la turbidez del agua del fondo, lo que sugiere que la resuspensión de sedimentos superficiales puede aumentar la presencia de MP en el agua. (Roscher et al., 2021)</p>
+
+<blockquote>
+  <q>Ge, X., Xu, F., Li, B., Liu, L., Lu, X., Wang, L., ... & Tang, Y. (2024). Unveiling microplastic distribution and interactions in the benthic layer of the Yangtze River Estuary and East China Sea. Environmental Science and Ecotechnology, 20, 100340.</q>
+</blockquote>
+
 
 ## 2. Contexto Comercial
 
