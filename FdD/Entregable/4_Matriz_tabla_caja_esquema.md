@@ -20,7 +20,7 @@
 
 <h2>4. Matriz Morfológica</h2>
 
-![](https://github.com/SebastianSilvaSC/Fundamento-Grupo_5/blob/main/Proyecto/Imagenes/D_Matriz.jpg)
+<p align = "center"><img src="https://github.com/SebastianSilvaSC/Fundamento-Grupo_5/blob/main/Proyecto/Imagenes/D_Matriz.jpeg"></p>
 
 <h2>5. Tabla de valoración</h2>
 
