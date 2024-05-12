@@ -24,14 +24,14 @@ En una mezcla de distintos tipos de plásticos con harina demostraron que CM-ESH
 </blockquote>
 
 <h4>Artículo 3</h4>
-<h3 align="center"><a href="https://www.sciencedirect.com/science/article/pii/S016599362300479X" target="_blank">Origen, ecotoxicidad y métodos analíticos para la detección de microplásticos en sistemas acuáticos.</a></h3>
+<h3 align="center"><a href="https://www.mdpi.com/2073-4441/13/15/2104" target="_blank">Una práctica aplicación de código abierto basada en visión por computadora y algoritmos de aprendizaje automático para contar y clasificar microplásticos.</a></h3>
 
-<p>En este artículo describe uno de los métodos de detección que consta de otros métodos que es el análisis de pirólisis, como el método de pirólisis térmica y la pirólisis GC-MS(Py-GC-MS), las muestras se degradan y el producto se absorbe en un dispositivo de fase sólida y posteriormente se identifica mediante GC-MS.Este método es considerado más eficiente para la cuantificación de microplásticos, ya que nos informa sobre las características moleculares de partículas. Sin embargo, el método muestra una desviación estándar y detecta todos los distintos tipos de microplásticos excepto PU, PET y diisocianato de 4,4'-difenilmetano(MDI).(Kumar et al., 2024)
+<p>El estudio describe el desarrollo de un método innovador que utiliza la visión por computadora y machine learning para automatizar el conteo y la clasificación de microplásticos en diversas categorías de morfología y tamaño, eliminando la nacesidad de métodos manuales que son tanto laboriosos como susceptibles a errores.(Massarelli, C., Campanale, C., & Uricchio, V. F., 2021)
 
-La extracción térmica con termogravimetría(TGA)combinada con cromatografía de gases por desorción térmica y espectrometría de masas(TDS-GC-MS). Este también es un método de degradación; sin embargo, provocó una pérdida de distribución de tamaño junto con la fusión del material polimérico. Para solucionar este problema, se introduce el método de degradación térmica junto con GC-MS. Este método detecta eficazmente PP,PE y PS.(Kumar et al., 2024)</p>
+El modelo se basa en técnicas avanzadas de aprendizaje automático, tanto supervisadas como no supervisadas, para mejorar la precisión de la clasificación. Los resultados iniciales demostraron una alta precisión en la clasificación de los microplásticos y subrayando la utilidad del método para estandalizar procedimientos en investigaciones ambientales.(Massarelli, C., Campanale, C., & Uricchio, V. F., 2021)</p>
 
 <blockquote>
-  <q>Kumar, V., Umesh, M., Chakraborty, P., Sharma, P., Sarojini, S., Basheer, T., ... & Barcelo, D. (2023). Origin, ecotoxicity, and analytical methods for microplastic detection in aquatic systems. TrAC Trends in Analytical Chemistry, 117392.</q>
+  <q>Massarelli, C., Campanale, C., & Uricchio, V. F. (2021). A handy open-source application based on computer vision and machine learning algorithms to count and classify microplastics. Water, 13(15), 2104.</q>
 </blockquote>
 
 <h4>Artículo 4</h4>
@@ -229,4 +229,4 @@ El prototipo incluirá un espectrómetro casero para analizar los espectros de l
 7. Haiyu, Y et al.(2022) Experimental device for detecting content of micro-plastics in water body (Patent No. CN216792004U) China
 8. Zou, H. H., He, P. J., Peng, W., Lan, D. Y., Xian, H. Y., Lü, F., & Zhang, H. (2024). Rapid detection of colored and colorless macro-and micro-plastics in complex environment via near-infrared spectroscopy and machine learning. Journal of Environmental Sciences, 147, 512-522
 9. Li, F., Song, N., Li, X., Mi, X., Sun, C., Sun, Y., ... & Qiu, J. (2024). Detection of microplastics via a confocal-microscope spatial-heterodyne Raman spectrometer with echelle gratings. Spectrochimica Acta Part A: Molecular and Biomolecular Spectroscopy, 124099
-10. Kumar, V., Umesh, M., Chakraborty, P., Sharma, P., Sarojini, S., Basheer, T., ... & Barcelo, D. (2023). Origin, ecotoxicity, and analytical methods for microplastic detection in aquatic systems. TrAC Trends in Analytical Chemistry, 117392.
+10. Massarelli, C., Campanale, C., & Uricchio, V. F. (2021). A handy open-source application based on computer vision and machine learning algorithms to count and classify microplastics. Water, 13(15), 2104.
