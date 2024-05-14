@@ -206,7 +206,7 @@ El modelo de utilidad proporciona un dispositivo experimental para detectar el c
 
 <h2>4. Definición de solución </h2>
 
- Una solución de cámara Arduino para detectar microplásticos puede ser un proyecto interesante y útil para abordar la creciente preocupación por la contaminación ambiental. Aquí hay una posible implementación de una solución de cámara Arduino para detectar micro plásticos:
+ Aquí hay una posible implementación de una solución de cámara Arduino para detectar micro plásticos:
 
 
 1.- SELECCIÓN DE HARDWARE:
