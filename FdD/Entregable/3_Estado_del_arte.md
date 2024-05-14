@@ -206,9 +206,64 @@ El modelo de utilidad proporciona un dispositivo experimental para detectar el c
 
 <h2>4. Definición de solución </h2>
 
-Nuestra propuesta de solución es desarrollar un dispositivo compacto y resistente al agua que pueda sumergirse en diferentes cuerpos de agua para detectar y estimar la concentración de micro y macroplásticos en mg/L, utilizando tecnología de espectroscopía, medición de turbidez y comunicación móvil.
+ Una solución de cámara Arduino para detectar microplásticos puede ser un proyecto interesante y útil para abordar la creciente preocupación por la contaminación ambiental. Aquí hay una posible implementación de una solución de cámara Arduino para detectar micro plásticos:
 
-El prototipo incluirá un espectrómetro casero para analizar los espectros de luz reflejados por partículas en el agua y compararlos con una base de datos preexistente de plásticos, un sensor de turbidez para medir la claridad del agua, y un módulo SIM800L para enviar alertas inmediatas por mensaje de texto sobre la contaminación detectada.
+
+1.- SELECCIÓN DE HARDWARE:
+
+
+Elija una cámara compatible con Arduino que tome imágenes de alta resolución y alta calidad.
+ 
+Puedes elegir un módulo de cámara como OV7670 o ArduCAM, que son populares y relativamente fáciles de usar con Arduino.
+
+ 
+2.- MONTAJE DE HARDWARE:
+
+
+Conecte el módulo de la cámara al Arduino según las especificaciones del fabricante.
+ 
+Asegúrese de seguir los pasos correctos para conectar y alimentar el módulo de la cámara.
+ 
+
+3.- PROGRAMACIÓN ARDUINO:
+
+Escriba el código requerido utilizando el IDE de Arduino y el lenguaje de programación Arduino. Aquí hay algunas tareas que puede incluir:
+
+Configuración de la cámara: inicialice la cámara y configure los parámetros de grabación como la resolución y la velocidad de fotogramas.
+ 
+Capturar imágenes: 
+
+Escriba el código para capturar imágenes con la cámara.
+ 
+Procesamiento de imágenes:
+
+Implementar algoritmos de procesamiento de imágenes para analizar imágenes capturadas y detectar la presencia de microplásticos.
+ 
+Esto puede incluir técnicas de análisis de color, detección de contornos u otras técnicas de visión por computadora.
+
+ 
+4.-INTERFAZ DE USUARIO (OPCIONAL):
+
+Si lo desea, puede agregar una interfaz de usuario para ver los resultados de las pruebas de microplásticos.
+ 
+Esto puede incluir pantallas LCD para mostrar información o indicadores LED para indicar la presencia de microplásticos.
+
+
+5.- PRUEBAS Y CALIBRACIÓN:
+
+Una revisión exhaustiva de su sistema para asegurarse de que esté funcionando correctamente.
+ 
+Ajuste los parámetros y algoritmos según sea necesario para mejorar la precisión y confiabilidad de la detección de microplásticos.
+ 
+
+6.- IMPLEMENTACIÓN E IMPLEMENTACIÓN:
+
+
+Una vez que esté satisfecho con el rendimiento del sistema, puede implementarlo en el entorno que elija. Esto podría incluir integrarlo en dispositivos portátiles de muestreo de agua o montarlo en vehículos autónomos para el monitoreo ambiental.
+ 
+Tenga en cuenta que la detección de microplásticos es un desafío técnico complejo y es posible que deba investigar y experimentar con diferentes métodos y algoritmos para obtener resultados precisos y confiables.
+ 
+
 
 
 <img src="https://github.com/SebastianSilvaSC/Fundamento-Grupo_5/blob/main/Proyecto/Imagenes/C_ESPECTOMETROCASERO.jpg">
