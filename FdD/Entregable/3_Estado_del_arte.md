@@ -221,63 +221,10 @@ Camara arduino wifi
 ![image](https://github.com/SebastianSilvaSC/Fundamento-Grupo_5/assets/150815171/d8cd0114-d037-4525-903b-23e8b087776b)
 Deteccion de color
 
- 
-2.- MONTAJE DE HARDWARE:
-
-
-Conecte el módulo de la cámara al Arduino según las especificaciones del fabricante.
- 
-Asegúrese de seguir los pasos correctos para conectar y alimentar el módulo de la cámara.
- 
-
-3.- PROGRAMACIÓN ARDUINO:
-
-Escriba el código requerido utilizando el IDE de Arduino y el lenguaje de programación Arduino. Aquí hay algunas tareas que puede incluir:
-
-Configuración de la cámara: inicialice la cámara y configure los parámetros de grabación como la resolución y la velocidad de fotogramas.
- 
-Capturar imágenes: 
-
-Escriba el código para capturar imágenes con la cámara.
- 
-Procesamiento de imágenes:
-
-Implementar algoritmos de procesamiento de imágenes para analizar imágenes capturadas y detectar la presencia de microplásticos.
- 
-Esto puede incluir técnicas de análisis de color, detección de contornos u otras técnicas de visión por computadora.
-
- 
-4.-INTERFAZ DE USUARIO (OPCIONAL):
-
-Si lo desea, puede agregar una interfaz de usuario para ver los resultados de las pruebas de microplásticos.
- 
-Esto puede incluir pantallas LCD para mostrar información o indicadores LED para indicar la presencia de microplásticos.
-
-
-5.- PRUEBAS Y CALIBRACIÓN:
-
-Una revisión exhaustiva de su sistema para asegurarse de que esté funcionando correctamente.
- 
-Ajuste los parámetros y algoritmos según sea necesario para mejorar la precisión y confiabilidad de la detección de microplásticos.
- 
-
-6.- IMPLEMENTACIÓN E IMPLEMENTACIÓN:
-
-
-Una vez que esté satisfecho con el rendimiento del sistema, puede implementarlo en el entorno que elija. Esto podría incluir integrarlo en dispositivos portátiles de muestreo de agua o montarlo en vehículos autónomos para el monitoreo ambiental.
- 
-Tenga en cuenta que la detección de microplásticos es un desafío técnico complejo y es posible que deba investigar y experimentar con diferentes métodos y algoritmos para obtener resultados precisos y confiables.
- 
 
 
 
-<img src="https://github.com/SebastianSilvaSC/Fundamento-Grupo_5/blob/main/Proyecto/Imagenes/C_ESPECTOMETROCASERO.jpg">
 
-**Figura 9.** Espectrómetro Casero
-
-<img src="https://github.com/SebastianSilvaSC/Fundamento-Grupo_5/blob/main/Proyecto/Imagenes/C_Turbidez.png">
-
-**Figura 10.** Sensor de tubidez
 
 **Referencias**
 1. Izan González. (2020). Draper, el dron submarino que acaba con los microplásticos. El Español. 
