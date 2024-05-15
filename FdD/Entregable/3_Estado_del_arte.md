@@ -218,9 +218,10 @@ Tengamos en cuenta que la detección de microplásticos es un desafío técnico 
 ![image](https://github.com/SebastianSilvaSC/Fundamento-Grupo_5/assets/150815171/fb964c9b-3db4-4598-9677-51bfa22e5c98)
 Camara arduino wifi
 
+
+
 ![image](https://github.com/SebastianSilvaSC/Fundamento-Grupo_5/assets/150815171/d8cd0114-d037-4525-903b-23e8b087776b)
 Deteccion de color
-
 
 
 
