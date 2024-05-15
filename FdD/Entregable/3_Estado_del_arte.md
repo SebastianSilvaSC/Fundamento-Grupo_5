@@ -206,7 +206,7 @@ El modelo de utilidad proporciona un dispositivo experimental para detectar el c
 
 <h2>4. Definición de solución </h2>
 
-Cámara Arduino WIFI para detectar micro plásticos:
+Cámara Arduino WIFI para detectar micro plásticos.
  
 Escribiremos el código requerido utilizando el IDE de Arduino y el lenguaje de programación Arduino. Aquí hay algunas tareas que puede incluir. Configuración de la cámara, inicializar la cámara y configurar los parámetros de grabación como la resolución y la velocidad de fotogramas. En el procesamiento de imágenes, implementaremos algoritmos de procesamiento de imágenes para analizar imágenes capturadas y detectar la presencia de microplásticos. Esto puede incluir técnicas de análisis de color, detección de contornos u otras técnicas de visión por computadora.
 
