@@ -118,7 +118,7 @@ G01N21/8851 Procesamiento de señales de escaneo o de imagen especialmente adapt
 La invención describe un método de detección de microplásticos de alto flujo que comienza con la recolección de una muestra de agua. Primero, se extraen los microplásticos presentes en la muestra para obtener una muestra lista para ser analizada. A continuación, esta muestra se transfiere a una placa de orificio, donde se organiza para facilitar el análisis. Luego, se adquieren imágenes de alta definición de todos los orificios en la placa utilizando una cámara sCMOS de alto flujo. Estas cámaras son altamente sensibles y capaces de capturar detalles finos.
 Posteriormente, el software HCS Studio se emplea para analizar las imágenes capturadas. Este software identifica los microplásticos en las imágenes de alta definición y realiza un conteo exacto de las partículas presentes. De esta manera, la invención permite la detección rápida y precisa de microplásticos en muestras de agua, superando las limitaciones de velocidad y precisión de los métodos de detección tradicionales. (5)
 
-<p align="center"><img src ="https://github.com/SebastianSilvaSC/Fundamento-Grupo_5/blob/main/Proyecto/Imagenes/C_DISPORTATIL.png" width="600px"></p>
+<p align="center"><img src ="https://github.com/SebastianSilvaSC/Fundamento-Grupo_5/blob/main/Proyecto/Imagenes/C_nuevapatente.png" width="600px"></p>
 
 **Figura 4.** Método de detección de microplásticos de alta productividad utilizando cámaras sCMOS para obtener imágenes de alta definición. Fue extraído de: 吴兵 et al. (5).
 
