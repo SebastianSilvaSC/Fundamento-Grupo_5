@@ -163,13 +163,41 @@ El modelo de utilidad proporciona un dispositivo experimental para detectar el c
 
 **Figura 6.** Dispositivo experimental para detectar el contenido de microplásticos en  agua. Fue extraído de: Haiyu, Y et al. (7).
 
+#### Patente de invención
+<h3 align="center"><a href="https://patents.google.com/patent/CN107807005A/en?oq=CN107807005A" target="_blank"> Un tipo de microplásticos de muestra de agua de mar portátil y el dispositivo y método de pretratamiento</a></h3>
+
+
+**Número de publicación:** CN107807005A
+
+
+**Fecha de publicación:** 2023-06-20
+
+
+**CIP:** 
+
+G01N1/02 Dispositivos para retirar muestras.
+
+G01N1/34 Purificación; Limpieza
+
+G01N1/44 Tratamiento de muestras que implica radiación, por ejemplo, calor.
+
+
+**Modelo de invención**
+
+La invención describe el dispositivo y método de un tipo de muestreo de microplásticos de agua de mar portátiles y su pretratamiento. Los componentes que posee son la concha, la entrada de agua que se dispone en el extremo superior de la concha, la primera tela de criba y la segunda tela de pantalla. Además, el puerto de entrega está en el extremo inferior de la carcasa, el cabezal rociador y la salida de escape, están en el generador ultrasónico de calentamiento eléctrico que está conectado en la carcasa con la entrada de agua, y este se encuentra en el dispositivo de control de flujo de presión que está conectado en el exterior carcasa con entrada de agua. (11)
+El método y el paso son: (1) Dispositivo de implementación; (2) Recogida de la muestra; (3) Se invierte para enjuagar y recoger; (4) Purificación fina, que se recoge y se lleva a cabo el análisis del programa técnico que utiliza innovación, separador. Es fácil de operar, ahorra tiempo y el sistema cerrado evita el estancamiento lo que es adecuado para la muestra de microplástico de agua de mar en vivo. Posee una adquisición rápida con separación y análisis instantáneo de la muestra.
+
+<p align="center"><img src ="https://github.com/SebastianSilvaSC/Fundamento-Grupo_5/blob/main/Proyecto/Imagenes/C_TIPOMICRO.png" width="600px"></p>
+
+**Figura 7.** Un tipo de microplásticos de muestra de agua de mar portátil y el dispositivo y método de pretratamiento. Fue extraído de: 高楠 et al.(11).
+
 <h2>3. Lista de requerimientos </h2>
 
 ![](https://github.com/SebastianSilvaSC/Fundamento-Grupo_5/blob/main/Proyecto/Imagenes/C_F.jpeg)
-**Figura 7.** Requerimientos Funcionales.
+**Figura 8.** Requerimientos Funcionales.
 
 ![](https://github.com/SebastianSilvaSC/Fundamento-Grupo_5/blob/main/Proyecto/Imagenes/C_No_F.jpeg)
-**Figura 8.** Requerimientos No Funcionales.
+**Figura 9.** Requerimientos No Funcionales.
 
 <h2>4. Definición de solución </h2>
 
