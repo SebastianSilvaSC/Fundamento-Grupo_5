@@ -186,11 +186,11 @@ El modelo de utilidad proporciona un dispositivo experimental para detectar el c
 
 Cámara Arduino WIFI para detectar micro plásticos.
  
-Escribiremos el código requerido utilizando el IDE de Arduino y el lenguaje de programación Arduino. Aquí hay algunas tareas que puede incluir. Configuración de la cámara, inicializar la cámara y configurar los parámetros de grabación como la resolución y la velocidad de fotogramas. En el procesamiento de imágenes, implementaremos algoritmos de procesamiento de imágenes para analizar imágenes capturadas y detectar la presencia de microplásticos. Esto puede incluir técnicas de análisis de color, detección de contornos u otras técnicas de visión por computadora.
+Escribiremos el código requerido utilizando el IDE y el lenguaje de programación Arduino. Aquí hay algunas tareas que puede incluir. La Configuración y inicializacion de la cámara, configurar los parámetros de grabación como la resolución y la velocidad de fotogramas. implementaremos algoritmos de procesamiento  para analizar imágenes capturadas y detectar la presencia de microplásticos. Esto puede incluir técnicas de análisis de color, detección de contornos u otras técnicas de visión por computadora.
 
 Tener una revisión exhaustiva de su sistema para asegurarse de que esté funcionando correctamente. Ajustar los parámetros y algoritmos según sea necesario para mejorar la precisión y confiabilidad de la detección de microplásticos. Una vez que esté satisfecho el rendimiento del sistema, puede implementarlo en el entorno que elijamos. Esto podría integrarlo en dispositivos portátiles de muestreo de agua o montarlo en vehículos autónomos para el monitoreo ambiental.
 
-Tengamos en cuenta que la detección de microplásticos es un desafío técnico complejo y es posible que deba investigar y experimentar con diferentes métodos y algoritmos para obtener resultados precisos y confiables.
+Tengamos en cuenta que la detección de microplásticos es un desafío técnico complejo y posible de investigar y experimentar con diferentes métodos y algoritmos para obtener resultados precisos y confiables.
 
 
 ![image](https://github.com/SebastianSilvaSC/Fundamento-Grupo_5/assets/150815171/fb964c9b-3db4-4598-9677-51bfa22e5c98)
