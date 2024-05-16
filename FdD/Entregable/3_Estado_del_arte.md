@@ -139,7 +139,6 @@ La invención divulga un método y un sistema para identificar microplásticos e
 A partir de los resultados de este análisis, se lleva a cabo un análisis de regulación de la contaminación, lo que permite obtener un esquema correspondiente para la regulación de la ruta de contaminación por microplásticos. De este modo, se logra un control de contaminación preciso y eficiente en dicha área.
 (6).
 
-<p align="center"><img src ="https://github.com/SebastianSilvaSC/Fundamento-Grupo_5/blob/main/Proyecto/Imagenes/C_TIPOMICRO.png" width="600px"></p>
 
 **Figura 5.** Método basado en aprendizaje profundo para identificar microplásticos en cuerpos de agua mediante el uso de datos históricos de imágenes de muestras de agua. Fue extraído de: 高艳丽 et al.(6).
 
