@@ -103,55 +103,45 @@ La información sobre los residuos se recoge, almacena y analiza a través de la
 
 ### B. Patentes
 #### Patente de invención
-<h3 align="center"><a href="https://patentscope.wipo.int/search/es/detail.jsf?docId=CN397761252" target="_blank"> Dispositivo Portátil de Detección de Microplásticos basado en Microscopía Holográfica Coaxial Digital</a></h3>
+<h3 align="center"><a href="https://patents.google.com/patent/CN116297469A/en" target="_blank"> Método de detección de microplásticos de alta productividad utilizando cámaras sCMOS para obtener imágenes de alta definición.</a></h3>
 
-**Número de publicación:** CN116026729
+**Número de publicación:** CN116297469A
 
-**Fecha de publicación:** 28.04.2023
+**Fecha de publicación:** 2023-06-23
 
 **CIP:** 
-G01N 15/00
 
-G01N 15/149 
-
-G01N 15/1429 
-
-G01N 15/0227
+G01N21/8851 Procesamiento de señales de escaneo o de imagen especialmente adaptado para ello
 
 
 **Modelo de invención**
-La invención es un dispositivo portátil de detección de microplásticos que emplea microscopía holográfica coaxial digital (visualización tridimensional detallada de la muestra), y tiene como objetivo resolver los problemas de que en la técnica anterior, el cual era un dispositivo de detección incómodo de llevar, y donde la puntualidad de la detección de microplásticos era deficiente. 
-Este dispositivo incorpora una placa de montaje en la carcasa, un conjunto de fuente de luz, un conjunto de propagación de luz, una cubeta de flujo, un conjunto de reflexión de campo de luz y un colector de imágenes que están fijados secuencialmente en la placa de montaje, además de una pantalla táctil que está en la carcasa y la cubeta de flujo está conectada con un conjunto de regulación de velocidad, y el conjunto de fuente de luz, el colector de imágenes, la pantalla táctil y el conjunto de regulación de velocidad están conectados eléctricamente con un procesador de control, respectivamente.
-El dispositivo tiene una estructura simple, es de alta portabilidad y fácil de operar, basado en la tecnología de microscopía holográfica coaxial digital. La estructura tridimensional, la variedad y la cantidad de microplásticos se obtienen de manera eficiente. La variedad y densidad de los microplásticos marinos se pueden analizar directa y preliminarmente en el entorno de campo, y se reduce el costo de mano de obra y tiempo para analizar los microplásticos marinos. (5)
+La invención describe un método de detección de microplásticos de alto flujo que comienza con la recolección de una muestra de agua. Primero, se extraen los microplásticos presentes en la muestra para obtener una muestra lista para ser analizada. A continuación, esta muestra se transfiere a una placa de orificio, donde se organiza para facilitar el análisis. Luego, se adquieren imágenes de alta definición de todos los orificios en la placa utilizando una cámara sCMOS de alto flujo. Estas cámaras son altamente sensibles y capaces de capturar detalles finos.
+Posteriormente, el software HCS Studio se emplea para analizar las imágenes capturadas. Este software identifica los microplásticos en las imágenes de alta definición y realiza un conteo exacto de las partículas presentes. De esta manera, la invención permite la detección rápida y precisa de microplásticos en muestras de agua, superando las limitaciones de velocidad y precisión de los métodos de detección tradicionales. (5)
 
 <p align="center"><img src ="https://github.com/SebastianSilvaSC/Fundamento-Grupo_5/blob/main/Proyecto/Imagenes/C_DISPORTATIL.png" width="600px"></p>
 
-**Figura 4.** Dispositivo Portátil de Detección de Microplásticos basado en Microscopía Holográfica Coaxial Digital. Fue extraído de: Buyu, G et al. (5).
+**Figura 4.** Método de detección de microplásticos de alta productividad utilizando cámaras sCMOS para obtener imágenes de alta definición. Fue extraído de: 吴兵 et al. (5).
 
 #### Patente de invención
-<h3 align="center"><a href="https://patents.google.com/patent/CN107807005A/en?oq=CN107807005A" target="_blank"> Un tipo de microplásticos de muestra de agua de mar portátil y el dispositivo y método de pretratamiento</a></h3>
+<h3 align="center"><a href="https://patents.google.com/patent/CN116385863A/en" target="_blank">Método basado en aprendizaje profundo para identificar microplásticos en cuerpos de agua mediante el uso de datos históricos de imágenes de muestras de agua.</a></h3>
 
-**Número de publicación:** CN107807005A
+**Número de publicación:** CN116385863A
 
-**Fecha de publicación:** 2023-06-20
+**Fecha de publicación:** 2024-02-02
 
 **CIP:** 
 
-G01N1/02 Dispositivos para retirar muestras.
-
-G01N1/34 Purificación; Limpieza
-
-G01N1/44 Tratamiento de muestras que implica radiación, por ejemplo, calor.
+G06V20/05 - Escenas submarinas
 
 
 **Modelo de invención**
-
-La invención describe el dispositivo y método de un tipo de muestreo de microplásticos de agua de mar portátiles y su pretratamiento. Los componentes que posee son la concha, la entrada de agua que se dispone en el extremo superior de la concha, la primera tela de criba y la segunda tela de pantalla. Además, el puerto de entrega está en el extremo inferior de la carcasa, el cabezal rociador y la salida de escape, están en el generador ultrasónico de calentamiento eléctrico que está conectado en la carcasa con la entrada de agua, y este se encuentra en el dispositivo de control de flujo de presión que está conectado en el exterior carcasa con entrada de agua. (6)
-El método y el paso son: (1) Dispositivo de implementación; (2) Recogida de la muestra; (3) Se invierte para enjuagar y recoger; (4) Purificación fina, que se recoge y se lleva a cabo el análisis del programa técnico que utiliza innovación, separador. Es fácil de operar, ahorra tiempo y el sistema cerrado evita el estancamiento lo que es adecuado para la muestra de microplástico de agua de mar en vivo. Posee una adquisición rápida con separación y análisis instantáneo de la muestra.
+La invención divulga un método y un sistema para identificar microplásticos en cuerpos de agua utilizando aprendizaje profundo. Inicialmente, se adquieren e importan datos históricos de imágenes de muestras de agua de microplásticos en un área de cuerpo de agua preestablecida a un modelo de identificación de microplásticos basado en aprendizaje profundo para su entrenamiento. Posteriormente, esta área preestablecida se divide en una pluralidad de subáreas, de las cuales se adquieren nuevas imágenes de muestras de agua. Estos datos de imágenes se importan al modelo de identificación de microplásticos para la clasificación e identificación de los microplásticos, así como para el análisis de su distribución en las diferentes áreas.
+A partir de los resultados de este análisis, se lleva a cabo un análisis de regulación de la contaminación, lo que permite obtener un esquema correspondiente para la regulación de la ruta de contaminación por microplásticos. De este modo, se logra un control de contaminación preciso y eficiente en dicha área.
+(6).
 
 <p align="center"><img src ="https://github.com/SebastianSilvaSC/Fundamento-Grupo_5/blob/main/Proyecto/Imagenes/C_TIPOMICRO.png" width="600px"></p>
 
-**Figura 5.** Un tipo de microplásticos de muestra de agua de mar portátil y el dispositivo y método de pretratamiento. Fue extraído de: 高楠 et al.(6).
+**Figura 5.** Método basado en aprendizaje profundo para identificar microplásticos en cuerpos de agua mediante el uso de datos históricos de imágenes de muestras de agua. Fue extraído de: 高艳丽 et al.(6).
 
 #### Patente de modelo de utilidad
 <h3 align="center"><a href="https://worldwide.espacenet.com/patent/search/family/082005765/publication/CN216792004U?q=pn%3DCN216792004U" target="_blank">Dispositivo experimental para detectar el contenido de microplásticos en agua</a></h3>
@@ -184,9 +174,13 @@ El modelo de utilidad proporciona un dispositivo experimental para detectar el c
 
 <h2>4. Definición de solución </h2>
 
-Nuestra propuesta de solución consiste en el desarrollo de un dispositivo compacto diseñado para detectar microplásticos en agua de mar. Este prototipo incorpora tecnología avanzada que combina sensores específicos y visión por computadora.
+Cámara Arduino WIFI para detectar micro plásticos.
+ 
+Escribiremos el código requerido utilizando el IDE y el lenguaje de programación Arduino. Aquí hay algunas tareas que puede incluir. La Configuración y inicializacion de la cámara, configurar los parámetros de grabación como la resolución y la velocidad de fotogramas. implementaremos algoritmos de procesamiento  para analizar imágenes capturadas y detectar la presencia de microplásticos. Esto puede incluir técnicas de análisis de color, detección de contornos u otras técnicas de visión por computadora.
 
-El prototipo incluirá dos sensores, uno de turbidez y otro de temperatura. Luego, las muestras de agua serán filtradas a través de un filtro de nylon, que es eficaz en retener partículas de tamaños específicos. Además, se incluirá una cámara OV7670. Esta cámara facilita la identificación y diferenciación de microplásticos respecto a otros tipos de residuos, analizando detalladamente la forma, el color y el tamaño de cada partícula. Las imágenes capturadas, en formato.jpg, junto con los datos recopilados por los sensores, se transmiten de manera inalámbrica a una computadora a través de un módulo serial WiFi que esta en el arduino. Posteriormente, estos datos e imágenes se analizaran con un algoritmo de clasificación para detectar la presencia de microplásticos en el mar. Además, el prototipo incluye un LED integrado en el circuito, que sirve como indicador visual del estado operativo del dispositivo.
+Tener una revisión exhaustiva de su sistema para asegurarse de que esté funcionando correctamente. Ajustar los parámetros y algoritmos según sea necesario para mejorar la precisión y confiabilidad de la detección de microplásticos. Una vez que esté satisfecho el rendimiento del sistema, puede implementarlo en el entorno que elijamos. Esto podría integrarlo en dispositivos portátiles de muestreo de agua o montarlo en vehículos autónomos para el monitoreo ambiental.
+
+Tengamos en cuenta que la detección de microplásticos es un desafío técnico complejo y posible de investigar y experimentar con diferentes métodos y algoritmos para obtener resultados precisos y confiables.
 
 
 ![image](https://github.com/SebastianSilvaSC/Fundamento-Grupo_5/assets/150815171/fb964c9b-3db4-4598-9677-51bfa22e5c98)
@@ -201,17 +195,15 @@ Deteccion de color
 
 
 
-
-
-
 **Referencias**
 1. Izan González. (2020). Draper, el dron submarino que acaba con los microplásticos. El Español. 
 2. Edel, D. (2020). Underwater Drone Invented to Detect Microplastics. Intelligent Living. 
 3. SubCtech - Ocean Power & Monitoring. (2021). Innovative Ocean Monitoring - Microplastic Sampler. SubCtech - Ocean Power & Monitoring.
 4. Microsoft Prensa (2022) Clearbot, el dron acuático gobernado por Inteligencia Artificial que recoge una tonelada de plástico diaria. Microsoft.com. 
-5. Buyu, G et al. (2023) Portable micro-plastic detection device based on digital coaxial holographic microscopy. (Patent No. CN116026729). China. 
-6. 高楠 et al.(2023) A kind of micro- plastics of Portable seawater sample and the device and method of pre-treatment. (Patent No. CN107807005A) China 
+5. 吴兵 et al. (2023) High-throughput detection method for microplastic. (Patent No. CN116297469A). China. 
+6. 高艳丽 et al.(2023) Deep learning-based method and system for identifying microplastic in water body. (Patent No. CN116385863A) China 
 7. Haiyu, Y et al.(2022) Experimental device for detecting content of micro-plastics in water body (Patent No. CN216792004U) China
 8. Zou, H. H., He, P. J., Peng, W., Lan, D. Y., Xian, H. Y., Lü, F., & Zhang, H. (2024). Rapid detection of colored and colorless macro-and micro-plastics in complex environment via near-infrared spectroscopy and machine learning. Journal of Environmental Sciences, 147, 512-522
 9. Li, F., Song, N., Li, X., Mi, X., Sun, C., Sun, Y., ... & Qiu, J. (2024). Detection of microplastics via a confocal-microscope spatial-heterodyne Raman spectrometer with echelle gratings. Spectrochimica Acta Part A: Molecular and Biomolecular Spectroscopy, 124099
 10. Massarelli, C., Campanale, C., & Uricchio, V. F. (2021). A handy open-source application based on computer vision and machine learning algorithms to count and classify microplastics. Water, 13(15), 2104.
+
