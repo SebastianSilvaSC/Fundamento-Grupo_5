@@ -184,13 +184,9 @@ El modelo de utilidad proporciona un dispositivo experimental para detectar el c
 
 <h2>4. Definición de solución </h2>
 
-Cámara Arduino WIFI para detectar micro plásticos.
- 
-Escribiremos el código requerido utilizando el IDE y el lenguaje de programación Arduino. Aquí hay algunas tareas que puede incluir. La Configuración y inicializacion de la cámara, configurar los parámetros de grabación como la resolución y la velocidad de fotogramas. implementaremos algoritmos de procesamiento  para analizar imágenes capturadas y detectar la presencia de microplásticos. Esto puede incluir técnicas de análisis de color, detección de contornos u otras técnicas de visión por computadora.
+Nuestra propuesta de solución consiste en el desarrollo de un dispositivo compacto diseñado para detectar microplásticos en agua de mar. Este prototipo incorpora tecnología avanzada que combina sensores específicos y visión por computadora.
 
-Tener una revisión exhaustiva de su sistema para asegurarse de que esté funcionando correctamente. Ajustar los parámetros y algoritmos según sea necesario para mejorar la precisión y confiabilidad de la detección de microplásticos. Una vez que esté satisfecho el rendimiento del sistema, puede implementarlo en el entorno que elijamos. Esto podría integrarlo en dispositivos portátiles de muestreo de agua o montarlo en vehículos autónomos para el monitoreo ambiental.
-
-Tengamos en cuenta que la detección de microplásticos es un desafío técnico complejo y posible de investigar y experimentar con diferentes métodos y algoritmos para obtener resultados precisos y confiables.
+El prototipo incluirá dos sensores, uno de turbidez y otro de temperatura. Luego, las muestras de agua serán filtradas a través de un filtro de nylon, que es eficaz en retener partículas de tamaños específicos. Además, se incluirá una cámara OV7670. Esta cámara facilita la identificación y diferenciación de microplásticos respecto a otros tipos de residuos, analizando detalladamente la forma, el color y el tamaño de cada partícula. Las imágenes capturadas, en formato.jpg, junto con los datos recopilados por los sensores, se transmiten de manera inalámbrica a una computadora a través de un módulo serial WiFi que esta en el arduino. Posteriormente, estos datos e imágenes se analizaran con un algoritmo de clasificación para detectar la presencia de microplásticos en el mar. Además, el prototipo incluye un LED integrado en el circuito, que sirve como indicador visual del estado operativo del dispositivo.
 
 
 ![image](https://github.com/SebastianSilvaSC/Fundamento-Grupo_5/assets/150815171/fb964c9b-3db4-4598-9677-51bfa22e5c98)
@@ -200,6 +196,9 @@ Camara arduino wifi
 
 ![image](https://github.com/SebastianSilvaSC/Fundamento-Grupo_5/assets/150815171/d8cd0114-d037-4525-903b-23e8b087776b)
 Deteccion de color
+
+
+
 
 
 
