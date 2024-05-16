@@ -1,29 +1,7 @@
 <h1>ESTUDIO DEL ARTE</h1>
 <h2>1. Contexto Científico</h2>
+
 <h4>Artículo 1</h4>
-<h3 align="center"><a href="https://www.sciencedirect.com/science/article/pii/S1001074223005399" target="_blank">Detección rápida de macro y microplásticos coloreados e incoloros en entornos complejos mediante espectroscopia de infrarrojo cercano y aprendizaje automático</a></h3>
-
-
-<p>Este estudio describe el desarrollo de un método de detección de alto rendimiento mediante el uso de 4 modelos de aprendizaje automático y técnica de imagen hiperespectral(HSI) para identificar y clasificar plásticos. Estos incluyen 15 tipos de macroplásticos, microplásticos o cauchos. El modelo tiene la capacidad de identificar rápidamente los distintos tipos de plásticos y cauchos coloreados e incoloros, sin la necesidad de la preparación de muestras. Además, se integro un método de identificación en dos etapas para distinguir tres fragmentos de plásticos coloreados e incoloros, que pueden ser confundidos fácilmente en el entorno donde se examinan.(Zou et al., 2024)
-
-El modelo se basa en detectar microplásticos en diferentes sitios, como los tractos intestinales de peces, el suelo y en el ambiente marino. Sin embargo, los microplásticos necesitan ser separados de las muestras ambientales previamente de su análisis  para evitar interferencia de los medios ambientales. Los métodos de aprendizaje automático empleados utilizan algoritmos para el clasificador de bosque aleatorio(RFC), el aumento de la gradiente extremo(XGBOOST), el análisis discriminante de mínimos cuadrados parciales(PLS-DA) y la máquina de vectores de soporte(SVM). Estos se evalúan en función a la precisión, el recuerdo y el puntaje F1, demostrando capacidades de identificar correctamente los tipos de plásticos en muestras reales y en diferentes condiciones ambientales.(Zou et al., 2024)</p>
-
-<blockquote>
-  <q>Zou, H. H., He, P. J., Peng, W., Lan, D. Y., Xian, H. Y., Lü, F., & Zhang, H. (2024). Rapid detection of colored and colorless macro-and micro-plastics in complex environment via near-infrared spectroscopy and machine learning. Journal of Environmental Sciences, 147, 512-522.</q>
-</blockquote>
-
-<h4>Artículo 2</h4>
-<h3 align="center"><a href="https://www.sciencedirect.com/science/article/pii/S1386142524002658" target="_blank">Detección de microplásticos mediante un espectrómetro Raman espacial heterodino con microscopio confocal y rejillas de Echelle</a></h3>
-
-<p>En este artículo describen el desarrollo de un espectrómetro Raman espacial heterodino de rejilla Echelle(CM-ESHRS) para las detecciones de distintos tipos de microplásticos. El CM-ESHRS demostró un alto rendimiento óptico,una resolución espectral alta y una banda de detección espectral amplia y una SNR alta. Este último al ser alta se considera eficaz para la detección precisa de microplásticos.(Li et al., 2024)
-  
-En una mezcla de distintos tipos de plásticos con harina demostraron que CM-ESHRS tiene la capacidad de detectar partículas pequeñas y señales débiles. Además detectó 10 tipos de microplásticos y, al mismo tiempo, categorizó y resumió los principales tipos de vibración de cada banda espectral. Esto favoreció la información espectral Raman para microplásticos, lo que debería proporcionar una referencia para detecciones futuras.(Li et al., 2024)</p>
-
-<blockquote>
-  <q>Li, F., Song, N., Li, X., Mi, X., Sun, C., Sun, Y., ... & Qiu, J. (2024). Detection of microplastics via a confocal-microscope spatial-heterodyne Raman spectrometer with echelle gratings. Spectrochimica Acta Part A: Molecular and Biomolecular Spectroscopy, 124099</q>
-</blockquote>
-
-<h4>Artículo 3</h4>
 <h3 align="center"><a href="https://www.mdpi.com/2073-4441/13/15/2104" target="_blank">Una práctica aplicación de código abierto basada en visión por computadora y algoritmos de aprendizaje automático para contar y clasificar microplásticos.</a></h3>
 
 <p>El estudio describe el desarrollo de un método innovador que utiliza la visión por computadora y machine learning para automatizar el conteo y la clasificación de microplásticos en diversas categorías de morfología y tamaño, eliminando la nacesidad de métodos manuales que son tanto laboriosos como susceptibles a errores.(Massarelli, C., Campanale, C., & Uricchio, V. F., 2021)
@@ -34,7 +12,7 @@ El modelo se basa en técnicas avanzadas de aprendizaje automático, tanto super
   <q>Massarelli, C., Campanale, C., & Uricchio, V. F. (2021). A handy open-source application based on computer vision and machine learning algorithms to count and classify microplastics. Water, 13(15), 2104.</q>
 </blockquote>
 
-<h4>Artículo 4</h4>
+<h4>Artículo 2</h4>
 <h3 align="center"><a href="https://www.sciencedirect.com/science/article/abs/pii/S026974912101263X" target="_blank">Contaminación por microplásticos en el estuario del Weser y en el Mar del Norte alemán</a></h3>
 
 <p align="center"><img src ="https://github.com/SebastianSilvaSC/Fundamento-Grupo_5/blob/main/Proyecto/Imagenes/C_ART4.jpg" width="600px"></p>
@@ -45,7 +23,7 @@ El modelo se basa en técnicas avanzadas de aprendizaje automático, tanto super
   <q>Roscher, L., Fehres, A., Reisel, L., Halbach, M., Scholz-Böttcher, B., Gerriets, M., ... & Gerdts, G. (2021). Microplastic pollution in the Weser estuary and the German North Sea. Environmental pollution, 288, 117681.</q>
 </blockquote>
 
-<h4>Artículo 5</h4>
+<h4>Artículo 3</h4>
 <h3 align="center"><a href="https://www.sciencedirect.com/science/article/pii/S2666498423001059" target="_blank">Revelando la distribución y las interacciones de microplásticos en la capa bentónica del estuario del río Yangtze y el Mar de China Oriental</a></h3>
 
 <p align="center"><img src ="https://github.com/SebastianSilvaSC/Fundamento-Grupo_5/blob/main/Proyecto/Imagenes/C_ART5.jpg" width="600px"></p>
