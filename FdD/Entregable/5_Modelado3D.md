@@ -26,9 +26,9 @@
 
 <h2 align="center"><strong>5.</strong>Planos</h2>
 
-<h2 align="center"><img src ="https://github.com/SebastianSilvaSC/Fundamento-Grupo_5/blob/main/Proyecto/Imagenes/E_28.png" width="600px"></h2>
+<h2 align="center"><img src ="https://github.com/SebastianSilvaSC/Fundamento-Grupo_5/blob/main/Proyecto/Imagenes/E_PLANO1.png" width="600px"></h2>
 
-<h2 align="center"><img src ="https://github.com/SebastianSilvaSC/Fundamento-Grupo_5/blob/main/Proyecto/Imagenes/E_28.png" width="600px"></h2>
+<h2 align="center"><img src ="https://github.com/SebastianSilvaSC/Fundamento-Grupo_5/blob/main/Proyecto/Imagenes/E_PLANO2.png" width="600px"></h2>
 
 #### Enlaces:
 <h3 align="center"><a href="https://cad.onshape.com/documents/3a41f3b933b31566c1d32455/w/186734b0ab3af9aa406e6137/e/a240bc0a6c2abf0fe06051ae?renderMode=0&uiState=664e344a1808304be596f088" target="_blank">1. ONSHAPE</a></h3>
