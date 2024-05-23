@@ -5,7 +5,7 @@
 
 <h2 align="center"><strong>2.</strong>Medidas del proyecto</h2>
 
-<h2 align="center"><img src ="https://github.com/SebastianSilvaSC/Fundamento-Grupo_5/blob/main/Proyecto/Imagenes/E_PROYECTOMEDIDAS.png" width="800px"></h2>
+<h2 align="center"><img src ="https://github.com/SebastianSilvaSC/Fundamento-Grupo_5/blob/main/Proyecto/Imagenes/E_Medidas.jpeg" width="800px"></h2>
 
 <h2 align="center"><strong>3.</strong>Modelo 3D</h2>
 
