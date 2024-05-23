@@ -26,7 +26,7 @@
 
 <h2 align="center"><strong>5.</strong>Planos</h2>
 
-<h2 align="center"><img src ="https://github.com/SebastianSilvaSC/Fundamento-Grupo_5/blob/main/Proyecto/Imagenes/E_PLANO1 (2).png" width="600px"></h2>
+<h2 align="center"><img src ="https://github.com/SebastianSilvaSC/Fundamento-Grupo_5/blob/main/Proyecto/Imagenes/E_PLANO1 (2).png" width="900px"></h2>
 
 
 
