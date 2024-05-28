@@ -1,3 +1,4 @@
+![image](https://github.com/SebastianSilvaSC/Fundamento-Grupo_5/assets/150815171/772be4b4-3668-4ed8-ad79-353489f08dde)
 <h1 align="center">MODELO 3D</h1>
 <h2 align="center"><strong>1.</strong>Proyecto Preliminar 1</h2>
 
