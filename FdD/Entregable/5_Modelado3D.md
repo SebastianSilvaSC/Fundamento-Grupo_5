@@ -39,4 +39,4 @@
 #### Enlaces:
 <h3 align="center"><a href="https://cad.onshape.com/documents/468ec2e1dbb246c14752c4ed/w/d7388b20bd684d0d7faa2525/e/86fa6cdd11dbca8673d10ca8?renderMode=0&uiState=6658cdeff210ee2c289d2134" target="_blank">1. ONSHAPE</a></h3>
 
-<h3 align="center"><a href="https://skfb.ly/oVyoo" target="_blank">2. Sketchfab </a></h3>
+<h3 align="center"><a href="https://skfb.ly/oVyoQ" target="_blank">2. Sketchfab </a></h3>
