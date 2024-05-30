@@ -6,6 +6,8 @@
  
  ![image](https://github.com/SebastianSilvaSC/Fundamento-Grupo_5/assets/150815171/26195d60-e785-44ec-936e-69f9df5a09f0)
  ![image](https://github.com/SebastianSilvaSC/Fundamento-Grupo_5/assets/150815171/3fcd6ac7-6c5d-4626-bf60-32343fea96b2)
+ ![image](https://github.com/SebastianSilvaSC/Fundamento-Grupo_5/assets/150815171/e6734a63-6749-4d70-b747-213495a3613f)
+
 
  <h2 align="center"><img src ="https://github.com/SebastianSilvaSC/Fundamento-Grupo_5/blob/main/Proyecto/Imagenes/E_Lados.jpeg" width="800px"></h2>
 
