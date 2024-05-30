@@ -1,6 +1,7 @@
  <h1 align="center">MODELO 3D</h1>
  <h2 align="center"><strong>1.</strong>Proyecto Preliminar 1</h2>
- ![image](https://github.com/SebastianSilvaSC/Fundamento-Grupo_5/assets/150815171/75dc4cca-0c56-492b-bebd-01a222ff061f)
+ 
+ ![image](https://github.com/SebastianSilvaSC/Fundamento-Grupo_5/assets/150815171/3cb95561-cec1-4ff5-8ea6-23aa0ab42ee7)
 
 <h2 align="center"><img src ="https://github.com/SebastianSilvaSC/Fundamento-Grupo_5/blob/main/Proyecto/Imagenes/E_PROYECTOPRELIMINAR.jpg" width="800px"></h2>
 <h2 align="center"><img src ="https://github.com/SebastianSilvaSC/Fundamento-Grupo_5/blob/main/Proyecto/Imagenes/E_Lados.jpeg" width="800px"></h2>
