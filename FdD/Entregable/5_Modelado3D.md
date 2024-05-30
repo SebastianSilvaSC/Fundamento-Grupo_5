@@ -37,6 +37,6 @@
 
 
 #### Enlaces:
-<h3 align="center"><a href="https://cad.onshape.com/documents/c98ad6785a0a6f55cf2c4311/w/d631d917b56caca8af8bf744/e/8feaf146d235f998d3d86771?renderMode=0&uiState=664fbd0496ede356fd1ff4cb" target="_blank">1. ONSHAPE</a></h3>
+<h3 align="center"><a href="https://cad.onshape.com/documents/468ec2e1dbb246c14752c4ed/w/d7388b20bd684d0d7faa2525/e/86fa6cdd11dbca8673d10ca8?renderMode=0&uiState=6658cdeff210ee2c289d2134" target="_blank">1. ONSHAPE</a></h3>
 
-<h3 align="center"><a href="https://skfb.ly/oUY78" target="_blank">2. Sketchfab </a></h3>
+<h3 align="center"><a href="https://skfb.ly/oVyoo" target="_blank">2. Sketchfab </a></h3>
