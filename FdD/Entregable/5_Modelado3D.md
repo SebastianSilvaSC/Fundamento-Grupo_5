@@ -3,8 +3,7 @@
  
  ![image](https://github.com/SebastianSilvaSC/Fundamento-Grupo_5/assets/150815171/3cb95561-cec1-4ff5-8ea6-23aa0ab42ee7)
 
-<h2 align="center"><img src ="https://github.com/SebastianSilvaSC/Fundamento-Grupo_5/blob/main/Proyecto/Imagenes/E_PROYECTOPRELIMINAR.jpg" width="800px"></h2>
-<h2 align="center"><img src ="https://github.com/SebastianSilvaSC/Fundamento-Grupo_5/blob/main/Proyecto/Imagenes/E_Lados.jpeg" width="800px"></h2>
+ <h2 align="center"><img src ="https://github.com/SebastianSilvaSC/Fundamento-Grupo_5/blob/main/Proyecto/Imagenes/E_Lados.jpeg" width="800px"></h2>
 
 <h2 align="center"><strong>2.</strong>Modelo</h2>
 
