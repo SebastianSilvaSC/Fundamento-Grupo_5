@@ -20,8 +20,6 @@
 
 <h2 align="center"><strong>4.</strong>Modelo 3D</h2>
 
-<h2 align="center"><img src ="https://github.com/SebastianSilvaSC/Fundamento-Grupo_5/blob/main/Proyecto/Imagenes/E_24.png" width="600px"></h2>
-
 <h2 align="center"><img src ="https://github.com/SebastianSilvaSC/Fundamento-Grupo_5/blob/main/Proyecto/Imagenes/E_25.png" width="600px"></h2>
 
 <h2 align="center"><img src ="https://github.com/SebastianSilvaSC/Fundamento-Grupo_5/blob/main/Proyecto/Imagenes/E_26.png" width="600px"></h2>
@@ -29,6 +27,8 @@
 <h2 align="center"><img src ="https://github.com/SebastianSilvaSC/Fundamento-Grupo_5/blob/main/Proyecto/Imagenes/E_27.png" width="600px"></h2>
 
 <h2 align="center"><img src ="https://github.com/SebastianSilvaSC/Fundamento-Grupo_5/blob/main/Proyecto/Imagenes/E_28.png" width="600px"></h2>
+
+<h2 align="center"><img src ="https://github.com/SebastianSilvaSC/Fundamento-Grupo_5/blob/main/Proyecto/Imagenes/E_29.png" width="600px"></h2>
 
 <h2 align="center"><strong>5.</strong>Planos</h2>
 
