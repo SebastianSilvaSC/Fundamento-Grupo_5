@@ -5,7 +5,6 @@
  <h2 align="center"><strong>1.</strong>Proyecto Preliminar </h2>
  
  ![image](https://github.com/SebastianSilvaSC/Fundamento-Grupo_5/assets/150815171/26195d60-e785-44ec-936e-69f9df5a09f0)
- ![image](https://github.com/SebastianSilvaSC/Fundamento-Grupo_5/assets/150815171/3fcd6ac7-6c5d-4626-bf60-32343fea96b2)
  ![image](https://github.com/SebastianSilvaSC/Fundamento-Grupo_5/assets/150815171/e6734a63-6749-4d70-b747-213495a3613f)
 
 
