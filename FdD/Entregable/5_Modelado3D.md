@@ -1,11 +1,11 @@
  <h1 align="center">MODELO 3D</h1>
- ![image](https://github.com/SebastianSilvaSC/Fundamento-Grupo_5/assets/150815171/8fba284e-37db-4ae0-97fe-73eb13e64cec)
+ ![image](https://github.com/SebastianSilvaSC/Fundamento-Grupo_5/assets/150815171/3a91618c-f7b3-4b75-a9ff-fb7fc1a19dcb)
 
  
  <h2 align="center"><strong>1.</strong>Proyecto Preliminar </h2>
  
  ![image](https://github.com/SebastianSilvaSC/Fundamento-Grupo_5/assets/150815171/26195d60-e785-44ec-936e-69f9df5a09f0)
- ![image](https://github.com/SebastianSilvaSC/Fundamento-Grupo_5/assets/150815171/e6734a63-6749-4d70-b747-213495a3613f)
+ ![image](https://github.com/SebastianSilvaSC/Fundamento-Grupo_5/assets/150815171/9c1bb6c2-b1bd-409d-b366-fd78029c8ae5)
 
 
  <h2 align="center"><img src ="https://github.com/SebastianSilvaSC/Fundamento-Grupo_5/blob/main/Proyecto/Imagenes/E_Lados.jpeg" width="800px"></h2>
