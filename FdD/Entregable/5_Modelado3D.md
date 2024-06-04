@@ -1,9 +1,14 @@
  <h1 align="center">MODELO 3D</h1>
- <h2 align="center"><strong>1.</strong>Proyecto Preliminar 1</h2>
- ![image](https://github.com/SebastianSilvaSC/Fundamento-Grupo_5/assets/150815171/75dc4cca-0c56-492b-bebd-01a222ff061f)
+ ![image](https://github.com/SebastianSilvaSC/Fundamento-Grupo_5/assets/150815171/3a91618c-f7b3-4b75-a9ff-fb7fc1a19dcb)
 
-<h2 align="center"><img src ="https://github.com/SebastianSilvaSC/Fundamento-Grupo_5/blob/main/Proyecto/Imagenes/E_PROYECTOPRELIMINAR.jpg" width="800px"></h2>
-<h2 align="center"><img src ="https://github.com/SebastianSilvaSC/Fundamento-Grupo_5/blob/main/Proyecto/Imagenes/E_Lados.jpeg" width="800px"></h2>
+ 
+ <h2 align="center"><strong>1.</strong>Proyecto Preliminar </h2>
+ 
+ ![image](https://github.com/SebastianSilvaSC/Fundamento-Grupo_5/assets/150815171/26195d60-e785-44ec-936e-69f9df5a09f0)
+ ![image](https://github.com/SebastianSilvaSC/Fundamento-Grupo_5/assets/150815171/221baea7-75f0-4414-88ec-5ae4d5a822b3)
+
+
+ <h2 align="center"><img src ="https://github.com/SebastianSilvaSC/Fundamento-Grupo_5/blob/main/Proyecto/Imagenes/E_Lados.jpeg" width="800px"></h2>
 
 <h2 align="center"><strong>2.</strong>Modelo</h2>
 
@@ -15,15 +20,15 @@
 
 <h2 align="center"><strong>4.</strong>Modelo 3D</h2>
 
-<h2 align="center"><img src ="https://github.com/SebastianSilvaSC/Fundamento-Grupo_5/blob/main/Proyecto/Imagenes/E_24.png" width="600px"></h2>
+<h2 align="center"><img src ="https://github.com/SebastianSilvaSC/Fundamento-Grupo_5/blob/main/Proyecto/Imagenes/E_25.jpg" width="600px"></h2>
 
-<h2 align="center"><img src ="https://github.com/SebastianSilvaSC/Fundamento-Grupo_5/blob/main/Proyecto/Imagenes/E_25.png" width="600px"></h2>
+<h2 align="center"><img src ="https://github.com/SebastianSilvaSC/Fundamento-Grupo_5/blob/main/Proyecto/Imagenes/E_26.jpg" width="600px"></h2>
 
-<h2 align="center"><img src ="https://github.com/SebastianSilvaSC/Fundamento-Grupo_5/blob/main/Proyecto/Imagenes/E_26.png" width="600px"></h2>
+<h2 align="center"><img src ="https://github.com/SebastianSilvaSC/Fundamento-Grupo_5/blob/main/Proyecto/Imagenes/E_27.jpg" width="600px"></h2>
 
-<h2 align="center"><img src ="https://github.com/SebastianSilvaSC/Fundamento-Grupo_5/blob/main/Proyecto/Imagenes/E_27.png" width="600px"></h2>
+<h2 align="center"><img src ="https://github.com/SebastianSilvaSC/Fundamento-Grupo_5/blob/main/Proyecto/Imagenes/E_28.jpg" width="600px"></h2>
 
-<h2 align="center"><img src ="https://github.com/SebastianSilvaSC/Fundamento-Grupo_5/blob/main/Proyecto/Imagenes/E_28.png" width="600px"></h2>
+<h2 align="center"><img src ="https://github.com/SebastianSilvaSC/Fundamento-Grupo_5/blob/main/Proyecto/Imagenes/E_29.jpg" width="600px"></h2>
 
 <h2 align="center"><strong>5.</strong>Planos</h2>
 
@@ -32,6 +37,6 @@
 
 
 #### Enlaces:
-<h3 align="center"><a href="https://cad.onshape.com/documents/c98ad6785a0a6f55cf2c4311/w/d631d917b56caca8af8bf744/e/8feaf146d235f998d3d86771?renderMode=0&uiState=664fbd0496ede356fd1ff4cb" target="_blank">1. ONSHAPE</a></h3>
+<h3 align="center"><a href="https://cad.onshape.com/documents/468ec2e1dbb246c14752c4ed/w/d7388b20bd684d0d7faa2525/e/86fa6cdd11dbca8673d10ca8?renderMode=0&uiState=6658cdeff210ee2c289d2134" target="_blank">1. ONSHAPE</a></h3>
 
-<h3 align="center"><a href="https://skfb.ly/oUY78" target="_blank">2. Sketchfab </a></h3>
+<h3 align="center"><a href="https://skfb.ly/oVyoQ" target="_blank">2. Sketchfab </a></h3>
