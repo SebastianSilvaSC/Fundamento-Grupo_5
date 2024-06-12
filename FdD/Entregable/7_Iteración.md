@@ -1,10 +1,10 @@
 <h1 align = "center">Iteración</h1>
 
-<h2 align = "center">- Hardware</h2>
+<h2 align = "left">- Hardware</h2>
 
-<h2 align = "center">- Software</h2>
+<h2 align = "left">- Software</h2>
 
-<h2 align = "center">a) Diagrama de flujo</h2>
-<h2 align = "center">b) Código y tecnologías empleadas</h2>
+<h2 align = "left">a) Diagrama de flujo</h2>
+<h2 align = "left">b) Código y tecnologías empleadas</h2>
 
-<h2 align = "center">- Integración Hardware - Impresión 3D</h2>
+<h2 align = "left">- Integración Hardware - Impresión 3D</h2>
