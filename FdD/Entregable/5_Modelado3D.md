@@ -4,8 +4,8 @@
  
  <h2 align="center"><strong>1.</strong>Proyecto Preliminar </h2>
  
-                     ![image](https://github.com/SebastianSilvaSC/Fundamento-Grupo_5/assets/150815171/26195d60-e785-44ec-936e-69f9df5a09f0)
-                     ![image](https://github.com/SebastianSilvaSC/Fundamento-Grupo_5/assets/150815171/221baea7-75f0-4414-88ec-5ae4d5a822b3)
+ ![image](https://github.com/SebastianSilvaSC/Fundamento-Grupo_5/assets/150815171/26195d60-e785-44ec-936e-69f9df5a09f0)
+ ![image](https://github.com/SebastianSilvaSC/Fundamento-Grupo_5/assets/150815171/221baea7-75f0-4414-88ec-5ae4d5a822b3)
 
 
  <h2 align="center"><img src ="https://github.com/SebastianSilvaSC/Fundamento-Grupo_5/blob/main/Proyecto/Imagenes/E_Lados.jpeg" width="800px"></h2>
