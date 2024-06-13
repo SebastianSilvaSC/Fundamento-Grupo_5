@@ -1,5 +1,5 @@
  <h1 align="center">MODELO 3D</h1>
- ![image](https://github.com/SebastianSilvaSC/Fundamento-Grupo_5/assets/150815171/3a91618c-f7b3-4b75-a9ff-fb7fc1a19dcb)
+ ![image](https://github.com/SebastianSilvaSC/Fundamento-Grupo_5/assets/150815171/d9087944-4163-4936-a090-05de9c3da8a6)
 
  
  <h2 align="center"><strong>1.</strong>Proyecto Preliminar </h2>
