@@ -6,7 +6,7 @@
 
 <h2 align = "left">a) Diagrama de flujo</h2>
 
-<p align="center"><img src="https://github.com/SebastianSilvaSC/Fundamento-Grupo_5/blob/main/Proyecto/Imagenes/G_DF.jpg"></p>
+<p align="center"><img src="https://github.com/SebastianSilvaSC/Fundamento-Grupo_5/blob/main/Proyecto/Imagenes/G_Diagrama.jpeg"></p>
 
 <h2 align = "left">b) Modelo de clasificación(Edge Impulse)</h2>
 
