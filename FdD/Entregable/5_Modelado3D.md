@@ -38,6 +38,35 @@ LINK
 
 ![image](https://github.com/SebastianSilvaSC/Fundamento-Grupo_5/assets/150815171/016b1edd-b1fc-43e5-aab6-902150293717)
 
+![image](https://github.com/SebastianSilvaSC/Fundamento-Grupo_5/assets/150815171/1d9ece45-629d-4d7c-9367-f5305eac62dc)
+
+![image](https://github.com/SebastianSilvaSC/Fundamento-Grupo_5/assets/150815171/e03acbff-f614-4852-b507-72d6d2408c38)
+
+![image](https://github.com/SebastianSilvaSC/Fundamento-Grupo_5/assets/150815171/a82a1cb2-92c1-4787-8902-2b1cc18d5f91)
+
+![image](https://github.com/SebastianSilvaSC/Fundamento-Grupo_5/assets/150815171/73ca63b8-3725-4799-8c8c-5a776adb4272)
+
+![image](https://github.com/SebastianSilvaSC/Fundamento-Grupo_5/assets/150815171/d7657ecb-3b93-4fc0-84c1-72ca64bbf6c9)
+
+![image](https://github.com/SebastianSilvaSC/Fundamento-Grupo_5/assets/150815171/f7fd1c67-9d9b-4c3a-b337-e50d5f08d21b)
+
+![image](https://github.com/SebastianSilvaSC/Fundamento-Grupo_5/assets/150815171/271a1031-69fa-4c96-b089-5d7cfaf7b2e3)
+
+![image](https://github.com/SebastianSilvaSC/Fundamento-Grupo_5/assets/150815171/bfda49a3-8509-4f9f-b377-54041694051d)
+
+![image](https://github.com/SebastianSilvaSC/Fundamento-Grupo_5/assets/150815171/90a3e91e-e095-44db-a89e-2d9f533ad2bb)
+
+![image](https://github.com/SebastianSilvaSC/Fundamento-Grupo_5/assets/150815171/8a38e315-dec8-4e31-b1f0-65465b40d4f6)
+
+![image](https://github.com/SebastianSilvaSC/Fundamento-Grupo_5/assets/150815171/8646b4d6-c832-42a4-8346-ff3191f66fc9)
+
+![image](https://github.com/SebastianSilvaSC/Fundamento-Grupo_5/assets/150815171/342d5741-8b33-4fe2-968a-87737133d208)
+
+![image](https://github.com/SebastianSilvaSC/Fundamento-Grupo_5/assets/150815171/b4e0aaf5-fed4-4cbe-a805-c97bccaf2306)
+
+![image](https://github.com/SebastianSilvaSC/Fundamento-Grupo_5/assets/150815171/00c0c2bc-9e84-46cb-b941-7ed3082bbfd4)
+
+
  
  <h1 align="center">MODELO 3D</h1>
  ![image](https://github.com/SebastianSilvaSC/Fundamento-Grupo_5/assets/150815171/d9087944-4163-4936-a090-05de9c3da8a6)
