@@ -1,41 +1,9 @@
 
-# DETECCION DE MICROPLASTICOS
-
-# PLASTICDETEC
-
-# MODDELADO 3D
-
- MODELADO
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ![image](https://github.com/SebastianSilvaSC/Fundamento-Grupo_5/assets/150815171/a417f94e-a4b5-49e6-ae9a-1048b1ab2ca1)
 
- ![image](https://github.com/SebastianSilvaSC/Fundamento-Grupo_5/assets/150815171/4507791c-7479-4260-8784-607db19e40e0)
+ ![image](https://github.com/SebastianSilvaSC/Fundamento-Grupo_5/assets/150815171/94e62666-e1c5-4a39-a323-e8fea7245eb4)
+
+![image](https://github.com/SebastianSilvaSC/Fundamento-Grupo_5/assets/150815171/02e2940c-2dc8-46a2-ad46-b889cccb5b2b)
 
  
  <h1 align="center">MODELO 3D</h1>
