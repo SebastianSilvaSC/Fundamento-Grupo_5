@@ -10,6 +10,19 @@ LINK
  
  https://cad.onshape.com/documents/468ec2e1dbb246c14752c4ed/w/d7388b20bd684d0d7faa2525/e/86fa6cdd11dbca8673d10ca8?renderMode=0&uiState=665fdc57db745d72a6362e28
 
+![image](https://github.com/SebastianSilvaSC/Fundamento-Grupo_5/assets/150815171/e1e7bc6e-594e-4f12-a2d2-8899852f9bf6)
+
+![image](https://github.com/SebastianSilvaSC/Fundamento-Grupo_5/assets/150815171/d54a4e85-de16-45d8-a7bf-a859e36cf104)
+
+
+
+
+
+
+
+
+
+
 
  
  <h1 align="center">MODELO 3D</h1>
