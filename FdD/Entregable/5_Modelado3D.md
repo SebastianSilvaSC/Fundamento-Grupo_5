@@ -71,7 +71,7 @@ LINK
  
 
  
-<h2 align="center"><strong>4.</strong>Modelo 3D</h2>
+<h2 align="center"><strong>.</strong>Modelo 3D</h2>
 
 <h2 align="center"><img src ="https://github.com/SebastianSilvaSC/Fundamento-Grupo_5/blob/main/Proyecto/Imagenes/E_25.jpg" width="600px"></h2>
 
@@ -83,9 +83,6 @@ LINK
 
 <h2 align="center"><img src ="https://github.com/SebastianSilvaSC/Fundamento-Grupo_5/blob/main/Proyecto/Imagenes/E_29.jpg" width="600px"></h2>
 
-<h2 align="center"><strong>5.</strong>Planos</h2>
-
-<h2 align="center"><img src ="https://github.com/SebastianSilvaSC/Fundamento-Grupo_5/blob/main/Proyecto/Imagenes/E_PLANO1 (2).png" width="900px"></h2>
 
 
 
