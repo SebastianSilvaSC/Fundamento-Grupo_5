@@ -1,7 +1,7 @@
 
 ![image](https://github.com/SebastianSilvaSC/Fundamento-Grupo_5/assets/150815171/a417f94e-a4b5-49e6-ae9a-1048b1ab2ca1)
 
-![image](https://github.com/SebastianSilvaSC/Fundamento-Grupo_5/assets/150815171/fbb8cfeb-ce82-45d2-b2eb-cab778b99fb3)
+ ![image](https://github.com/SebastianSilvaSC/Fundamento-Grupo_5/assets/150815171/4507791c-7479-4260-8784-607db19e40e0)
 
  
  <h1 align="center">MODELO 3D</h1>
