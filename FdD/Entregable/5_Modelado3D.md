@@ -18,9 +18,11 @@ LINK
 
 ![image](https://github.com/SebastianSilvaSC/Fundamento-Grupo_5/assets/150815171/b5aa1f5d-743a-4a25-bd96-1b8c40bdbde3)
 
-![image](https://github.com/SebastianSilvaSC/Fundamento-Grupo_5/assets/150815171/e96c9d8a-339e-4339-9dd1-14ddb0fa3416)
+ ![image](https://github.com/SebastianSilvaSC/Fundamento-Grupo_5/assets/150815171/022e2e00-d1a5-411f-9951-0934744943b7)
 
+![image](https://github.com/SebastianSilvaSC/Fundamento-Grupo_5/assets/150815171/fa0da0c7-9459-4cf0-8030-5a9867a274d7)
 
+![image](https://github.com/SebastianSilvaSC/Fundamento-Grupo_5/assets/150815171/05d6641e-1d76-4892-95c9-651a20047d82)
 
 
 
