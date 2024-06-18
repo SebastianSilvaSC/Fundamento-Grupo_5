@@ -71,16 +71,6 @@ LINK
  
 
  
- <h2 align="center"><img src ="https://github.com/SebastianSilvaSC/Fundamento-Grupo_5/blob/main/Proyecto/Imagenes/E_Lados.jpeg" width="800px"></h2>
-
-<h2 align="center"><strong>2.</strong>Modelo</h2>
-
-<h2 align="center"><img src ="https://github.com/SebastianSilvaSC/Fundamento-Grupo_5/blob/main/Proyecto/Imagenes/E_Modelo3D.png" width="800px"></h2>
-
-<h2 align="center"><strong>3.</strong>Medidas del modelo</h2>
-
-<h2 align="center"><img src ="https://github.com/SebastianSilvaSC/Fundamento-Grupo_5/blob/main/Proyecto/Imagenes/E_Medidas.jpeg" width="800px"></h2>
-
 <h2 align="center"><strong>4.</strong>Modelo 3D</h2>
 
 <h2 align="center"><img src ="https://github.com/SebastianSilvaSC/Fundamento-Grupo_5/blob/main/Proyecto/Imagenes/E_25.jpg" width="600px"></h2>
