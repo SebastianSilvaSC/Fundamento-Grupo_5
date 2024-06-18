@@ -30,6 +30,8 @@ LINK
 
 ![image](https://github.com/SebastianSilvaSC/Fundamento-Grupo_5/assets/150815171/a410fd60-c828-49a4-9b54-4524bfbde4a4)
 
+![image](https://github.com/SebastianSilvaSC/Fundamento-Grupo_5/assets/150815171/65dc6e27-0241-445d-891d-1b65fa0894a1)
+
 ![image](https://github.com/SebastianSilvaSC/Fundamento-Grupo_5/assets/150815171/694d9d93-9ba1-41e2-9aef-4f6deb91b792)
 
 
