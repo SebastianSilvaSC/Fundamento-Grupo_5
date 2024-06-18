@@ -68,8 +68,6 @@ LINK
 
 ![image](https://github.com/SebastianSilvaSC/Fundamento-Grupo_5/assets/150815171/79273a41-8693-4762-906d-c8811f3a8a6e)
 
-<h2 align="center"><strong>.</strong>Modelo 3D</h2>
-
 <h2 align="center"><img src ="https://github.com/SebastianSilvaSC/Fundamento-Grupo_5/blob/main/Proyecto/Imagenes/E_25.jpg" width="600px"></h2>
 
 <h2 align="center"><img src ="https://github.com/SebastianSilvaSC/Fundamento-Grupo_5/blob/main/Proyecto/Imagenes/E_26.jpg" width="600px"></h2>
