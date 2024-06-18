@@ -1,9 +1,15 @@
 
 ![image](https://github.com/SebastianSilvaSC/Fundamento-Grupo_5/assets/150815171/a417f94e-a4b5-49e6-ae9a-1048b1ab2ca1)
 
- ![image](https://github.com/SebastianSilvaSC/Fundamento-Grupo_5/assets/150815171/94e62666-e1c5-4a39-a323-e8fea7245eb4)
+ ![image](https://github.com/SebastianSilvaSC/Fundamento-Grupo_5/assets/150815171/4f6b4151-9951-46fc-b151-5cfe4984a6ab)
 
-![image](https://github.com/SebastianSilvaSC/Fundamento-Grupo_5/assets/150815171/02e2940c-2dc8-46a2-ad46-b889cccb5b2b)
+ ![image](https://github.com/SebastianSilvaSC/Fundamento-Grupo_5/assets/150815171/a203c6dc-7acd-402d-89a7-989eba1db92b)
+
+
+LINK
+ 
+ https://cad.onshape.com/documents/468ec2e1dbb246c14752c4ed/w/d7388b20bd684d0d7faa2525/e/86fa6cdd11dbca8673d10ca8?renderMode=0&uiState=665fdc57db745d72a6362e28
+
 
  
  <h1 align="center">MODELO 3D</h1>
