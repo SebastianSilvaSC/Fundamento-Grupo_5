@@ -34,7 +34,9 @@ LINK
 
 ![image](https://github.com/SebastianSilvaSC/Fundamento-Grupo_5/assets/150815171/694d9d93-9ba1-41e2-9aef-4f6deb91b792)
 
+![image](https://github.com/SebastianSilvaSC/Fundamento-Grupo_5/assets/150815171/a7b0835d-504c-4413-ba16-272d0f1afbee)
 
+![image](https://github.com/SebastianSilvaSC/Fundamento-Grupo_5/assets/150815171/016b1edd-b1fc-43e5-aab6-902150293717)
 
  
  <h1 align="center">MODELO 3D</h1>
