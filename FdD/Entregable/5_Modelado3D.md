@@ -14,6 +14,7 @@ LINK
 
 ![image](https://github.com/SebastianSilvaSC/Fundamento-Grupo_5/assets/150815171/d54a4e85-de16-45d8-a7bf-a859e36cf104)
 
+![image](https://github.com/SebastianSilvaSC/Fundamento-Grupo_5/assets/150815171/e7489fd4-938f-4d01-b291-e71b293acf28)
 
 
 
