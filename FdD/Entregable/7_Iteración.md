@@ -58,3 +58,5 @@
 <p align="center"><img src="https://github.com/SebastianSilvaSC/Fundamento-Grupo_5/blob/main/Proyecto/Imagenes/G_13.jpg"></p>
 
 <h2 align = "left">- Integración Hardware - Impresión 3D</h2>
+
+![image](https://github.com/SebastianSilvaSC/Fundamento-Grupo_5/assets/150815171/98e3f362-6133-4944-8825-03bbef31a355)
