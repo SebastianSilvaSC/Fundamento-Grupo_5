@@ -39,8 +39,8 @@
   
 </ol>
 
-<p align = "center"><img src="https://github.com/SebastianSilvaSC/Fundamento-Grupo_5/blob/main/Proyecto/Imagenes/h_22.jpg"width="600" height="450" ></p>
-<p align = "center"><img src="https://github.com/SebastianSilvaSC/Fundamento-Grupo_5/blob/main/Proyecto/Imagenes/h_23.jpg" width="600" height="450"></p>
-<p align = "center"><img src="https://github.com/SebastianSilvaSC/Fundamento-Grupo_5/blob/main/Proyecto/Imagenes/h_24.jpg" width="600" height="450"></p>
-<p align = "center"><img src="https://github.com/SebastianSilvaSC/Fundamento-Grupo_5/blob/main/Proyecto/Imagenes/h_25.jpg" width="600" height="450"></p>
-<p align = "center"><img src="https://github.com/SebastianSilvaSC/Fundamento-Grupo_5/blob/main/Proyecto/Imagenes/h_26.jpg" width="600" height="450"></p>
+<p align = "center"><img src="https://github.com/SebastianSilvaSC/Fundamento-Grupo_5/blob/main/Proyecto/Imagenes/h_22.jpg"></p>
+<p align = "center"><img src="https://github.com/SebastianSilvaSC/Fundamento-Grupo_5/blob/main/Proyecto/Imagenes/h_23.jpg" ></p>
+<p align = "center"><img src="https://github.com/SebastianSilvaSC/Fundamento-Grupo_5/blob/main/Proyecto/Imagenes/h_24.jpg" ></p>
+<p align = "center"><img src="https://github.com/SebastianSilvaSC/Fundamento-Grupo_5/blob/main/Proyecto/Imagenes/h_25.jpg" ></p>
+<p align = "center"><img src="https://github.com/SebastianSilvaSC/Fundamento-Grupo_5/blob/main/Proyecto/Imagenes/h_26.jpg" ></p>
