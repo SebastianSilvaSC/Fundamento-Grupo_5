@@ -5,7 +5,7 @@
 
 ![image](https://github.com/SebastianSilvaSC/Fundamento-Grupo_5/assets/150815171/584f134b-a460-4a85-80f9-5bb789f02dcd)
 
-![image](https://github.com/SebastianSilvaSC/Fundamento-Grupo_5/assets/150815171/87dc9c91-9998-4c4d-a932-6639d8aecbc4)
+ ![image](https://github.com/SebastianSilvaSC/Fundamento-Grupo_5/assets/150815171/53632785-bee4-458d-a508-080588d33cc9)
 
 ![image](https://github.com/SebastianSilvaSC/Fundamento-Grupo_5/assets/150815171/f3c1fb2e-eeb1-45fd-b743-8ea765d4d57d)
 
@@ -25,7 +25,7 @@
 
 ![image](https://github.com/SebastianSilvaSC/Fundamento-Grupo_5/assets/150815171/8dd1ffb8-f63f-45b5-8f8c-2ef61854e012)
 
-![image](https://github.com/SebastianSilvaSC/Fundamento-Grupo_5/assets/150815171/2430ab10-cfdf-47b1-be89-29c8173d7d73)
+![image](https://github.com/SebastianSilvaSC/Fundamento-Grupo_5/assets/150815171/64d153da-0ceb-4566-9c53-35a14816fc26)
 
 ![image](https://github.com/SebastianSilvaSC/Fundamento-Grupo_5/assets/150815171/259feda1-95db-4775-ba96-9d4e4e30e079)
 
