@@ -36,16 +36,11 @@
 <p>Durante el desarrollo para la detección de microplásticos y las capturas del ESP32 CAM para ser analizadas, nos hemos enfrentamos con una serie de retos y limitaciones. A continuación, listaremos cada uno de ellos.</p>
 <ol>
   <li>En los inicios del proyecto, consideramos utilizar un microscopio casero. Sin embargo, este no alcanzaba los aumentos necesarios para que el ESP32-CAM pudiera analizarlo adecuadamente. Por lo tanto, optamos por buscar soluciones alternativas, como utilizar un microscopio de laboratorio y probar diferentes lentes de aumento. Aunque el último no fue óptimo en las capturas porque necesitábamos combinar lentes para que la imagen pudiera verse más nítida, y además, el microscopio de laboratorio resultó ser un objeto relativamente pesado para que el ESP32-CAM pudiera sostenerlo. Al final, nos dimos cuenta de que el mismo lente del ESP32-CAM puede modificarse, lo cual es aún mejor porque su lente es convergente. Así, separamos el lente del sensor de la cámara a una cierta distancia focal de 1.2 cm aprox y pudimos ver con claridad los microplásticos de hasta 0,25 mm.</li>
-  <li></li>
-  <li></li>
-  <li></li>
-  <li></li>
-  <li></li>
-  <li></li>
-  <li></li>
-  <li></li>
-  <li></li>
-  <li></li>
   
 </ol>
 
+<p align = "center"><img src="https://github.com/SebastianSilvaSC/Fundamento-Grupo_5/blob/main/Proyecto/Imagenes/h_22.jpg"width="600" height="450" ></p>
+<p align = "center"><img src="https://github.com/SebastianSilvaSC/Fundamento-Grupo_5/blob/main/Proyecto/Imagenes/h_23.jpg" width="600" height="450"></p>
+<p align = "center"><img src="https://github.com/SebastianSilvaSC/Fundamento-Grupo_5/blob/main/Proyecto/Imagenes/h_24.jpg" width="600" height="450"></p>
+<p align = "center"><img src="https://github.com/SebastianSilvaSC/Fundamento-Grupo_5/blob/main/Proyecto/Imagenes/h_25.jpg" width="600" height="450"></p>
+<p align = "center"><img src="https://github.com/SebastianSilvaSC/Fundamento-Grupo_5/blob/main/Proyecto/Imagenes/h_26.jpg" width="600" height="450"></p>
