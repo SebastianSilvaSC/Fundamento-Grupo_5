@@ -20,9 +20,6 @@
 <h2> SENSOR DE LA CÁMARA</h2>
 <p align = "center"><img src="https://github.com/SebastianSilvaSC/Fundamento-Grupo_5/blob/main/Proyecto/Imagenes/SENSOR_CAMARA.jpeg" width="400" height="600"></p>
 
-<h3 align = "left"> CAPTURA DEL ESP32-CAM </h3>
-<p align = "center"><img src="https://github.com/SebastianSilvaSC/Fundamento-Grupo_5/blob/main/Proyecto/Imagenes/PRUEBA3.jpg" width="600" height="453"></p>
-
 <h2 align = "left">- PRUEBA CON EL ESP32-CAM</h2>
 <a href="https://drive.google.com/drive/folders/1Gmp11HX3TcMHt4DQ9Kaddb0IXhT5IZ96?usp=sharing"> VIDEO DE PRUEBA </a>
 
@@ -30,6 +27,7 @@
 
 <p align = "center"><img src="https://github.com/SebastianSilvaSC/Fundamento-Grupo_5/blob/main/Proyecto/Imagenes/PRUEBA10.jpg"width="600" height="450" ></p>
 <p align = "center"><img src="https://github.com/SebastianSilvaSC/Fundamento-Grupo_5/blob/main/Proyecto/Imagenes/PRUEBA9.jpg" width="600" height="450"></p>
+<p align = "center"><img src="https://github.com/SebastianSilvaSC/Fundamento-Grupo_5/blob/main/Proyecto/Imagenes/PRUEBA3.jpg" width="600" height="450"></p>
 
 
 <h2 align = "left">RETOS Y LIMITACIONES</h2>
