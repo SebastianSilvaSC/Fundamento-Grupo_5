@@ -25,8 +25,6 @@
 
 ![image](https://github.com/SebastianSilvaSC/Fundamento-Grupo_5/assets/150815171/259feda1-95db-4775-ba96-9d4e4e30e079)
 
-
-
 Link
 
 Enlace Onshape:
@@ -42,6 +40,18 @@ https://cad.onshape.com/documents/468ec2e1dbb246c14752c4ed/w/d7388b20bd684d0d7fa
 ![image](https://github.com/SebastianSilvaSC/Fundamento-Grupo_5/assets/150815171/8ea9d0f2-dc01-4e6c-839e-98f64836567b)
 
  ![image](https://github.com/SebastianSilvaSC/Fundamento-Grupo_5/assets/150815171/da598f66-e358-4b34-815e-7739df131382)
+
+![image](https://github.com/SebastianSilvaSC/Fundamento-Grupo_5/assets/150815171/50c4c99a-0567-47c2-ad74-ca9f79fbd3ce)
+
+![image](https://github.com/SebastianSilvaSC/Fundamento-Grupo_5/assets/150815171/16c2ac4a-8e6a-400a-a84d-f20876f8bd6e)
+
+![image](https://github.com/SebastianSilvaSC/Fundamento-Grupo_5/assets/150815171/8038ce77-4dea-4815-81c6-00f3bec56e42)
+
+![image](https://github.com/SebastianSilvaSC/Fundamento-Grupo_5/assets/150815171/a0f77baf-c8d0-4330-88df-51caa674fe72)
+
+![image](https://github.com/SebastianSilvaSC/Fundamento-Grupo_5/assets/150815171/6ec0bd64-76d3-4f69-a9c0-b52eca6c2286)
+
+![image](https://github.com/SebastianSilvaSC/Fundamento-Grupo_5/assets/150815171/d6063539-f390-43bf-b2bc-f421aa7ca654)
 
 Link de diapositivas en Canva:
 
