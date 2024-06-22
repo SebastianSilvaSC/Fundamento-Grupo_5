@@ -27,7 +27,7 @@
 
 <p align = "center"><img src="https://github.com/SebastianSilvaSC/Fundamento-Grupo_5/blob/main/Proyecto/Imagenes/PRUEBA10.jpg"width="600" height="450" ></p>
 <p align = "center"><img src="https://github.com/SebastianSilvaSC/Fundamento-Grupo_5/blob/main/Proyecto/Imagenes/PRUEBA9.jpg" width="600" height="450"></p>
-<p align = "center"><img src="https://github.com/SebastianSilvaSC/Fundamento-Grupo_5/blob/main/Proyecto/Imagenes/MUESTRA.jpg" width="600" height="450"></p>
+<p align = "center"><img src="https://github.com/SebastianSilvaSC/Fundamento-Grupo_5/blob/main/Proyecto/Imagenes/MUESTRA.jpeg" width="600" height="450"></p>
 <p align = "center"><img src="https://github.com/SebastianSilvaSC/Fundamento-Grupo_5/blob/main/Proyecto/Imagenes/PRUEBA3.jpg" width="600" height="450"></p>
 
 
