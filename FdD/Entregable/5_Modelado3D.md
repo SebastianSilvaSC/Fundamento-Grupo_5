@@ -23,13 +23,19 @@
 
 ![image](https://github.com/SebastianSilvaSC/Fundamento-Grupo_5/assets/150815171/42d0555f-2d22-4450-bb54-98cd3282a7d6)
 
+Link
+
+https://cad.onshape.com/documents/468ec2e1dbb246c14752c4ed/w/d7388b20bd684d0d7faa2525/e/86fa6cdd11dbca8673d10ca8?renderMode=0&uiState=6671c3605a39191217e71eca
+
 ![image](https://github.com/SebastianSilvaSC/Fundamento-Grupo_5/assets/150815171/259feda1-95db-4775-ba96-9d4e4e30e079)
 
  ![image](https://github.com/SebastianSilvaSC/Fundamento-Grupo_5/assets/150815171/aa9a8669-2bca-4827-a5d6-ab67840b3f43)
 
 ![image](https://github.com/SebastianSilvaSC/Fundamento-Grupo_5/assets/150815171/41e3d9a0-97ed-4d85-a94b-c20df0dab03f)
 
+![image](https://github.com/SebastianSilvaSC/Fundamento-Grupo_5/assets/150815171/f86474f7-5a4b-42d4-a4c1-f17f137f4458)
 
+![image](https://github.com/SebastianSilvaSC/Fundamento-Grupo_5/assets/150815171/8ea9d0f2-dc01-4e6c-839e-98f64836567b)
 
 
 
