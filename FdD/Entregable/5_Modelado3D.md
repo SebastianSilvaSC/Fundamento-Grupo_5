@@ -39,8 +39,11 @@ https://cad.onshape.com/documents/468ec2e1dbb246c14752c4ed/w/d7388b20bd684d0d7fa
 
 ![image](https://github.com/SebastianSilvaSC/Fundamento-Grupo_5/assets/150815171/8ea9d0f2-dc01-4e6c-839e-98f64836567b)
 
-![image](https://github.com/SebastianSilvaSC/Fundamento-Grupo_5/assets/150815171/f2a1ce23-bcb4-4961-b6f5-e4dd0439a060)
+ ![image](https://github.com/SebastianSilvaSC/Fundamento-Grupo_5/assets/150815171/da598f66-e358-4b34-815e-7739df131382)
 
+Link de diapositivas en Canva:
+
+https://www.canva.com/design/DAGIdSQGl7w/UGA3nMKVSrpQ2N0dG_BOfg/edit
 
 #### Enlaces:
 <h3 align="center"><a href="https://cad.onshape.com/documents/468ec2e1dbb246c14752c4ed/w/d7388b20bd684d0d7faa2525/e/86fa6cdd11dbca8673d10ca8?renderMode=0&uiState=6658cdeff210ee2c289d2134" target="_blank">1. ONSHAPE</a></h3>
