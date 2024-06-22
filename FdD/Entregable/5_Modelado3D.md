@@ -23,13 +23,13 @@
 
 ![image](https://github.com/SebastianSilvaSC/Fundamento-Grupo_5/assets/150815171/42d0555f-2d22-4450-bb54-98cd3282a7d6)
 
+![image](https://github.com/SebastianSilvaSC/Fundamento-Grupo_5/assets/150815171/259feda1-95db-4775-ba96-9d4e4e30e079)
+
 Link
 
 Enlace Onshape:
 
 https://cad.onshape.com/documents/468ec2e1dbb246c14752c4ed/w/d7388b20bd684d0d7faa2525/e/86fa6cdd11dbca8673d10ca8?renderMode=0&uiState=6671c3605a39191217e71eca
-
-![image](https://github.com/SebastianSilvaSC/Fundamento-Grupo_5/assets/150815171/259feda1-95db-4775-ba96-9d4e4e30e079)
 
  ![image](https://github.com/SebastianSilvaSC/Fundamento-Grupo_5/assets/150815171/aa9a8669-2bca-4827-a5d6-ab67840b3f43)
 
