@@ -28,6 +28,10 @@
 
 <p align = "center"><img src="https://github.com/SebastianSilvaSC/Fundamento-Grupo_5/blob/main/Proyecto/Imagenes/PruebaESP32CAM.gif" alt="Descripción del GIF" width="700" height="453"></p>
 
+<p align = "center"><img src="https://github.com/SebastianSilvaSC/Fundamento-Grupo_5/blob/main/Proyecto/Imagenes/PRUEBA10.jpg"width="600" height="450" ></p>
+<p align = "center"><img src="https://github.com/SebastianSilvaSC/Fundamento-Grupo_5/blob/main/Proyecto/Imagenes/PRUEBA9.jpg" width="600" height="450"></p>
+
+
 <h2 align = "left">RETOS Y LIMITACIONES</h2>
 <p>Durante el desarrollo para la detección de microplásticos y las capturas del ESP32 CAM para ser analizadas, nos hemos enfrentamos con una serie de retos y limitaciones. A continuación, listaremos cada uno de ellos.</p>
 <ol>
