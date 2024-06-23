@@ -47,3 +47,5 @@
 <p align = "center"><img src="https://github.com/SebastianSilvaSC/Fundamento-Grupo_5/blob/main/Proyecto/Imagenes/h_26.jpg" ></p>
 
  ![image](https://github.com/SebastianSilvaSC/Fundamento-Grupo_5/assets/150815171/e53668f1-3ee0-4d59-a7a3-0c4e719b424a)
+
+![image](https://github.com/SebastianSilvaSC/Fundamento-Grupo_5/assets/150815171/063ff2eb-9228-4401-a63d-b605a81cdada)
