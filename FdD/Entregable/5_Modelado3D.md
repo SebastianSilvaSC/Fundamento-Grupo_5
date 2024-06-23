@@ -39,7 +39,7 @@ https://cad.onshape.com/documents/468ec2e1dbb246c14752c4ed/w/d7388b20bd684d0d7fa
 
  ![image](https://github.com/SebastianSilvaSC/Fundamento-Grupo_5/assets/150815171/8ac4aa97-d99d-48f9-a4dc-0ae3aaff64ea)
 
- ![image](https://github.com/SebastianSilvaSC/Fundamento-Grupo_5/assets/150815171/da598f66-e358-4b34-815e-7739df131382)
+ ![image](https://github.com/SebastianSilvaSC/Fundamento-Grupo_5/assets/150815171/3bd8a8cf-5d9d-4d6c-ba2b-4c11f8a9d4d4)
 
 Link
 
