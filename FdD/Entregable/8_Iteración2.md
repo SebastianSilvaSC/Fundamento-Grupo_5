@@ -50,5 +50,5 @@
 
  ![image](https://github.com/SebastianSilvaSC/Fundamento-Grupo_5/assets/150815171/a1e607ca-e36a-4e55-91d3-c2197db52d02)
 
-![image](https://github.com/SebastianSilvaSC/Fundamento-Grupo_5/assets/150815171/88029fc1-f2d7-4a5f-b6a9-4a349925c008)
+ ![image](https://github.com/SebastianSilvaSC/Fundamento-Grupo_5/assets/150815171/2d035bbc-21bf-4fd2-91ff-cc0cf886e412)
 
