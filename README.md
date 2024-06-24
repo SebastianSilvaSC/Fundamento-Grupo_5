@@ -1,7 +1,7 @@
 
 # Fundamentos de Diseño Grupo 5
 # Problemática
-## Explotación y contaminación marina por la actividad humana en el mar de Ancón.
+## "Explotación y contaminación marina por la actividad humana en el mar de Ancón"
 ## ¿Cuál es nuestro ODS?
 ## A) ODS 14
 Los océanos son intrínsecos a nuestra vida en la Tierra. Cubren tres cuartas partes de la superficie terrestre, contienen el 97 % del agua de la Tierra y representan el [99 % del espacio vital del planeta](https://www.un.org/sustainabledevelopment/es/oceans/) por volumen.
