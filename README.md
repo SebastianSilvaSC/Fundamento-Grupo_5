@@ -47,6 +47,10 @@ Correo: Camilla.pacora@upch.pe
 Rol: Coordinadora General de Equipo y Coordinación
 
 ## ¿Que es lo que nos impulsa?
+### Los seres marinos, la protección ambiental y nuestro futuro.
+
+El plástico no solo inunda los océanos, sino también nuestra vida. De acuerdo con el Ministerio del Ambiente, los plásticos representan el 10% de los desechos producidos en Perú. Solo reciclamos alrededor del 0,5% de estos. Si no se implementan políticas que promuevan la disminución de los desechos relacionados con este tema, las cifras seguirán aumentando y nuestra salud enfrentará importantes desafíos en el futuro.
+
 ## ¿Cuál es nuestro ODS?
 ## A) ODS 14
 Los océanos son intrínsecos a nuestra vida en la Tierra. Cubren tres cuartas partes de la superficie terrestre, contienen el 97 % del agua de la Tierra y representan el [99 % del espacio vital del planeta](https://www.un.org/sustainabledevelopment/es/oceans/) por volumen.
