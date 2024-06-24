@@ -96,6 +96,37 @@ Concientizar a la sociedad sobre los efectos perjudiciales de la contaminación,
   4. Luz Clarita Vasco - Coordinadora de modelado 3D y Boceto
   5. Camilla Vanessa Pacora - Coordinadora General de Equipo y Coordinación
 
+# Integrantes
+1. Camilo Sebastián Silva
+   
+Correo: Camilo.silva@upch.pe	
+
+Rol: Coordinador de electrónica y manufactura digital
+
+2. Ciara Méndez Cruz 	
+
+Correo: Ciara.cruzu@pch.pe	
+
+Rol: Coordinadora de repositorio y redacción
+ 
+3. Jhoan Saul Enciso
+
+Correo: Jhoan.enciso@upch.pe	 
+
+Rol: Coordinador de Programación
+
+4. Luz Clarita Vasco
+   
+Correo: Luz.vasco@upch.pe
+
+Rol: Coordinadora de modelado 3D y boceto
+
+5. Camila Vanessa Pacora
+
+Correo: Camilla.pacora@upch.pe
+
+Rol: Coordinadora General de Equipo y Coordinación
+
 
 ![](https://github.com/Kato7w7/Fundamento-Grupo_5/blob/main/FdD/Imagenes/1_Sobre_nosotros/GRUPO.jpeg)
 
