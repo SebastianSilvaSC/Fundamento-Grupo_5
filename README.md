@@ -1,5 +1,11 @@
 
 # Fundamentos de Diseño Grupo 5
+# Integrantes
+  1. Camilo Sebastian Silva - Coordinador de electronica y manufactura digital
+  2. Ciara Mendez Cruz - Coordinadora de repositorio y redacción
+  3. Jhoan Saul Enciso - Coordinador de programación
+  4. Luz Clarita Vasco - Coordinadora de modelado 3D y Boceto
+  5. Camilla Vanessa Pacora - Coordinadora General de Equipo y Coordinación
 # Problemática
 ## "Explotación y contaminación marina por la actividad humana en el mar de Ancón"
 Bienvenidos al repositorio del grupo 5 del curso:"Fundamentos de Diseño"(Enlace a carpeta FdD), nuestro equipo de trabajo presentará todas las evidencias de documentación e información en este espacio cooperativo respetando las fechas de entrega, para así cumplir con el objetivo de nuestro proyecto.
