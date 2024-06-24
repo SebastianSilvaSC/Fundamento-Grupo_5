@@ -29,7 +29,7 @@ Rol: Coordinadora de modelado 3D y boceto
 
 Correo: Camilla.pacora@upch.pe
 
-Rol: Coordinadora General de Equipo y Coordinación.
+Rol: Coordinadora General de Equipo y Coordinación
 
 # Integrantes
   1. Camilo Sebastian Silva - Coordinador de electronica y manufactura digital
