@@ -4,7 +4,10 @@
 # Problemática
 ## "Explotación y contaminación marina por la actividad humana en el mar de Ancón"
 Bienvenidos al repositorio del grupo 5 del curso:"Fundamentos de Diseño"(Enlace a carpeta FdD), nuestro equipo de trabajo presentará todas las evidencias de documentación e información en este espacio cooperativo respetando las fechas de entrega, para así cumplir con el objetivo de nuestro proyecto.
+
+
 ![image](https://github.com/SebastianSilvaSC/Fundamento-Grupo_5/assets/150815171/0ed90e7c-a295-47cd-8f73-7d4f01516bc7)
+
 ## MISION
 Nuestra misión es identificar, analizar y detectar la presencia de partículas de plástico de tamaño diminuto en diferentes entornos, como océanos, ríos, suelos y organismos vivos, ya que estos micro plásticos representan una seria amenaza para el medio ambiente y la salud humana, y pueden ser ingeridos por los animales marinos y entrar en la cadena alimentaria.
 Para llevar a cabo esta misión:
