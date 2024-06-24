@@ -23,7 +23,7 @@ Rol: Coordinador de Programación
    
 Correo: Luz.vasco@upch.pe
 
-Rol: Coordinadora de modelado 3D.
+Rol: Coordinadora de modelado 3D y boceto
 
 5. Camila Vanessa Pacora
 
