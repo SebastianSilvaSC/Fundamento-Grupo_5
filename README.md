@@ -4,6 +4,7 @@
 1. Camilo Sebastián Silva
    
 Correo: Camilo.silva@upch.pe	
+
 Rol: Coordinador de electrónica y manufactura digital.
 
 3. Ciara Méndez Cruz 	
