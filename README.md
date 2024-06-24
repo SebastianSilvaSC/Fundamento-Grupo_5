@@ -72,6 +72,11 @@ Figura 1 Dos de las 17 ODS como Agenda 2030: ODS 6 y 14 según la ONU
 ## Objetivo general:
 Se busca desarrollar un modelo de dispositivo de solución sostenible y eco amigable con el medio ambiente, donde se haga uso de inteligencias múltiples que faciliten el desarrollo del proyecto teniendo presente el ODS 6 “Elemento fundamental para el desarrollo sostenible” y ODS14 “sistema climático mundial”.
 # Carpeta
+- FdD
+- Entregable
+- Hitos
+- 7_Iteración.md
+- Actas de Reuniones  
 # Referencias
 - Moran, M. (2024). Océanos - Desarrollo Sostenible. Desarrollo Sostenible. https://www.un.org/sustainabledevelopment/es/oceans/
   
