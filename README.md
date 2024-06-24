@@ -54,7 +54,8 @@ Rol: Coordinadora General de Equipo y Coordinación
 
 El plástico no solo inunda los océanos, sino también nuestra vida. De acuerdo con el Ministerio del Ambiente, los plásticos representan el 10% de los desechos producidos en Perú. Solo reciclamos alrededor del 0,5% de estos. Si no se implementan políticas que promuevan la disminución de los desechos relacionados con este tema, las cifras seguirán aumentando y nuestra salud enfrentará importantes desafíos en el futuro.
 
-Mas imformacion de porque nos impulsa
+Mas imformacion de porque nos impulsa abarcar los microplasticos en el campo marino:
+
 https://peru.oceana.org/campanas/contaminacion-por-plasticos/#:~:text=El%20pl%C3%A1stico%20inunda%20nuestra%20vida,las%20cifras%20seguir%C3%A1n%20en%20aumento.
 
 ## ¿Cuál es nuestro ODS?
