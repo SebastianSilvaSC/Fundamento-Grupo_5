@@ -4,6 +4,16 @@
 ## "Explotación y contaminación marina por la actividad humana en el mar de Ancón"
 Bienvenidos al repositorio del grupo 5 del curso:"Fundamentos de Diseño"(Enlace a carpeta FdD), nuestro equipo de trabajo presentará todas las evidencias de documentación e información en este espacio cooperativo respetando las fechas de entrega, para así cumplir con el objetivo de nuestro proyecto.
 ![image](https://github.com/SebastianSilvaSC/Fundamento-Grupo_5/assets/150815171/0ed90e7c-a295-47cd-8f73-7d4f01516bc7)
+## MISION
+Nuestra misión es identificar, analizar y detectar la presencia de partículas de plástico de tamaño diminuto en diferentes entornos, como océanos, ríos, suelos y organismos vivos, ya que estos micro plásticos representan una seria amenaza para el medio ambiente y la salud humana, y pueden ser ingeridos por los animales marinos y entrar en la cadena alimentaria.
+Para llevar a cabo esta misión:
+-	Primero utilizaremos diversas técnicas de muestreo y análisis para que se pueda detectar los microplásticos.
+-	Segundo crear modelos y planos con medidas en Onshape.
+Tercera diseñar piezas en la aplicación de Onshape e importar en la aplicación UltiMaker Cura y descargar en formato stl para luego imprimir en impresora 3D y poder construir el modelado.
+-	Cuarta creación de códigos en el lenguaje de C++, indicando cuál sería su función para la detección de microplástico.
+-	Ultimo colocar los componentes electrónicos para que tenga un funcionamiento eficaz.
+## VISION
+Concientizar a la sociedad sobre los efectos perjudiciales de la contaminación, que está afectando a todos los seres marinos del mundo incluyendo a los humanos mismos. Promover iniciativas para reducir la contaminación y liberar microplásticos en el medio ambiente, perseverando así la biodiversidad y garantizando la sostenibilidad de los recursos naturales. Creando un equilibrio ambiental saludable para las generaciones presentes y futuras y logrando Diseñar dispositivos de Inteligencia Artificial con Arduino nano y otros componentes electrónicos para la detección de microplásticos. Este es un objetivo crucial para combatir la contaminación plástica y salvaguardar el planeta.
 # ¿Quienes somo?
 1. Camilo Sebastián Silva
    
