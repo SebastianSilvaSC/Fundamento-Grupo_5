@@ -1,5 +1,6 @@
 
 # Fundamentos de Diseño Grupo 5
+# ¿Como puede algo tan pequeño causar tanto daño?
 # Problemática
 ## "Explotación y contaminación marina por la actividad humana en el mar de Ancón"
 Bienvenidos al repositorio del grupo 5 del curso:"Fundamentos de Diseño"(Enlace a carpeta FdD), nuestro equipo de trabajo presentará todas las evidencias de documentación e información en este espacio cooperativo respetando las fechas de entrega, para así cumplir con el objetivo de nuestro proyecto.
