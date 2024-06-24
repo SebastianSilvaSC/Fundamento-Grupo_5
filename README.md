@@ -1,42 +1,5 @@
 
 # Fundamentos de Diseño Grupo 5
-# Integrantes
-1. Camilo Sebastián Silva
-   
-Correo: Camilo.silva@upch.pe	
-
-Rol: Coordinador de electrónica y manufactura digital
-
-2. Ciara Méndez Cruz 	
-
-Correo: Ciara.cruzu@pch.pe	
-
-Rol: Coordinadora de repositorio y redacción
- 
-3. Jhoan Saul Enciso
-
-Correo: Jhoan.enciso@upch.pe	 
-
-Rol: Coordinador de Programación
-
-4. Luz Clarita Vasco
-   
-Correo: Luz.vasco@upch.pe
-
-Rol: Coordinadora de modelado 3D y boceto
-
-5. Camila Vanessa Pacora
-
-Correo: Camilla.pacora@upch.pe
-
-Rol: Coordinadora General de Equipo y Coordinación
-
-# Integrantes
-  1. Camilo Sebastian Silva - Coordinador de electronica y manufactura digital
-  2. Ciara Mendez Cruz - Coordinadora de repositorio y redacción
-  3. Jhoan Saul Enciso - Coordinador de programación
-  4. Luz Clarita Vasco - Coordinadora de modelado 3D y Boceto
-  5. Camilla Vanessa Pacora - Coordinadora General de Equipo y Coordinación
 # Problemática
 ## "Explotación y contaminación marina por la actividad humana en el mar de Ancón"
 Bienvenidos al repositorio del grupo 5 del curso:"Fundamentos de Diseño"(Enlace a carpeta FdD), nuestro equipo de trabajo presentará todas las evidencias de documentación e información en este espacio cooperativo respetando las fechas de entrega, para así cumplir con el objetivo de nuestro proyecto.
@@ -51,9 +14,6 @@ Tercera diseñar piezas en la aplicación de Onshape e importar en la aplicació
 -	Ultimo colocar los componentes electrónicos para que tenga un funcionamiento eficaz.
 ## VISION
 Concientizar a la sociedad sobre los efectos perjudiciales de la contaminación, que está afectando a todos los seres marinos del mundo incluyendo a los humanos mismos. Promover iniciativas para reducir la contaminación y liberar microplásticos en el medio ambiente, perseverando así la biodiversidad y garantizando la sostenibilidad de los recursos naturales. Creando un equilibrio ambiental saludable para las generaciones presentes y futuras y logrando Diseñar dispositivos de Inteligencia Artificial con Arduino nano y otros componentes electrónicos para la detección de microplásticos. Este es un objetivo crucial para combatir la contaminación plástica y salvaguardar el planeta.
-
-
-
 ## ¿Cuál es nuestro ODS?
 ## A) ODS 14
 Los océanos son intrínsecos a nuestra vida en la Tierra. Cubren tres cuartas partes de la superficie terrestre, contienen el 97 % del agua de la Tierra y representan el [99 % del espacio vital del planeta](https://www.un.org/sustainabledevelopment/es/oceans/) por volumen.
