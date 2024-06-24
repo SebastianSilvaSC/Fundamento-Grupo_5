@@ -3,7 +3,8 @@
 # Problemática
 ## "Explotación y contaminación marina por la actividad humana en el mar de Ancón"
 Bienvenidos al repositorio del grupo 5 del curso:"Fundamentos de Diseño"(Enlace a carpeta FdD), nuestro equipo de trabajo presentará todas las evidencias de documentación e información en este espacio cooperativo respetando las fechas de entrega, para así cumplir con el objetivo de nuestro proyecto.
-![image](https://github.com/SebastianSilvaSC/Fundamento-Grupo_5/assets/150815171/d3394fb5-792d-4bb6-96bc-63d64010af21)
+ ![image](https://github.com/SebastianSilvaSC/Fundamento-Grupo_5/assets/150815171/b77fac27-1496-4ef4-9a5a-064d6ee11345)
+
 
 ## ¿Cuál es nuestro ODS?
 ## A) ODS 14
