@@ -1,30 +1,23 @@
 
 # Fundamentos de Diseño Grupo 5
-
- NOMBRE	CORREO	ROL 
- 
-Camilo Sebastián Silva
-	
+# Integrantes
+1. Camilo Sebastián Silva	
 Camilo.silva@upch.pe	
 Coordinador de electrónica y manufactura digital.
 
-Ciara Méndez Cruz 
-	
+2. Ciara Méndez Cruz 	
 Ciara.cruzu@pch.pe	
 Coordinadora de repositorio y redacción.
  
-Jhoan Saul Enciso
-	
+3. Jhoan Saul Enciso
 Jhoan.enciso@upch.pe	 
 Coordinador de Programación.
 
-Luz Clarita Vasco 
-	
+4. Luz Clarita Vasco 
 Luz.vasco@upch.pe	
 Coordinadora de modelado 3D.
 
-Camila Vanessa Pacora
-	
+5. Camila Vanessa Pacora
 Camilla.pacora@upch.pe	
 Coordinadora General de Equipo y Coordinación.
 
