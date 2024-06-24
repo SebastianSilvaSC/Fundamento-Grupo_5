@@ -15,7 +15,7 @@ Tercera diseñar piezas en la aplicación de Onshape e importar en la aplicació
 -	Ultimo colocar los componentes electrónicos para que tenga un funcionamiento eficaz.
 ## VISION
 Concientizar a la sociedad sobre los efectos perjudiciales de la contaminación, que está afectando a todos los seres marinos del mundo incluyendo a los humanos mismos. Promover iniciativas para reducir la contaminación y liberar microplásticos en el medio ambiente, perseverando así la biodiversidad y garantizando la sostenibilidad de los recursos naturales. Creando un equilibrio ambiental saludable para las generaciones presentes y futuras y logrando Diseñar dispositivos de Inteligencia Artificial con Arduino nano y otros componentes electrónicos para la detección de microplásticos. Este es un objetivo crucial para combatir la contaminación plástica y salvaguardar el planeta.
-# ¿Quienes somos?
+## ¿Quienes somos?
 1. Camilo Sebastián Silva
    
 Correo: Camilo.silva@upch.pe	
