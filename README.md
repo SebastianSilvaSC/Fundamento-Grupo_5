@@ -10,7 +10,7 @@ Nuestra misión es identificar, analizar y detectar la presencia de partículas 
 Para llevar a cabo esta misión:
 -	Primero utilizaremos diversas técnicas de muestreo y análisis para que se pueda detectar los microplásticos.
 -	Segundo crear modelos y planos con medidas en Onshape.
-Tercera diseñar piezas en la aplicación de Onshape e importar en la aplicación UltiMaker Cura y descargar en formato stl para luego imprimir en impresora 3D y poder construir el modelado.
+- Tercera diseñar piezas en la aplicación de Onshape e importar en la aplicación UltiMaker Cura y descargar en formato stl para luego imprimir en impresora 3D y poder construir el modelado.
 -	Cuarta creación de códigos en el lenguaje de C++, indicando cuál sería su función para la detección de microplástico.
 -	Ultimo colocar los componentes electrónicos para que tenga un funcionamiento eficaz.
 ## VISION
