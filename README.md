@@ -2,7 +2,9 @@
 # Fundamentos de Diseño Grupo 5
 # Problemática
 ## "Explotación y contaminación marina por la actividad humana en el mar de Ancón"
-Bienvenidos al repositorio del grupo 5 del curso:"Fundamentos de Diseño"(Enlace a carpeta FdD), nuestro equipo de trabajo presentará toda las evidencias de documentación e información en este espacio cooperativo respetando las fechas de entrega, para así cumplir con el objetivo de nuestro proyecto.
+Bienvenidos al repositorio del grupo 5 del curso:"Fundamentos de Diseño"(Enlace a carpeta FdD), nuestro equipo de trabajo presentará todas las evidencias de documentación e información en este espacio cooperativo respetando las fechas de entrega, para así cumplir con el objetivo de nuestro proyecto.
+![image](https://github.com/SebastianSilvaSC/Fundamento-Grupo_5/assets/150815171/5d8ba52a-9528-4b76-9ff6-6e2de2466563)
+![image](https://github.com/SebastianSilvaSC/Fundamento-Grupo_5/assets/150815171/5d8ba52a-9528-4b76-9ff6-6e2de2466563)
 ## ¿Cuál es nuestro ODS?
 ## A) ODS 14
 Los océanos son intrínsecos a nuestra vida en la Tierra. Cubren tres cuartas partes de la superficie terrestre, contienen el 97 % del agua de la Tierra y representan el [99 % del espacio vital del planeta](https://www.un.org/sustainabledevelopment/es/oceans/) por volumen.
