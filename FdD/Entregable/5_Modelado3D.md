@@ -47,22 +47,13 @@ Enlace Onshape:
 
 https://cad.onshape.com/documents/ce3ddb6531a69f2c9c58607d/w/0b919ff8aca62c3ad23cc67e/e/c371eed05c4c506d8a368780
 
-![image](https://github.com/SebastianSilvaSC/Fundamento-Grupo_5/assets/150815171/b679c7fc-9c83-48fc-b957-1a6cf94f0ece)
+![image](https://github.com/SebastianSilvaSC/Fundamento-Grupo_5/assets/150815171/ed047c90-40c9-4e43-aa68-dd0e78dc5420)
 
-![image](https://github.com/SebastianSilvaSC/Fundamento-Grupo_5/assets/150815171/7ebe2901-3304-4c46-9b7b-37462165f4d4)
+![image](https://github.com/SebastianSilvaSC/Fundamento-Grupo_5/assets/150815171/93296994-56e1-44bc-b039-3572b33d8e74)
 
-![image](https://github.com/SebastianSilvaSC/Fundamento-Grupo_5/assets/150815171/c8822f5d-4356-4aa8-aa6e-844530f08f5d)
+![image](https://github.com/SebastianSilvaSC/Fundamento-Grupo_5/assets/150815171/d1805f91-7ad0-4f94-bba2-46f2effa299d)
 
-![image](https://github.com/SebastianSilvaSC/Fundamento-Grupo_5/assets/150815171/553ef3f3-b1db-42c5-8ab8-2959407ce259)
-
-![image](https://github.com/SebastianSilvaSC/Fundamento-Grupo_5/assets/150815171/3a3b81bd-db26-4c6b-9f28-2bd742a8068a)
-
-![image](https://github.com/SebastianSilvaSC/Fundamento-Grupo_5/assets/150815171/34500dbd-fa54-4a02-9b52-bb13c87556a2)
-
-![image](https://github.com/SebastianSilvaSC/Fundamento-Grupo_5/assets/150815171/8f043679-3bbe-4293-899a-65a1e48648b0)
-
-![image](https://github.com/SebastianSilvaSC/Fundamento-Grupo_5/assets/150815171/fb050cfc-e0e6-4bc3-b9a5-27150b2ffcd6)
-
+![image](https://github.com/SebastianSilvaSC/Fundamento-Grupo_5/assets/150815171/c26aaa84-a743-4761-905f-77655091dcf1)
 
 ![image](https://github.com/SebastianSilvaSC/Fundamento-Grupo_5/assets/150815171/50c4c99a-0567-47c2-ad74-ca9f79fbd3ce)
 
