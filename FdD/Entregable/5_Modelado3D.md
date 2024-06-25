@@ -45,7 +45,7 @@ Link
 
 Enlace Onshape:
 
-https://cad.onshape.com/documents/ce3ddb6531a69f2c9c58607d/w/0b919ff8aca62c3ad23cc67e/e/c371eed05c4c506d8a368780
+https://cad.onshape.com/documents/8b404cf015fc3b5b3b155e0c/w/a61f7b3fa40b2355ba9c1f4e/e/cbb99a46434a55560fb4fb1a?renderMode=0&uiState=667a536784c3b96222bc5f62
 
 ![image](https://github.com/SebastianSilvaSC/Fundamento-Grupo_5/assets/150815171/eb12fda4-0830-4067-a9bd-ad6f46c75831)
 
