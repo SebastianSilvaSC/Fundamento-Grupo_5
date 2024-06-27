@@ -7,3 +7,5 @@
 <p align="center"><img src="https://github.com/SebastianSilvaSC/Fundamento-Grupo_5/blob/main/Proyecto/Imagenes/E9_32.jpg"></p>
 
 <h2 align = "left">2. Verificación de Diseño (Hardware)</h2>
+<p align="center"><img src="https://github.com/SebastianSilvaSC/Fundamento-Grupo_5/blob/main/Proyecto/Imagenes/h_verificación.jpg"></p>
+<p align="center"><img src="https://github.com/SebastianSilvaSC/Fundamento-Grupo_5/blob/main/Proyecto/Imagenes/h_verificación_hardware.jpg"></p>
