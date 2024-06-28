@@ -18,36 +18,6 @@ Para llevar a cabo esta misión:
 -	Ultimo colocar los componentes electrónicos para que tenga un funcionamiento eficaz.
 ## VISION
 Tener un dispositivo que pueda detectar, y asi tener datos exactos de microplasticos que hay en el mar.
-## ¿Quienes somos?
-1. Camilo Sebastián Silva
-   
-Correo: Camilo.silva@upch.pe	
-
-Rol: Coordinador de electrónica y manufactura digital
-
-2. Ciara Méndez Cruz 	
-
-Correo: Ciara.cruzu@pch.pe	
-
-Rol: Coordinadora de repositorio y redacción
- 
-3. Jhoan Saul Enciso
-
-Correo: Jhoan.enciso@upch.pe	 
-
-Rol: Coordinador de Programación
-
-4. Luz Clarita Vasco
-   
-Correo: Luz.vasco@upch.pe
-
-Rol: Coordinadora de modelado 3D y boceto
-
-5. Camila Vanessa Pacora
-
-Correo: Camilla.pacora@upch.pe
-
-Rol: Coordinadora General de Equipo y Coordinación
 
 ## ¿Que es lo que nos impulsa?
 ### Los seres marinos, la protección ambiental y nuestro futuro.
@@ -83,7 +53,38 @@ Se busca desarrollar un modelo de dispositivo de solución sostenible y eco amig
 - Entregable
 - Hitos
 - 7_Iteración.md
-- Actas de Reuniones  
+- Actas de Reuniones
+## ¿Quienes somos?
+1. Camilo Sebastián Silva
+   
+Correo: Camilo.silva@upch.pe	
+
+Rol: Coordinador de electrónica y manufactura digital
+
+2. Ciara Méndez Cruz 	
+
+Correo: Ciara.cruzu@pch.pe	
+
+Rol: Coordinadora de repositorio y redacción
+ 
+3. Jhoan Saul Enciso
+
+Correo: Jhoan.enciso@upch.pe	 
+
+Rol: Coordinador de Programación
+
+4. Luz Clarita Vasco
+   
+Correo: Luz.vasco@upch.pe
+
+Rol: Coordinadora de modelado 3D y boceto
+
+5. Camila Vanessa Pacora
+
+Correo: Camilla.pacora@upch.pe
+
+Rol: Coordinadora General de Equipo y Coordinación
+
 # Referencias
 - Moran, M. (2024). Océanos - Desarrollo Sostenible. Desarrollo Sostenible. https://www.un.org/sustainabledevelopment/es/oceans/
   
