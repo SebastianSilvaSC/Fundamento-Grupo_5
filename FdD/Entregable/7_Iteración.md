@@ -1,7 +1,6 @@
 <h1 align = "center">Iteración</h1>
 <h2 align = "left">- Hardware</h2>
-<img src="https://github.com/SebastianSilvaSC/Fundamento-Grupo_5/blob/main/Proyecto/Imagenes/F_esquemático.png">
-<img src="https://github.com/SebastianSilvaSC/Fundamento-Grupo_5/blob/main/Proyecto/Imagenes/G_esquema.png">
+<img src="https://github.com/SebastianSilvaSC/Fundamento-Grupo_5/blob/main/Proyecto/Imagenes/G_esquematico.png">
 <h2 align = "left">- Software</h2>
 
 <h2 align = "left">a) Diagrama de flujo</h2>
