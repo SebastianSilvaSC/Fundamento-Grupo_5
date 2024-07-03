@@ -4,4 +4,4 @@
 
 <h1 align = "center">Esquemático</h1>
 
-<p><img src="https://github.com/SebastianSilvaSC/Fundamento-Grupo_5/blob/main/Proyecto/Imagenes/F_esquemático.png"></p>
+<p><img src="https://github.com/SebastianSilvaSC/Fundamento-Grupo_5/blob/main/Proyecto/Imagenes/G_esquematico.png"></p>
